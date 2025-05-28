@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
-import { monster_count } from "../data/setting.ts";
+import { monster_count } from "../config/monster_count.ts";
 
 const OUTPUT_DIR = path.join(process.cwd(), "data", "pokemon");
 

@@ -1,9 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
-import { loadTypeMap, translateTypes } from "./translate-type.ts";
-import { monster_count } from "../data/setting.ts";
-
-
+import { translatePokemonTypes } from "../config/pokemon-type-translations.ts";
+import { monster_count } from "../config/monster_count.ts";
 
 const INPUT_DIR = path.join(process.cwd(), "data");
 const OUTPUT_DIR = path.join(INPUT_DIR, "monster");
@@ -45,7 +43,7 @@ function isSpeciesData(data: any): data is SpeciesData {
 }
 
 
-async function buildMonster(id: number, typeMap: Record<string, string>) {
+async function buildMonster(id: number) {
     const pokemonRaw = await fs.readFile(path.join(INPUT_DIR, "pokemon", `${id}.json`), "utf-8");
     const speciesRaw = await fs.readFile(path.join(INPUT_DIR, "species", `${id}.json`), "utf-8");
 
@@ -65,7 +63,7 @@ async function buildMonster(id: number, typeMap: Record<string, string>) {
     const jaName = species.name ?? `unknown`;
 
     const rawTypes = pokemon.types;
-    const jaTypes = translateTypes(rawTypes, typeMap);
+    const jaTypes = translatePokemonTypes(rawTypes);
 
     const image = pokemon.image ?? "";
 
@@ -84,11 +82,9 @@ async function buildMonster(id: number, typeMap: Record<string, string>) {
 }
 
 export async function main() {
-    const typeMap = await loadTypeMap();
-
     for (let id = 1; id <= monster_count; id++) {
         try {
-            await buildMonster(id, typeMap);
+            await buildMonster(id);
         } catch (e) {
             console.warn(`Skipped ${id}: ${e}`);
         }
