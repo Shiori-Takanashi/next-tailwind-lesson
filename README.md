@@ -13,9 +13,9 @@ React + Next.js + TypeScript を学習するための教育用プロジェクト
 
 ## 🚀 クイックスタート
 
-### 必要環境
-- Node.js 18.x 以上
-- npm または yarn
+### 筆者の環境
+- Node.js : ver22.14.0
+- npm : ver10.9.2
 
 ### インストール・実行
 
@@ -23,7 +23,11 @@ React + Next.js + TypeScript を学習するための教育用プロジェクト
 # 依存関係のインストール
 npm install
 
+# 20匹分のmonsterデータがローカルに保存されます！
+npm run all:scripts
+
 # 開発サーバーの起動
+# ローカルにmonsterデータが無いとplaceholderしか出ないよ。
 npm run dev
 ```
 
@@ -70,14 +74,15 @@ scripts/                 # データ準備スクリプト
    - シンプルなリンク集
 
 2. **ランダム表示 v1** (`/monster-random-v1`)
+   - **ランダム性**をAPI側で！！！
    - 本格的な状態管理
    - ローディング表示
    - エラーハンドリング
    - ユーザーフレンドリーなUI
 
 3. **ランダム表示 v2** (`/monster-random-v2`)
-   - 最小限の実装
-   - 学習者向けシンプル版
+   - 開発中
+   - **ランダム性**をフロント側で！！！
 
 ### コンポーネント設計
 
@@ -87,7 +92,10 @@ scripts/                 # データ準備スクリプト
 
 ## 🛠 データ準備
 
-プロジェクトには事前に準備されたデータが含まれていますが、新しいデータを取得したい場合は以下のコマンドを実行してください：
+プロジェクトをcloneしても、データは含まれていません。
+下記のスクリプトを実行すると、データが取得できます。
+統合されたデータでないと、APIで使えません。
+monsterの数はconfigから調節できます。
 
 ```bash
 # 全スクリプトの一括実行
@@ -101,15 +109,22 @@ npm run build:monster   # データ統合
 
 ## 🎓 学習ポイント
 
-### 1. React Hooks の活用
-```typescript
-const [monster, setMonster] = useState<Monster | null>(null);
-const [isLoading, setIsLoading] = useState(false);
+### 1. スタイリングの難しさ
+ - Nextjsはモダンな開発に超便利！！！
+ - でもライブラリと言っても、色々あってわからない、、、
 
-useEffect(() => {
-  fetchMonster();
-}, []);
-```
+ - tailwindcssという詳細なCSSモジュールを導入
+ - JSXにCSSを導入する方法は、沢山！
+
+ - APIからポケモンのデータを取得・表示
+ - カッコイイ表示の実装の難しさを体感
+
+ - ポケモン表示ページを幾つも、作成。
+ - それぞれのページで、異なる手法を採用。
+ - 開発の様々な知識が、ポケモンだけで身につく！
+
+ - 好きなポケモンが表示されると少し嬉しいよ！
+
 
 ### 2. TypeScript による型安全性
 ```typescript
@@ -121,17 +136,15 @@ type Monster = {
 };
 ```
 
-### 3. CSS-in-JS によるスタイリング
+### 3. React Hooks の活用
 ```typescript
-const styles: Record<string, CSSProperties> = {
-  container: {
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-  },
-};
-```
+const [monster, setMonster] = useState<Monster | null>(null);
+const [isLoading, setIsLoading] = useState(false);
 
+useEffect(() => {
+  fetchMonster();
+}, []);
+```
 ### 4. 非同期処理とエラーハンドリング
 ```typescript
 try {
@@ -147,12 +160,13 @@ try {
 ## 🔧 カスタマイズ方法
 
 ### モンスター数の変更
-`config/monster_count.ts` を編集：
+上記の通り、`config/monster_count.ts` を編集：
 ```typescript
 export const monster_count: number = 200; // お好みの数に変更
 ```
 
 ### スタイルの調整
+スタイルを調整することで、CSSを学びましょう。
 各コンポーネントの `styles` オブジェクトを修正：
 ```typescript
 const styles: Record<string, CSSProperties> = {
