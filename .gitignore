@@ -39,7 +39,7 @@ yarn-error.log*
 next-env.d.ts
 
 # bashの自動化スクリプト
-scripts/cmd01.sh
+scripts/_cmd01.sh
 
 # ---------------------------------------------
 
@@ -49,9 +49,9 @@ scripts/cmd01.sh
 ## data/setting.ts や data/mapping/type_mapping.ts を元に生成されます。
 ## リポジトリに含めず、各開発者がローカルで生成します。
 
-data/monster/
-data/pokemon/
-data/species/
+/data/*
+!/data/__note__.txt
+
 
 
 # ---------------------------------------------
