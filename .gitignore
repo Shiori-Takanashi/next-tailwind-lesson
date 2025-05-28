@@ -39,7 +39,7 @@ yarn-error.log*
 next-env.d.ts
 
 # bashの自動化スクリプト
-*.sh
+scripts/cmd01.sh
 
 # ---------------------------------------------
 
