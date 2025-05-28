@@ -1,3 +1,5 @@
+// 一度も変更した覚え無し
+
 import { dirname } from "path";
 import { fileURLToPath } from "url";
 import { FlatCompat } from "@eslint/eslintrc";
