@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "ES2020",
-    "module": "ESNext",
+    "target": "ES2020", // デフォルトからの変更点
+    "module": "ESNext", // デフォルトからの変更点
     "lib": [
       "dom",
       "dom.iterable",
@@ -12,12 +12,12 @@
     "strict": true,
     "noEmit": true,
     "esModuleInterop": true,
-    "moduleResolution": "bundler", // ← ESM向け
+    "moduleResolution": "bundler", // デフォルトからの変更点???
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "allowImportingTsExtensions": true, // ✅ 拡張子付きimport許可
+    "allowImportingTsExtensions": true, // デフォルトからの変更点
     "paths": {
       "@/*": [
         "./src/*"
@@ -28,10 +28,10 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "scripts/**/*.ts",
-    "src/vite-env.d.ts",
+    "scripts/**/*.ts", // デフォルトからの変更点
+    "src/vite-env.d.ts", // デフォルトからの変更点
   ],
   "exclude": [
-    "node_modules"
+    "node_modules", // デフォルトからの変更点???
   ]
 }
