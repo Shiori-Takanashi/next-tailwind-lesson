@@ -1,4 +1,4 @@
-export default function PlaceholderMessage({ message }: { message: string }) {
+export default function PlaceholderMessage({ message }: { message: any }) {
     const styles = {
         placeholder: {
             color: "#666",

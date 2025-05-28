@@ -3,7 +3,14 @@ import { NextPageWithLayout } from "./_app";
 import Layout from "../components/Layout";
 import { CSSProperties } from "react";
 
-const styles: Record<string, CSSProperties> = {
+type Styles = {
+    main: CSSProperties;
+    container: CSSProperties;
+    h1: CSSProperties;
+    listItem: CSSProperties;
+};
+
+const styles: Styles = {
     main: {
         display: "flex",
         flexDirection: "column",
@@ -21,6 +28,12 @@ const styles: Record<string, CSSProperties> = {
         justifyContent: "center",
         backgroundColor: "rgb(205, 242, 255)",
     },
+    h1: {
+        color: "#000000",
+        fontSize: "2.5rem",
+        margin: "2rem 0",
+        fontWeight: 500,
+    },
     listItem: {
         marginBottom: "1rem",
     },
@@ -36,6 +49,9 @@ const Home: NextPageWithLayout = () => {
                     </li>
                     <li style={styles.listItem}>
                         <Link href="/monster-random-v2">ランダム表示（version2）</Link>
+                    </li>
+                    <li style={styles.listItem}>
+                        <Link href="/monster-random-v3">ランダム表示（version3）</Link>
                     </li>
                 </ul>
             </div>

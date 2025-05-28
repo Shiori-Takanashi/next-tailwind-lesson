@@ -1,47 +1,15 @@
 import { useEffect, useState } from "react";
 import MonsterCard from "../components/MonsterCard";
-import PlaceholderMessage from "../components/PlaceholderMessage";
+import PlaceholderMessage from "../components/_PlaceholderMessage";
 import { NextPageWithLayout } from "./_app";
 import Layout from "../components/Layout";
-import { CSSProperties } from "react";
+import styles from "../styles/MonsterRandom.module.css";
 
 type Monster = {
   id: number;
   name: string;
   types: string[];
   image: string;
-};
-
-const styles: Record<string, CSSProperties> = {
-  mainArea: {
-    flexGrow: 1,
-    display: "flex",
-    flexDirection: "column",
-    alignItems: "center",
-  },
-  displayCard: {
-    position: "relative",
-    width: "clamp(260px, 40vw, 320px)",
-    minHeight: "320px",
-    margin: "3rem 0 1rem",
-    padding: "1rem",
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "center",
-    flexDirection: "column",
-    background: "#e3f0ff",
-    border: "1px solid #ddd",
-    borderRadius: "12px",
-    boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-  },
-  button: {
-    padding: "0.5rem 1rem",
-    fontSize: "1rem",
-    background: "#bcceff",
-    borderRadius: "6px",
-    cursor: "pointer",
-    border: "none",
-  },
 };
 
 const MonsterRandomV1Page: NextPageWithLayout = () => {
@@ -71,19 +39,17 @@ const MonsterRandomV1Page: NextPageWithLayout = () => {
   }, []);
 
   return (
-    <main style={styles.mainArea}>
-      <div style={styles.displayCard}>
-        {monster && !isLoading ? (
-          <MonsterCard monster={monster} />
-        ) : (
-          <PlaceholderMessage
-            message={isLoading ? "読み込み中…" : errorMsg ?? "モンスターの情報はまだありません。"}
-          />
-        )}
-      </div>
+    <main className={styles.mainArea}>
+      {monster && !isLoading ? (
+        <MonsterCard monster={monster} />
+      ) : (
+        <PlaceholderMessage
+          message={isLoading ? "読み込み中…" : errorMsg ?? "モンスターの情報はまだありません。"}
+        />
+      )}
 
       <button
-        style={styles.button}
+        className={styles.button}
         onClick={fetchMonster}
         disabled={isLoading}
       >

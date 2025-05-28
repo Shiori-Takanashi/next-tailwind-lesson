@@ -1,6 +1,7 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 import path from 'path';
 import fs from 'fs/promises';
+import { monster_count } from '../../../config/monster_count';
 
 let lastId: number | null = null;
 
@@ -8,7 +9,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     try {
         let id: number;
         do {
-            id = Math.floor(Math.random() * 10) + 1;
+            id = Math.floor(Math.random() * monster_count) + 1;
         } while (id === lastId);
 
         lastId = id; // 生成したIDを記録

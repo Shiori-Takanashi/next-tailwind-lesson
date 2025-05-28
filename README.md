@@ -1,11 +1,8 @@
 # 🚀 Next.js ポケモン学習プロジェクト
 ### モダンWeb開発を「ポケモン」で楽しく学ぶ教育用フルスタックアプリケーション
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-
-React + Next.js + TypeScript を使った**実践的な学習プロジェクト**です。ポケモンという誰もが知っている親しみやすい題材を通して、モダンWeb開発の核心技術を段階的に習得できます。
+React + Next.js + TypeScript を使った**実践的な学習プロジェクト**です。
+ポケモンという親しみやすい題材を通して、モダンWeb開発の核心技術を段階的に習得できます。
 
 ## 🎯 プロジェクトの理念
 
@@ -57,7 +54,7 @@ npm: v8.0.0+ （推奨: v10.9.2）
 ### セットアップ & 実行
 ```bash
 # 1. リポジトリをクローン
-git clone <your-repository-url>
+git clone
 cd next-tailwind-lesson
 
 # 2. 依存関係のインストール
@@ -126,14 +123,13 @@ npm run dev
 - **🔧 ESLint + Prettier**: コード品質の自動化
 - **📦 npm scripts**: タスク自動化
 - **🔄 Hot Reload**: 開発効率の向上
-git clone [repository-url]
-cd next-tailwind-lesson
+
 
 # 依存関係のインストール
 npm install
 
 # ポケモンデータの取得・構築 (初回のみ)
-# 200匹分のポケモンデータがローカルに保存されます
+20匹分のポケモンデータがローカルに保存されます
 npm run all:scripts
 
 # 開発サーバーの起動
@@ -144,37 +140,7 @@ npm run dev
 
 ブラウザで `http://localhost:3000` にアクセスして、ポケモンの世界へ飛び込みましょう！
 
-## 📁 プロジェクトアーキテクチャ
 
-```
-📦 next-tailwind-lesson/
-├── 🎛️ config/                    # 設定・定数管理
-│   ├── monster_count.ts           # データ取得量の設定
-│   └── pokemon-type-translations.ts # 多言語対応マッピング
-├── 📊 data/                       # データストレージ
-│   ├── pokemon/                   # 生ポケモンAPI data (英語)
-│   ├── species/                   # 種族情報 (日本語名含む)
-│   └── monster/                   # 統合済み表示用データ
-├── 🛠️ scripts/                    # データパイプライン
-│   ├── fetch-pokemon.ts           # PokeAPI からのデータ取得
-│   ├── fetch-species.ts           # 多言語種族情報の取得
-│   └── build-monster.ts           # データ統合・変換処理
-└── 🎨 src/                        # アプリケーション本体
-    ├── components/                # 再利用可能UIコンポーネント
-    │   ├── Layout.tsx             # ページレイアウト制御
-    │   ├── Header.tsx             # 統一ヘッダー
-    │   ├── Footer.tsx             # 統一フッター
-    │   ├── MonsterCard.tsx        # ポケモン表示カード
-    │   └── PlaceholderMessage.tsx # 状態表示コンポーネント
-    ├── pages/                     # Next.js ページルーティング
-    │   ├── _app.tsx               # アプリケーショングローバル設定
-    │   ├── index.tsx              # ランディングページ
-    │   ├── monster-random-v1.tsx  # 【実装済み】サーバー側ランダム表示
-    │   └── monster-random-v2.tsx  # 【開発中】クライアント側ランダム表示
-    └── styles/                    # スタイル関連ファイル
-```
-
-## 🎮 機能・ページ解説
 
 ### 🏠 トップページ (`/`)
 **学習内容**: 基本的なNext.jsルーティングとナビゲーション
@@ -188,8 +154,7 @@ npm run dev
 **実装ポイント**:
 - 🌐 **APIルーティング**: Next.js API Routes でランダム選択ロジック
 - 🔄 **状態管理**: useState + useEffect による適切な状態管理
-- ⏳ **UX配慮**: ローディング状態、エラーハンドリング、無効化制御
-- 🎨 **洗練されたUI**: CSS-in-JSによる本格的なカードデザイン
+- 🎨 **UI/UX**: 最低限、整ったスタイリング。
 
 **技術的特徴**:
 ```typescript
@@ -206,16 +171,6 @@ try {
   setErrorMsg("取得に失敗しました");
 }
 ```
-
-### 🎯 ランダム表示 v2 (`/monster-random-v2`) 🚧 開発中
-**学習内容**: クライアント側ロジックとパフォーマンス比較
-
-**予定実装**:
-- 📱 **クライアント側ランダム**: フロントエンドでのデータ選択
-- ⚡ **パフォーマンス比較**: サーバー側 vs クライアント側の体感速度
-- 🔄 **キャッシュ戦略**: データの効率的な管理手法
-
-## 🛠 データパイプライン
 
 ### データフロー概要
 ```
@@ -338,9 +293,6 @@ if (!res.ok) {
 ## 📚 学習リソース
 
 ### 公式ドキュメント
-- [Next.js 公式ガイド](https://nextjs.org/docs) - フレームワーク全体
-- [React 公式ドキュメント](https://react.dev) - Hooks とコンポーネント設計
-- [TypeScript ハンドブック](https://www.typescriptlang.org/docs) - 型システム
 - [PokeAPI ドキュメント](https://pokeapi.co/docs/v2) - データソース仕様
 
 ### 推奨学習パス
@@ -354,7 +306,6 @@ if (!res.ok) {
 - 📝 **ドキュメント改善**: より分かりやすい説明
 - 🐛 **バグ修正**: 動作不良の修正
 - ✨ **機能追加**: 新しい学習コンテンツ
-- 🎨 **UI改善**: より魅力的なデザイン
 - 📚 **学習コンテンツ**: チュートリアル・課題追加
 
 ### 開発フロー

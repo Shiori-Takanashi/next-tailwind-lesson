@@ -1,4 +1,4 @@
-import { CSSProperties } from "react";
+import styles from "../styles/MonsterCard.module.css";
 
 type Props = {
     monster: {
@@ -8,44 +8,48 @@ type Props = {
     };
 };
 
-const styles: Record<string, CSSProperties> = {
-    content: {
-        display: "flex",
-        flexDirection: "column" as const,
-        alignItems: "center",
-    },
-    monsterName: {
-        fontSize: "1.5rem",
-        fontWeight: 700,
-        marginBottom: "0.5rem",
-    },
-    image: {
-        marginTop: "1rem",
-    },
-    monsterTypes: {
-        fontSize: "1.2rem",
-        fontWeight: 700,
-        color: "#8a72ff",
-        marginTop: "1rem",
-    },
-};
-
 export default function MonsterCard({ monster }: Props) {
     return (
-        <>
-            <div style={styles.content}>
-                <h2 style={styles.monsterName}>{monster.name}</h2>
+        <div className={styles.card}>
+            <div className={styles.content}>
+                <h2
+                    className={styles.monsterName}
+                    style={{
+                        ...(monster.name === "---" && { color: "skyblue" })
+                    }}
+                >
+                    {monster.name !== "---" && monster.name}
+                </h2>
+                <div
+                    className={styles.image}
+                    style={{
+                        backgroundColor: monster.image === "---" ? "skyblue" : undefined
+                    }}
+                >
+                    {monster.name !== "---" ? (
+                        <img
+                            src={monster.image}
+                            alt={monster.name}
+                            width={200}
+                            height={200}
+                            style={{ display: "block" }}
+                        />
+                    ) : (
+                        <div style={{ width: "200px", height: "200px" }} />
+                    )}
+                </div>
 
-                <img
-                    src={monster.image}
-                    alt={monster.name}
-                    width={200}
-                    height={200}
-                    style={styles.image}
-                />
-
-                <p style={styles.monsterTypes}>{monster.types.join("　")}</p>
+                <p
+                    className={styles.monsterTypes}
+                    style={{
+                        ...(monster.types?.[0] === "---" && { color: "skyblue" })
+                    }}
+                >
+                    {monster.types?.[0] === "---"
+                        ? "不明"
+                        : monster.types.join("　")}
+                </p>
             </div>
-        </>
+        </div>
     );
 }
