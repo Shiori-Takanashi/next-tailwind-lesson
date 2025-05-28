@@ -1,57 +1,82 @@
+/* 全体 ---------------------------------------------------------- */
 .wrapper {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
     min-height: 100vh;
+    align-items: center;
+    text-align: center;
 }
 
+/* メイン領域 ---------------------------------------------------- */
 .mainArea {
     flex-grow: 1;
-}
-
-.displayCard {
-    min-height: 250px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    background-color: #e3f0ff;
-    border: 1px solid #dddddd;
-    border-radius: 12px;
-    margin-bottom: 1.5rem;
+}
+
+/* カード -------------------------------------------------------- */
+.displayCard {
+    position: relative;
+    /* オーバーレイ配置の基点 */
+    width: clamp(260px, 40vw, 320px);
+    min-height: 320px;
+    margin: 3rem 0 1rem;
     padding: 1rem;
-    width: 20vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    background: var(--card-bg, #e3f0ff);
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0 0 0 / 0.1);
 }
 
-.placeholder {
-    color: #666;
-    font-size: 1rem;
-    user-select: none;
+/* ローディングオーバーレイ ------------------------------------ */
+.loadingOverlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.monsterName {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
+.loadingOverlay::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255 255 255 / 0.6);
 }
 
-.monsterTypes {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #8a72ff;
-    margin-top: 1rem;
+.loadingOverlay::after {
+    content: "";
+    width: 32px;
+    height: 32px;
+    border: 4px solid #8a72ff;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
 }
 
-.image {
-    margin-top: 1rem;
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
 }
 
+/* ボタン -------------------------------------------------------- */
 .button {
     padding: 0.5rem 1rem;
     font-size: 1rem;
-    background-color: #bcceff;
+    background: #bcceff;
     border-radius: 6px;
     cursor: pointer;
-    margin-bottom: 3rem;
+}
+
+.button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
 }

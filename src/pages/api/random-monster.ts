@@ -2,9 +2,17 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import path from 'path';
 import fs from 'fs/promises';
 
+let lastId: number | null = null;
+
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
     try {
-        const id = Math.floor(Math.random() * 10) + 1;
+        let id: number;
+        do {
+            id = Math.floor(Math.random() * 10) + 1;
+        } while (id === lastId);
+
+        lastId = id; // 生成したIDを記録
+
         const filePath = path.join(process.cwd(), 'data', 'monster', `${id}.json`);
         const json = await fs.readFile(filePath, 'utf-8');
         const monster = JSON.parse(json);

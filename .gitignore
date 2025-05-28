@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -39,3 +37,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# ---------------------------------------------
+
+# 自動生成されるポケモンデータファイル
+
+## これらのファイルは `npm run all:scripts` のようなコマンドで
+## data/setting.ts や data/mapping/type_mapping.ts を元に生成されます。
+## リポジトリに含めず、各開発者がローカルで生成します。
+
+data/monster/
+data/pokemon/
+data/species/
+
+
+# ---------------------------------------------

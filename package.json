@@ -8,9 +8,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "all:scripts": "node --loader ts-node/esm scripts/all-scripts_runnning.ts",
     "build:monster": "node --loader ts-node/esm scripts/build-monster.ts",
-    "fetch:pokemon": "ts-node --project tsconfig.json scripts/fetch-pokemon.ts",
-    "fetch:species": "ts-node --project tsconfig.json scripts/fetch-species.ts"
+    "fetch:pokemon": "node --loader ts-node/esm scripts/fetch-pokemon.ts",
+    "fetch:species": "node --loader ts-node/esm scripts/fetch-species.ts"
   },
   "dependencies": {
     "next": "15.3.2",

@@ -1,0 +1,22 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.monsterName {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.image {
+    margin-top: 1rem;
+}
+
+.monsterTypes {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #8a72ff;
+    margin-top: 1rem;
+}

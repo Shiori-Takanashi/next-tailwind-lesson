@@ -1,5 +1,6 @@
 import fs from "fs/promises";
 import path from "path";
+import { monster_count } from "../data/setting.ts";
 
 const OUTPUT_DIR = path.join(process.cwd(), "data", "species");
 
@@ -28,8 +29,8 @@ async function fetchAndSavePokemon(id: number): Promise<void> {
     await fs.writeFile(filePath, JSON.stringify(result, null, 2), "utf-8");
 }
 
-async function main(): Promise<void> {
-    for (let id = 1; id <= 10; id++) {
+export async function main(): Promise<void> {
+    for (let id = 1; id <= monster_count; id++) {
         await fetchAndSavePokemon(id);
         console.log(`saved: ${id}`);
     }

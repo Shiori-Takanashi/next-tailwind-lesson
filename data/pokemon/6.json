@@ -1,9 +1,0 @@
-{
-  "id": 6,
-  "name": "charizard",
-  "types": [
-    "fire",
-    "flying"
-  ],
-  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
-}

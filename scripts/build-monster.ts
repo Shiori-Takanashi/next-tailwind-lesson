@@ -1,6 +1,8 @@
 import fs from "fs/promises";
 import path from "path";
 import { loadTypeMap, translateTypes } from "./translate-type.ts";
+import { monster_count } from "../data/setting.ts";
+
 
 
 const INPUT_DIR = path.join(process.cwd(), "data");
@@ -81,10 +83,10 @@ async function buildMonster(id: number, typeMap: Record<string, string>) {
     console.log(`Built monster: ${id}`);
 }
 
-async function main() {
+export async function main() {
     const typeMap = await loadTypeMap();
 
-    for (let id = 1; id <= 10; id++) {
+    for (let id = 1; id <= monster_count; id++) {
         try {
             await buildMonster(id, typeMap);
         } catch (e) {
