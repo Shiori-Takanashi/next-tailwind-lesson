@@ -1,7 +1,6 @@
 import Header from "./Header";
 import Footer from "./Footer";
-import { ReactNode } from "react";
-import styles from "../styles/Layout.module.css";
+import { ReactNode, CSSProperties } from "react";
 
 type HeaderPropsForLayout = {
     mainTitle: string;
@@ -15,10 +14,23 @@ type LayoutProps = {
     headerProps?: HeaderPropsForLayout;
 };
 
+const styles: Record<string, CSSProperties> = {
+    layoutContainer: {
+        display: "flex",
+        flexDirection: "column",
+        minHeight: "100vh",
+    },
+};
+
 export default function Layout({ children, showHeader = true, showFooter = true, headerProps }: LayoutProps) {
     return (
-        <div className={styles.layoutContainer}>
-            {showHeader && headerProps && <Header {...headerProps} />}
+        <div style={styles.layoutContainer}>
+            {showHeader && (
+                <Header
+                    mainTitle={headerProps?.mainTitle || ""}
+                    subTitle={headerProps?.subTitle || ""}
+                />
+            )}
             {children}
             {showFooter && <Footer />}
         </div>

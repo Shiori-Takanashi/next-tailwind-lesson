@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import Link from "next/link";
+import { NextPageWithLayout } from "./_app";
+import Layout from "../components/Layout";
 
 type Monster = {
   id: number;
@@ -8,7 +10,7 @@ type Monster = {
   image: string;
 };
 
-export default function MonsterRandomV2Page() {
+const MonsterRandomV2Page: NextPageWithLayout = () => {
   const [monster, setMonster] = useState<Monster | null>(null);
 
   const fetchMonster = async () => {
@@ -24,7 +26,6 @@ export default function MonsterRandomV2Page() {
 
   return (
     <div>
-      <h1>ランダムモンスター表示（version2.0）</h1>
       {monster && (
         <div>
           <h2>{monster.name}</h2>
@@ -36,4 +37,21 @@ export default function MonsterRandomV2Page() {
       <div><Link href="/">トップへ</Link></div>
     </div>
   );
-}
+};
+
+MonsterRandomV2Page.getLayout = function getLayout(page: React.ReactElement) {
+  return (
+    <Layout
+      showHeader={true}
+      showFooter={true}
+      headerProps={{
+        mainTitle: "ランダムモンスター表示",
+        subTitle: "version2.0"
+      }}
+    >
+      {page}
+    </Layout>
+  );
+};
+
+export default MonsterRandomV2Page;

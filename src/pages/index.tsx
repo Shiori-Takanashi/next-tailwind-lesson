@@ -1,21 +1,61 @@
 import Link from "next/link";
-import styles from "../styles/Home.module.css";
-import Header from "../components/Header";
+import { NextPageWithLayout } from "./_app";
+import Layout from "../components/Layout";
+import { CSSProperties } from "react";
 
-export default function Home() {
+const styles: Record<string, CSSProperties> = {
+    main: {
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        minHeight: "100vh",
+        padding: "0 2rem",
+    },
+    container: {
+        maxWidth: "800px",
+        width: "80%",
+        minHeight: "60vh",
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        backgroundColor: "rgb(205, 242, 255)",
+    },
+    listItem: {
+        marginBottom: "1rem",
+    },
+};
+
+const Home: NextPageWithLayout = () => {
     return (
-        <main className={styles.main}>
-            <Header mainTitle="Top Page" subTitle="" />
-            <div className={styles.container}>
+        <main style={styles.main}>
+            <div style={styles.container}>
                 <ul>
-                    <li className={styles.listItem}>
+                    <li style={styles.listItem}>
                         <Link href="/monster-random-v1">ランダム表示（version1）</Link>
                     </li>
-                    <li className={styles.listItem}>
+                    <li style={styles.listItem}>
                         <Link href="/monster-random-v2">ランダム表示（version2）</Link>
                     </li>
                 </ul>
             </div>
         </main>
     );
-}
+};
+
+Home.getLayout = function getLayout(page: React.ReactElement) {
+    return (
+        <Layout
+            showHeader={true}
+            showFooter={false}
+            headerProps={{
+                mainTitle: "Top Page",
+                subTitle: ""
+            }}
+        >
+            {page}
+        </Layout>
+    );
+};
+
+export default Home;
