@@ -53,6 +53,12 @@ const Home: NextPageWithLayout = () => {
                     <li style={styles.listItem}>
                         <Link href="/monster-random-v3">ランダム表示（version3）</Link>
                     </li>
+                    <li style={styles.listItem}>
+                        <Link href="/monster-random-v4">ランダム表示（version4）</Link>
+                    </li>
+                    <li style={styles.listItem}>
+                        <Link href="/monster-random-vt4">ランダム表示（version4t）</Link>
+                    </li>
                 </ul>
             </div>
         </main>

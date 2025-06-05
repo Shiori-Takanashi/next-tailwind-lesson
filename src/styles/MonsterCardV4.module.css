@@ -1,0 +1,304 @@
+/* ========================================
+   MonsterCardV4 CSSモジュール
+   Tailwind版を忠実に再現したCSSモジュール版
+   ======================================== */
+
+/* ========================================
+   レイアウト関連のスタイル
+   ======================================== */
+
+/* メインコンテナ - Tailwind: w-full max-w-md mx-auto */
+.container {
+    width: 100%;
+    max-width: clamp(16.8rem, 60vw, 28rem);
+    /* clamp: スマートフォンで60%、最小16.8rem、最大28rem */
+    margin: 1rem;
+}
+
+/* カードベース - Tailwind: border-2 border-blue-200 rounded-2xl shadow-xl p-4 hover:shadow-2xl transition-all duration-300 bg-gradient-to-br from-blue-50 to-indigo-50 */
+.cardBase {
+    border: 2px solid #dbeafe;
+    /* border-blue-200 */
+    border-radius: 1rem;
+    /* rounded-2xl */
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    /* shadow-xl */
+    padding: 1rem;
+    /* p-4 */
+    transition: all 0.3s ease;
+    /* transition-all duration-300 */
+    background: linear-gradient(to bottom right, #eff6ff, #e0e7ff);
+    /* bg-gradient-to-br from-blue-50 to-indigo-50 */
+    aspect-ratio: 4/3;
+    /* アスペクト比を固定 */
+}
+
+/* カードホバー時のエフェクト - Tailwind: hover:shadow-2xl */
+.cardBase:hover {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    /* hover:shadow-2xl */
+}
+
+/* エラー状態のカード背景 - Tailwind: bg-gradient-to-br from-red-50 to-red-100 */
+.cardBaseError {
+    background: linear-gradient(to bottom right, #fef2f2, #fee2e2);
+    /* from-red-50 to-red-100 */
+}
+
+/* グリッドレイアウトコンテンツ - Tailwind: grid grid-rows-[auto_200px_auto] gap-4 h-full min-h-[300px] */
+.content {
+    display: grid;
+    grid-template-rows: auto clamp(120px, 15vw, 200px) auto;
+    /* タイトル、画像、説明の3段構成 - 画像行にclampを適用 */
+    gap: clamp(0.5rem, 2vw, 1rem);
+    /* gap: スマートフォンで小さく、デスクトップで大きく */
+    height: 100%;
+    min-height: clamp(180px, 45vw, 300px);
+    /* 最小高さもレスポンシブに調整 */
+}
+
+/* ========================================
+   テキスト関連のスタイル
+   ======================================== */
+
+/* タイトル共通スタイル - Tailwind: text-2xl font-bold text-center min-h-[1.5rem] flex items-center justify-center */
+.title {
+    font-size: clamp(1.125rem, 3vw, 1.5rem);
+    /* clamp: スマートフォンで小さく、デスクトップで大きく */
+    font-weight: bold;
+    /* font-bold */
+    text-align: center;
+    /* text-center */
+    min-height: 1.5rem;
+    /* min-h-[1.5rem] - 空でも高さを保持 */
+    display: flex;
+    /* flex */
+    align-items: center;
+    /* items-center */
+    justify-content: center;
+    /* justify-center */
+}
+
+/* 説明文共通スタイル - Tailwind: text-lg font-medium text-center min-h-[1.5rem] flex items-center justify-center */
+.description {
+    font-size: clamp(1rem, 2.5vw, 1.125rem);
+    /* clamp: スマートフォンで小さく、デスクトップで大きく */
+    font-weight: 500;
+    /* font-medium */
+    text-align: center;
+    /* text-center */
+    min-height: 1.5rem;
+    /* min-h-[1.5rem] - 空でも高さを保持 */
+    display: flex;
+    /* flex */
+    align-items: center;
+    /* items-center */
+    justify-content: center;
+    /* justify-center */
+}
+
+/* ========================================
+   状態別テキストカラー（Tailwindのカラーパレットに準拠）
+   ======================================== */
+
+/* 通常状態のテキストカラー */
+.titleDefault {
+    color: #1e293b;
+}
+
+/* text-slate-800 */
+.descriptionDefault {
+    color: #4338ca;
+}
+
+/* text-indigo-700 */
+
+/* ローディング状態のテキストカラー */
+.titleLoading {
+    color: #1d4ed8;
+}
+
+/* text-blue-700 */
+.descriptionLoading {
+    color: #2563eb;
+}
+
+/* text-blue-600 */
+
+/* エラー状態のテキストカラー */
+.titleError {
+    color: #b91c1c;
+}
+
+/* text-red-700 */
+.descriptionError {
+    color: #dc2626;
+}
+
+/* text-red-600 */
+
+/* 空状態のテキストカラー */
+.titleEmpty {
+    color: #0284c7;
+}
+
+/* text-sky-700 */
+.descriptionEmpty {
+    color: #0284c7;
+}
+
+/* text-sky-600 */
+
+/* ========================================
+   画像エリア関連のスタイル
+   ======================================== */
+
+/* 画像エリア - Tailwind: relative rounded-xl overflow-hidden w-[200px] h-[200px] mx-auto bg-gradient-to-br from-blue-50 to-indigo-50 */
+.imageArea {
+    position: relative;
+    /* relative */
+    border-radius: 0.75rem;
+    /* rounded-xl */
+    overflow: hidden;
+    /* overflow-hidden */
+    width: clamp(120px, 15vw, 200px);
+    /* clamp: スマートフォンで60%サイズ (120px = 200px * 0.6) */
+    height: clamp(120px, 15vw, 200px);
+    /* clamp: 同様に高さも調整 */
+    margin: 0 auto;
+    /* mx-auto */
+    background: linear-gradient(to bottom right, #eff6ff, #e0e7ff);
+    /* bg-gradient-to-br from-blue-50 to-indigo-50 */
+}
+
+/* エラー状態の画像エリア背景 */
+.imageAreaError {
+    background: linear-gradient(to bottom right, #fef2f2, #fee2e2);
+    /* bg-gradient-to-br from-red-50 to-red-100 */
+}
+
+/* 画像コンテナ - Tailwind: w-full h-full flex items-center justify-center */
+.imageContainer {
+    width: 100%;
+    /* w-full */
+    height: 100%;
+    /* h-full */
+    display: flex;
+    /* flex */
+    align-items: center;
+    /* items-center */
+    justify-content: center;
+    /* justify-center */
+}
+
+/* 画像要素 - Tailwind: w-full h-full object-contain */
+.image {
+    width: 100%;
+    /* w-full */
+    height: 100%;
+    /* h-full */
+    object-fit: contain;
+    /* object-contain - アスペクト比を保持 */
+}
+
+/* ========================================
+   アイコンとメッセージ関連のスタイル
+   ======================================== */
+
+/* エラーアイコンコンテナ - react-icons用 */
+.errorIcon {
+    color: #dc2626;
+    /* text-red-600 */
+    text-align: center;
+    /* text-center */
+}
+
+/* エラーアイコンSVG - Tailwind: w-16 h-16 mx-auto mb-2 */
+.errorIconSvg {
+    width: 4rem;
+    /* w-16 */
+    height: 4rem;
+    /* h-16 */
+    margin: 0 auto 0.5rem auto;
+    /* mx-auto mb-2 */
+}
+
+/* 空状態のメッセージテキスト - Tailwind: text-sky-600 text-2xl font-medium */
+.emptyText {
+    color: #0284c7;
+    /* text-sky-600 */
+    font-size: 1.5rem;
+    /* text-2xl */
+    font-weight: 500;
+    /* font-medium */
+}
+
+/* 画像なしテキスト - Tailwind: text-sky-700 text-sm font-medium */
+.noImageText {
+    color: #0369a1;
+    /* text-sky-700 */
+    font-size: 0.875rem;
+    /* text-sm */
+    font-weight: 500;
+    /* font-medium */
+}
+
+/* ========================================
+   ユーティリティクラス
+   ======================================== */
+
+/* スペーサー要素 - Tailwind: min-h-[1.5rem] */
+.spacer {
+    min-height: 1.5rem;
+    /* min-h-[1.5rem] - 空のスペースを確保 */
+}
+
+/* ========================================
+   レスポンシブ対応 (clampと併用)
+   ======================================== */
+
+/* スマートフォン向けの詳細調整 */
+@media (max-width: 768px) {
+    .container {
+        max-width: 60vw;
+        /* スマートフォンで60%サイズを明示的に指定 */
+        margin: 0.5rem;
+        /* マージンも小さく */
+    }
+
+    .cardBase {
+        padding: 0.75rem;
+        /* パディングを小さく */
+        border-radius: 0.75rem;
+        /* 角丸も小さく */
+    }
+
+    .content {
+        gap: 0.5rem;
+        /* ギャップを固定値で小さく */
+    }
+}
+
+/* iPhone SE など非常に小さなスマートフォン */
+@media (max-width: 375px) {
+    .container {
+        max-width: 65vw;
+        /* より小さな画面では少し大きめに */
+        margin: 0.25rem;
+    }
+
+    .cardBase {
+        padding: 0.5rem;
+        /* さらに小さなパディング */
+    }
+
+    .title {
+        font-size: 1rem;
+        /* タイトルを固定サイズに */
+    }
+
+    .description {
+        font-size: 0.875rem;
+        /* 説明文を固定サイズに */
+    }
+}

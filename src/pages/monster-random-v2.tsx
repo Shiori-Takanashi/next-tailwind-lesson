@@ -42,9 +42,9 @@ const MonsterRandomV2Page: NextPageWithLayout = () => {
       <MonsterCard
         monster={monster || {
           id: 0,
-          name: "---",
-          types: ["---"],
-          image: "---"
+          name: "",
+          types: [],
+          image: ""
         }}
       />
 

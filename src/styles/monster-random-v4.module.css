@@ -1,0 +1,162 @@
+/* ========================================
+   Monster Random V4 Page CSSモジュール
+   Tailwind版（monster-random-vt4.tsx）を忠実に再現
+   ======================================== */
+
+/* ========================================
+   ページレイアウト関連のスタイル
+   ======================================== */
+
+/* メインコンテナ - Tailwind: flex-1 bg-gradient-to-br from-blue-100 via-indigo-50 to-blue-200 py-8 px-4 */
+.main {
+    flex: 1;
+    /* flex-1 - 利用可能な空間を埋める */
+    background: linear-gradient(to bottom right, #dbeafe, #eef2ff, #dbeafe);
+    /* from-blue-100 via-indigo-50 to-blue-200 */
+    padding: 2rem 1rem;
+    /* py-8 px-4 - 縦8、横4のパディング */
+}
+
+/* コンテンツ中央配置コンテナ - Tailwind: max-w-lg mx-auto h-full flex flex-col justify-center */
+.container {
+    max-width: 32rem;
+    /* max-w-lg - 最大幅制限 */
+    margin: 0 auto;
+    /* mx-auto - 水平中央配置 */
+    height: 100%;
+    /* h-full - 親要素の高さを継承 */
+    display: flex;
+    /* flex */
+    flex-direction: column;
+    /* flex-col - 縦方向配置 */
+    justify-content: center;
+    /* justify-center - 垂直中央配置 */
+}
+
+/* ========================================
+   コンポーネント配置関連のスタイル
+   ======================================== */
+
+/* カード表示エリア - Tailwind: flex justify-center mb-8 */
+.cardContainer {
+    display: flex;
+    /* flex */
+    justify-content: center;
+    /* justify-center - 水平中央配置 */
+    margin-bottom: 1rem;
+    /* mb-4 - 下マージンを縮小（iPhone SE対応） */
+}
+
+/* ボタン表示エリア - Tailwind: flex justify-center */
+.buttonContainer {
+    display: flex;
+    /* flex */
+    justify-content: center;
+    /* justify-center - 水平中央配置 */
+}
+
+/* ========================================
+   ボタン関連のスタイル
+   ======================================== */
+
+/*
+ * メインボタンのスタイル定義
+ * Tailwind: px-10 py-4 text-white font-bold rounded-2xl shadow-xl
+ * transition-all duration-300 bg-gradient-to-r from-blue-600 to-indigo-600
+ */
+.button {
+    padding: 1rem 2.5rem;
+    /* px-10 py-4 - 横10、縦4のパディング */
+    color: white;
+    /* text-white */
+    font-weight: bold;
+    /* font-bold */
+    border-radius: 1rem;
+    /* rounded-2xl */
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    /* shadow-xl */
+    transition: all 0.3s ease;
+    /* transition-all duration-300 */
+    border: none;
+    /* ボーダーなし */
+    cursor: pointer;
+    /* ポインターカーソル */
+    font-size: 1rem;
+    /* 標準フォントサイズ */
+    background: linear-gradient(to right, #2563eb, #4f46e5);
+    /* bg-gradient-to-r from-blue-600 to-indigo-600 */
+}
+
+/* ホバー時のエフェクト - Tailwind: hover:from-blue-700 hover:to-indigo-700 hover:shadow-2xl */
+.button:hover:not(:disabled) {
+    background: linear-gradient(to right, #1d4ed8, #4338ca);
+    /* hover:from-blue-700 hover:to-indigo-700 */
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    /* hover:shadow-2xl */
+}
+
+/* 無効化状態のスタイル - Tailwind: bg-gray-400 cursor-not-allowed */
+.button:disabled,
+.buttonDisabled {
+    background: #9ca3af !important;
+    /* bg-gray-400 */
+    cursor: not-allowed !important;
+    /* cursor-not-allowed */
+    transform: none !important;
+    /* ホバーエフェクトを無効化 */
+}
+
+/* 無効化状態でのホバー時も無効化スタイルを維持 */
+.button:disabled:hover,
+.buttonDisabled:hover {
+    background: #9ca3af !important;
+    /* bg-gray-400を維持 */
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25) !important;
+    /* 通常のshadow-xlを維持 */
+    transform: none !important;
+    /* 変形エフェクトなし */
+}
+
+/* ========================================
+   レスポンシブデザイン
+   ======================================== */
+
+/* モバイル端末向けの調整 */
+@media (max-width: 640px) {
+    .main {
+        padding: 1rem 0.5rem;
+        /* py-4 px-2 - モバイル向けパディング調整 */
+    }
+
+    .container {
+        max-width: 100%;
+        /* max-w-full - モバイルでは幅制限を緩める */
+        padding: 0 0.5rem;
+        /* px-2 */
+    }
+
+    .cardContainer {
+        margin-bottom: 0.75rem;
+        /* mb-3 - さらに間隔を縮小 */
+    }
+}
+
+/* iPhone SE (375px幅) 向けの最適化 */
+@media (max-width: 375px) {
+    .main {
+        padding: 0.5rem 0.25rem;
+        /* より小さなパディング */
+    }
+
+    .container {
+        justify-content: flex-start;
+        /* 上詰めレイアウト */
+        padding-top: 0.25rem;
+        /* より上から開始 */
+    }
+
+    .cardContainer {
+        margin-bottom: 0.25rem;
+        /* mb-1 - 間隔を最小に縮小 */
+    }
+}

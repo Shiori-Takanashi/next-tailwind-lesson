@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import MonsterCard from "../components/MonsterCard";
-import PlaceholderMessage from "../components/_PlaceholderMessage";
+import PlaceholderMessage from "../components/PlaceholderMessage";
 import { NextPageWithLayout } from "./_app";
 import Layout from "../components/Layout";
 import styles from "../styles/MonsterRandom.module.css";

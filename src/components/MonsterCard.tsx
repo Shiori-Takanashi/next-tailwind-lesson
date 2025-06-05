@@ -8,25 +8,40 @@ type Props = {
     };
 };
 
+/**
+ * データの有効性をチェックするヘルパー関数
+ * null、undefined、空文字列、マジックストリング "---" を無効とみなす
+ */
+const isValidData = (value: string | string[] | undefined | null): boolean => {
+    if (value === null || value === undefined) return false;
+    if (typeof value === 'string') return value.trim() !== '' && value !== '---';
+    if (Array.isArray(value)) return value.length > 0 && value.some(item => item && item.trim() !== '' && item !== '---');
+    return false;
+};
+
 export default function MonsterCard({ monster }: Props) {
+    const hasValidName = isValidData(monster.name);
+    const hasValidImage = isValidData(monster.image);
+    const hasValidTypes = isValidData(monster.types);
+
     return (
         <div className={styles.card}>
             <div className={styles.content}>
                 <h2
                     className={styles.monsterName}
                     style={{
-                        ...(monster.name === "---" && { color: "skyblue" })
+                        ...(!hasValidName && { color: "skyblue" })
                     }}
                 >
-                    {monster.name !== "---" && monster.name}
+                    {hasValidName ? monster.name : "名前不明"}
                 </h2>
                 <div
                     className={styles.image}
                     style={{
-                        backgroundColor: monster.image === "---" ? "skyblue" : undefined
+                        backgroundColor: !hasValidImage ? "skyblue" : undefined
                     }}
                 >
-                    {monster.name !== "---" ? (
+                    {hasValidImage ? (
                         <img
                             src={monster.image}
                             alt={monster.name}
@@ -42,12 +57,10 @@ export default function MonsterCard({ monster }: Props) {
                 <p
                     className={styles.monsterTypes}
                     style={{
-                        ...(monster.types?.[0] === "---" && { color: "skyblue" })
+                        ...(!hasValidTypes && { color: "skyblue" })
                     }}
                 >
-                    {monster.types?.[0] === "---"
-                        ? "不明"
-                        : monster.types.join("　")}
+                    {hasValidTypes ? monster.types.join("　") : "タイプ不明"}
                 </p>
             </div>
         </div>

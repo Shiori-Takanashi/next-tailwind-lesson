@@ -9,7 +9,7 @@ const styles: Record<string, CSSProperties> = {
         alignItems: "center",
         justifyContent: "center",
         width: "100%",
-        height: "clamp(64px, 15vh, 160px)",
+        height: "clamp(64px, 10vh, 120px)",
         paddingBlock: "clamp(1rem, 2vw, 3rem)",
         backgroundColor: "#f0f0f0",
         boxSizing: "border-box",
@@ -24,8 +24,9 @@ const styles: Record<string, CSSProperties> = {
     },
     footerText: {
         color: "#000000",
-        fontSize: "clamp(0.5rem, 0.8vw, 1rem)",
+        fontSize: "clamp(0.6rem, 0.8vw, 1rem)",
         fontWeight: 500,
+        marginTop: "0.5rem"
     },
 };
 
