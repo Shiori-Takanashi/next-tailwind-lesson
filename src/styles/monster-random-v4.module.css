@@ -13,8 +13,8 @@
     /* flex-1 - 利用可能な空間を埋める */
     background: linear-gradient(to bottom right, #dbeafe, #eef2ff, #dbeafe);
     /* from-blue-100 via-indigo-50 to-blue-200 */
-    padding: 2rem 1rem;
-    /* py-8 px-4 - 縦8、横4のパディング */
+    padding: 1rem;
+    /* py-4 px-4 - 縦、横4のパディング */
 }
 
 /* コンテンツ中央配置コンテナ - Tailwind: max-w-lg mx-auto h-full flex flex-col justify-center */

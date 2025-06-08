@@ -14,11 +14,18 @@ import styles from '../styles/MonsterCardV4.module.css';
  * @property {string[]} types - モンスターのタイプ一覧（複数可）
  * @property {string} image - モンスター画像のURL
  */
-type Monster = {
+interface Monster {
     name: string;
     types: string[];
     image: string;
-};
+}
+
+interface ValidatedMonster {
+    hasValidName: boolean;
+    hasValidImage: boolean;
+    hasValidTypes: boolean;
+}
+
 
 /**
  * MonsterCardV4コンポーネントのプロパティ
@@ -28,7 +35,7 @@ type Monster = {
  * @property {Monster | null} monster - 表示するモンスターデータ
  * @property {boolean} showSpinner - スピナー表示フラグ（遅延表示制御）
  */
-type MonsterCardProps = {
+interface MonsterCardProps {
     isLoading: boolean;
     error: string | null;
     monster: Monster | null;
@@ -71,7 +78,7 @@ const isValidData = (value: string | string[] | undefined | null): boolean => {
  * @param monster - 検証対象のモンスターデータ
  * @returns {Object} 各フィールドの有効性を示すオブジェクト
  */
-const validateMonsterData = (monster: Monster | null) => {
+const validateMonsterData = (monster: Monster | null): ValidatedMonster => {
     if (!monster) {
         return {
             hasValidName: false,
@@ -214,8 +221,10 @@ const MonsterCardV4: React.FC<MonsterCardProps> = ({ isLoading, error, monster, 
                     {/* 準備中メッセージ表示エリア */}
                     <div className={styles.imageArea}>
                         <div className={styles.imageContainer}>
-                            <div className={styles.emptyText}>
-                                {isInvisible ? "" : PLACEHOLDER_TEXT}
+                            <div
+                                className={`${styles.emptyText} ${isInvisible ? styles.isInvisible : ""}`}
+                            >
+                                {PLACEHOLDER_TEXT}
                             </div>
                         </div>
                     </div>
