@@ -7,94 +7,81 @@
    レイアウト関連のスタイル
    ======================================== */
 
-/* メインコンテナ - Tailwind: w-full max-w-md mx-auto */
+/* メインコンテナ - ビューポート対応 */
 .container {
     width: 100%;
-    max-width: clamp(16.8rem, 60vw, 28rem);
-    /* clamp: スマートフォンで60%、最小16.8rem、最大28rem */
-    margin: 1rem;
+    max-width: 90vw;
+    margin: 0.5rem auto;
+    padding: clamp(0.25rem, 1vw, 0.75rem);
+    /* シャドウのための余白を確保 */
+    overflow: visible;
+    /* シャドウが見切れないようにする */
+    display: flex;
+    justify-content: center;
+    /* 水平方向の中央配置 */
 }
 
-/* カードベース - Tailwind: border-2 border-blue-200 rounded-2xl shadow-xl p-4 hover:shadow-2xl transition-all duration-300 bg-gradient-to-br from-blue-50 to-indigo-50 */
+/* カードベース - ビューポート対応 */
 .cardBase {
     border: 2px solid #dbeafe;
-    /* border-blue-200 */
     border-radius: 1rem;
-    /* rounded-2xl */
-    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-    /* shadow-xl */
-    padding: 1rem;
-    /* p-4 */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15), 0 20px 40px rgba(0, 0, 0, 0.1);
+    padding: 0.75rem;
     transition: all 0.3s ease;
-    /* transition-all duration-300 */
     background: linear-gradient(to bottom right, #eff6ff, #e0e7ff);
-    /* bg-gradient-to-br from-blue-50 to-indigo-50 */
-    aspect-ratio: 4/3;
-    /* アスペクト比を固定 */
+    height: 100%;
+    position: relative;
+    /* z-indexのベースを確保 */
+    z-index: 1;
 }
 
-/* カードホバー時のエフェクト - Tailwind: hover:shadow-2xl */
+/* カードホバー時のエフェクト */
 .cardBase:hover {
-    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
-    /* hover:shadow-2xl */
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2), 0 25px 50px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+    /* 軽いホバーエフェクト */
+    z-index: 2;
 }
 
-/* エラー状態のカード背景 - Tailwind: bg-gradient-to-br from-red-50 to-red-100 */
+/* エラー状態のカード背景 */
 .cardBaseError {
     background: linear-gradient(to bottom right, #fef2f2, #fee2e2);
-    /* from-red-50 to-red-100 */
 }
 
-/* グリッドレイアウトコンテンツ - Tailwind: grid grid-rows-[auto_200px_auto] gap-4 h-full min-h-[300px] */
+/* グリッドレイアウトコンテンツ - ビューポート対応 */
 .content {
     display: grid;
-    grid-template-rows: auto clamp(120px, 15vw, 200px) auto;
-    /* タイトル、画像、説明の3段構成 - 画像行にclampを適用 */
-    gap: clamp(0.5rem, 2vw, 1rem);
-    /* gap: スマートフォンで小さく、デスクトップで大きく */
+    grid-template-rows: auto 1fr auto;
+    gap: 0.5rem;
     height: 100%;
-    min-height: clamp(180px, 45vw, 300px);
-    /* 最小高さもレスポンシブに調整 */
 }
 
 /* ========================================
    テキスト関連のスタイル
    ======================================== */
 
-/* タイトル共通スタイル - Tailwind: text-2xl font-bold text-center min-h-[1.5rem] flex items-center justify-center */
+/* タイトル共通スタイル - ビューポート対応 */
 .title {
-    font-size: clamp(1.125rem, 3vw, 1.5rem);
-    /* clamp: スマートフォンで小さく、デスクトップで大きく */
+    font-size: clamp(0.875rem, 3vw, 1.25rem);
     font-weight: bold;
-    /* font-bold */
     text-align: center;
-    /* text-center */
-    min-height: 1.5rem;
-    /* min-h-[1.5rem] - 空でも高さを保持 */
+    min-height: clamp(1rem, 4vw, 1.5rem);
     display: flex;
-    /* flex */
     align-items: center;
-    /* items-center */
     justify-content: center;
-    /* justify-center */
+    line-height: 1.2;
 }
 
-/* 説明文共通スタイル - Tailwind: text-lg font-medium text-center min-h-[1.5rem] flex items-center justify-center */
+/* 説明文共通スタイル - ビューポート対応 */
 .description {
-    font-size: clamp(1rem, 2.5vw, 1.125rem);
-    /* clamp: スマートフォンで小さく、デスクトップで大きく */
+    font-size: clamp(0.75rem, 2.5vw, 1rem);
     font-weight: 500;
-    /* font-medium */
     text-align: center;
-    /* text-center */
-    min-height: 1.5rem;
-    /* min-h-[1.5rem] - 空でも高さを保持 */
+    min-height: clamp(0.875rem, 3vw, 1.25rem);
     display: flex;
-    /* flex */
     align-items: center;
-    /* items-center */
     justify-content: center;
-    /* justify-center */
+    line-height: 1.2;
 }
 
 /* ========================================
@@ -106,208 +93,512 @@
     color: #1e293b;
 }
 
-/* text-slate-800 */
 .descriptionDefault {
     color: #4338ca;
 }
-
-/* text-indigo-700 */
 
 /* ローディング状態のテキストカラー */
 .titleLoading {
     color: #1d4ed8;
 }
 
-/* text-blue-700 */
 .descriptionLoading {
     color: #2563eb;
 }
-
-/* text-blue-600 */
 
 /* エラー状態のテキストカラー */
 .titleError {
     color: #b91c1c;
 }
 
-/* text-red-700 */
 .descriptionError {
     color: #dc2626;
 }
-
-/* text-red-600 */
 
 /* 空状態のテキストカラー */
 .titleEmpty {
     color: #0284c7;
 }
 
-/* text-sky-700 */
 .descriptionEmpty {
     color: #0284c7;
 }
-
-/* text-sky-600 */
 
 /* ========================================
    画像エリア関連のスタイル
    ======================================== */
 
-/* 画像エリア - Tailwind: relative rounded-xl overflow-hidden w-[200px] h-[200px] mx-auto bg-gradient-to-br from-blue-50 to-indigo-50 */
+/* 画像エリア - ビューポート対応 */
 .imageArea {
     position: relative;
-    /* relative */
     border-radius: 0.75rem;
-    /* rounded-xl */
     overflow: hidden;
-    /* overflow-hidden */
-    width: clamp(120px, 15vw, 200px);
-    /* clamp: スマートフォンで60%サイズ (120px = 200px * 0.6) */
-    height: clamp(120px, 15vw, 200px);
-    /* clamp: 同様に高さも調整 */
+    width: 100%;
+    height: 100%;
     margin: 0 auto;
-    /* mx-auto */
     background: linear-gradient(to bottom right, #eff6ff, #e0e7ff);
-    /* bg-gradient-to-br from-blue-50 to-indigo-50 */
+    min-height: clamp(80px, 15vw, 120px);
+    max-height: clamp(120px, 25vw, 200px);
 }
 
 /* エラー状態の画像エリア背景 */
 .imageAreaError {
     background: linear-gradient(to bottom right, #fef2f2, #fee2e2);
-    /* bg-gradient-to-br from-red-50 to-red-100 */
 }
 
-/* 画像コンテナ - Tailwind: w-full h-full flex items-center justify-center */
+/* 画像コンテナ */
 .imageContainer {
     width: 100%;
-    /* w-full */
     height: 100%;
-    /* h-full */
     display: flex;
-    /* flex */
     align-items: center;
-    /* items-center */
     justify-content: center;
-    /* justify-center */
 }
 
-/* 画像要素 - Tailwind: w-full h-full object-contain */
+/* 画像要素 */
 .image {
     width: 100%;
-    /* w-full */
     height: 100%;
-    /* h-full */
     object-fit: contain;
-    /* object-contain - アスペクト比を保持 */
 }
 
 /* ========================================
    アイコンとメッセージ関連のスタイル
    ======================================== */
 
-/* エラーアイコンコンテナ - react-icons用 */
+/* エラーアイコンコンテナ */
 .errorIcon {
     color: #dc2626;
-    /* text-red-600 */
     text-align: center;
-    /* text-center */
 }
 
-/* エラーアイコンSVG - Tailwind: w-16 h-16 mx-auto mb-2 */
+/* エラーアイコンSVG - ビューポート対応 */
 .errorIconSvg {
-    width: 4rem;
-    /* w-16 */
-    height: 4rem;
-    /* h-16 */
-    margin: 0 auto 0.5rem auto;
-    /* mx-auto mb-2 */
+    width: clamp(2rem, 6vw, 3rem);
+    height: clamp(2rem, 6vw, 3rem);
+    margin: 0 auto 0.25rem auto;
 }
 
-/* 追加　*/
+/* 非表示用 */
 .invisible {
     opacity: 0;
     pointer-events: none;
     user-select: none;
 }
 
-/* 空状態のメッセージテキスト - Tailwind: text-sky-600 text-2xl font-medium */
+/* 空状態のメッセージテキスト - ビューポート対応 */
 .emptyText {
     color: #0284c7;
-    font-size: 1.5rem;
+    font-size: clamp(1rem, 3.5vw, 1.25rem);
     font-weight: 500;
-    min-height: 1.8rem;
-    /* 明示的な高さ確保 */
+    min-height: clamp(1.25rem, 4vw, 1.5rem);
     display: flex;
     align-items: center;
     justify-content: center;
+    line-height: 1.2;
 }
 
-/* 画像なしテキスト - Tailwind: text-sky-700 text-sm font-medium */
+/* 画像なしテキスト */
 .noImageText {
     color: #0369a1;
-    /* text-sky-700 */
-    font-size: 0.875rem;
-    /* text-sm */
+    font-size: clamp(0.625rem, 2vw, 0.75rem);
     font-weight: 500;
-    /* font-medium */
 }
 
 /* ========================================
    ユーティリティクラス
    ======================================== */
 
-/* スペーサー要素 - Tailwind: min-h-[1.5rem] */
+/* スペーサー要素 */
 .spacer {
-    min-height: 1.5rem;
-    /* min-h-[1.5rem] - 空のスペースを確保 */
+    min-height: clamp(0.75rem, 2vw, 1rem);
 }
 
 /* ========================================
-   レスポンシブ対応 (clampと併用)
+   縦長スマートフォン向け（Pixel 7など: 412x915）
    ======================================== */
-
-/* スマートフォン向けの詳細調整 */
-@media (max-width: 768px) {
+@media (min-width: 400px) and (max-width: 430px) and (min-height: 850px) {
     .container {
-        max-width: 60vw;
-        /* スマートフォンで60%サイズを明示的に指定 */
-        margin: 0.5rem;
-        /* マージンも小さく */
+        max-width: 85vw;
+        margin: 0.75rem auto;
+        padding: 0.75rem;
+        /* シャドウのための余白を十分に確保 */
+        display: flex;
+        justify-content: center;
+        /* 完全な中央配置 */
+    }
+
+    .cardBase {
+        padding: 1rem;
+        border-radius: 1.125rem;
+        min-height: 380px;
+        max-height: 430px;
+        /* 最大高さを制限 */
+        /* カードを大きく */
+        overflow: hidden;
+        /* はみ出し防止 */
+    }
+
+    .content {
+        gap: 0.875rem;
+        min-height: 350px;
+        max-height: 400px;
+        /* 最大高さを制限 */
+        /* コンテンツエリアを大きく */
+    }
+
+    .title {
+        font-size: 1.375rem;
+        /* タイトルを大きく */
+        min-height: 1.75rem;
+        line-height: 1.3;
+    }
+
+    .description {
+        font-size: 1.125rem;
+        /* 説明文を大きく */
+        min-height: 1.5rem;
+        line-height: 1.3;
+    }
+
+    .imageArea {
+        min-height: 200px;
+        /* 画像エリアを大きく */
+        max-height: 260px;
+    }
+
+    .errorIconSvg {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .emptyText {
+        font-size: 1.375rem;
+        min-height: 1.75rem;
+    }
+}
+
+/* ========================================
+   一般的な縦長スマートフォン向け（高さ850px以上）
+   ======================================== */
+@media (min-height: 850px) and (max-width: 430px) {
+    .container {
+        max-width: 88vw;
+        margin: 0.625rem auto;
+        padding: 0.625rem;
+        /* シャドウのための余白を確保 */
+        display: flex;
+        justify-content: center;
+        /* 完全な中央配置 */
+    }
+
+    .cardBase {
+        padding: 0.875rem;
+        border-radius: 1.125rem;
+        min-height: 330px;
+        max-height: 380px;
+        /* 最大高さを制限 */
+        overflow: hidden;
+        /* はみ出し防止 */
+    }
+
+    .content {
+        gap: 0.75rem;
+        min-height: 300px;
+        max-height: 350px;
+        /* 最大高さを制限 */
+    }
+
+    .title {
+        font-size: 1.25rem;
+        min-height: 1.5rem;
+        line-height: 1.3;
+    }
+
+    .description {
+        font-size: 1rem;
+        min-height: 1.25rem;
+        line-height: 1.3;
+    }
+
+    .imageArea {
+        min-height: 160px;
+        max-height: 220px;
+    }
+
+    .errorIconSvg {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .emptyText {
+        font-size: 1.25rem;
+        min-height: 1.5rem;
+    }
+}
+
+/* ========================================
+   iPhone 12 Pro向け（390x844）縦長デバイス最適化
+   ======================================== */
+@media (min-width: 375px) and (max-width: 414px) and (min-height: 800px) {
+    .container {
+        max-width: 85vw;
+        margin: 0.5rem auto;
+        padding: 0.625rem;
+        /* シャドウのための余白を確保 */
+        display: flex;
+        justify-content: center;
+        /* 完全な中央配置 */
+    }
+
+    .cardBase {
+        padding: 0.875rem;
+        border-radius: 1.125rem;
+        min-height: 350px;
+        /* 高さを下げて余裕を持たせる */
+        max-height: 400px;
+        /* 最大高さを制限 */
+        aspect-ratio: 3/4;
+        overflow: hidden;
+        /* はみ出し防止 */
+    }
+
+    .content {
+        gap: 0.625rem;
+        min-height: 320px;
+        /* コンテンツ高さを調整 */
+        max-height: 370px;
+        /* 最大高さを制限 */
+        grid-template-rows: auto 2.2fr auto;
+        /* 画像エリア比率を調整 */
+    }
+
+    .title {
+        font-size: 1.25rem;
+        /* フォントサイズを調整 */
+        min-height: 1.625rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+
+    .description {
+        font-size: 1rem;
+        /* フォントサイズを調整 */
+        min-height: 1.375rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+
+    .imageArea {
+        min-height: 180px;
+        /* 画像高さを調整 */
+        max-height: 240px;
+        border-radius: 0.875rem;
+    }
+
+    .errorIconSvg {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .emptyText {
+        font-size: 1.25rem;
+        /* フォントサイズを調整 */
+        min-height: 1.625rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+
+    .noImageText {
+        font-size: 0.75rem;
+    }
+}
+
+/* ========================================
+   一般的な縦長スマートフォン（375px-414px, 高さ750px以上）
+   ======================================== */
+@media (min-width: 375px) and (max-width: 414px) and (min-height: 750px) and (max-height: 799px) {
+    .container {
+        max-width: 85vw;
+        margin: 0.5rem auto;
+    }
+
+    .cardBase {
+        padding: 1rem;
+        border-radius: 1.125rem;
+        min-height: 380px;
+        max-height: 420px;
+        /* 最大高さを制限 */
+        aspect-ratio: 3/4;
+        overflow: hidden;
+    }
+
+    .content {
+        gap: 0.875rem;
+        min-height: 350px;
+        max-height: 390px;
+        /* 最大高さを制限 */
+        grid-template-rows: auto 2.3fr auto;
+    }
+
+    .title {
+        font-size: 1.25rem;
+        min-height: 1.625rem;
+        line-height: 1.3;
+    }
+
+    .description {
+        font-size: 1rem;
+        min-height: 1.375rem;
+        line-height: 1.3;
+    }
+
+    .imageArea {
+        min-height: 200px;
+        max-height: 260px;
+    }
+
+    .errorIconSvg {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .emptyText {
+        font-size: 1.25rem;
+        min-height: 1.625rem;
+    }
+}
+
+/* ========================================
+   小型スマートフォン向け（320px - 374px）
+   ======================================== */
+@media (min-width: 320px) and (max-width: 374px) {
+    .container {
+        max-width: 90vw;
+        margin: 0.5rem auto;
+        padding: 0.5rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    .cardBase {
+        padding: 1rem;
+        border-radius: 1rem;
+        min-height: 320px;
+        max-height: 380px;
+        aspect-ratio: 3/4;
+    }
+
+    .content {
+        gap: 0.75rem;
+        min-height: 280px;
+        max-height: 340px;
+        grid-template-rows: auto 2.2fr auto;
+    }
+
+    .title {
+        font-size: 1.25rem;
+        min-height: 1.625rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+
+    .description {
+        font-size: 1rem;
+        min-height: 1.375rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+
+    .imageArea {
+        min-height: 160px;
+        max-height: 220px;
+        border-radius: 0.75rem;
+    }
+
+    .errorIconSvg {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .emptyText {
+        font-size: 1.125rem;
+        min-height: 1.5rem;
+        font-weight: 600;
+        line-height: 1.3;
+    }
+
+    .noImageText {
+        font-size: 0.75rem;
+    }
+}
+
+/* ========================================
+   Galaxy S8+ 専用（360x740）- フッターが見えるようカードを縮小
+   ======================================== */
+@media (min-width: 358px) and (max-width: 362px) and (min-height: 735px) and (max-height: 745px) {
+    .container {
+        max-width: 85vw;
+        margin: 0.5rem auto;
+        padding: 0.5rem;
+        display: flex;
+        justify-content: center;
     }
 
     .cardBase {
         padding: 0.75rem;
-        /* パディングを小さく */
-        border-radius: 0.75rem;
-        /* 角丸も小さく */
+        border-radius: 1rem;
+        min-height: 280px;
+        /* カードをさらに縮小してフッター領域を確保 */
+        max-height: 320px;
+        aspect-ratio: 3/4;
+        /* 縦長比率を維持 */
     }
 
     .content {
         gap: 0.5rem;
-        /* ギャップを固定値で小さく */
-    }
-}
-
-/* iPhone SE など非常に小さなスマートフォン */
-@media (max-width: 375px) {
-    .container {
-        max-width: 65vw;
-        /* より小さな画面では少し大きめに */
-        margin: 0.25rem;
-    }
-
-    .cardBase {
-        padding: 0.5rem;
-        /* さらに小さなパディング */
+        min-height: 240px;
+        max-height: 280px;
+        grid-template-rows: auto 1.8fr auto;
+        /* 画像エリアの比率を調整 */
     }
 
     .title {
-        font-size: 1rem;
-        /* タイトルを固定サイズに */
+        font-size: 1.25rem;
+        /* タイトルサイズを調整 */
+        min-height: 1.5rem;
+        font-weight: 600;
+        line-height: 1.2;
     }
 
     .description {
-        font-size: 0.875rem;
-        /* 説明文を固定サイズに */
+        font-size: 1rem;
+        /* 説明文サイズを調整 */
+        min-height: 1.25rem;
+        font-weight: 500;
+        line-height: 1.2;
+    }
+
+    .imageArea {
+        min-height: 140px;
+        /* 画像エリアをさらに縮小 */
+        max-height: 180px;
+        border-radius: 0.75rem;
+    }
+
+    .errorIconSvg {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .emptyText {
+        font-size: 1.25rem;
+        min-height: 1.5rem;
+        font-weight: 500;
+        line-height: 1.2;
+    }
+
+    .noImageText {
+        font-size: 0.75rem;
     }
 }

@@ -1,0 +1,163 @@
+# Next.js + TailwindCSS プロジェクト分析 - hint.txt
+
+## ページ数: 7ページ（+ 6個のAPIエンドポイント）
+
+### フロントエンドページ (7ページ)
+1. `/` (index.tsx) - ホームページ・ランディングページ
+2. `/monster-list` (monster-list.tsx) - モンスター一覧表示ページ
+3. `/monster-random-v1` (monster-random-v1.tsx) - ランダムモンスター表示（基本版）
+4. `/monster-random-v2` (monster-random-v2.tsx) - ランダムモンスター表示（改良版）
+5. `/monster-random-v3` (monster-random-v3.tsx) - ランダムモンスター表示（画像プリロード対応）
+6. `/monster-random-v4` (monster-random-v4.tsx) - ランダムモンスター表示（最新版・APIテストパネル付き）
+7. `/monster-random-vt4` (monster-random-vt4.tsx) - ランダムモンスター表示（テスト版）
+8. `/pokemon-stats` (pokemon-stats.tsx) - ポケモン統計表示ページ
+
+### APIエンドポイント (6個)
+1. `/api/random-monster` - 標準のランダムモンスター取得API
+2. `/api/random-monster-delay` - 遅延ありランダムモンスター取得API
+3. `/api/random-monster-invalid` - 無効データ返却API（テスト用）
+4. `/api/random-monster-invalid-delay` - 遅延あり無効データ返却API（テスト用）
+5. `/api/random-monster-timeout` - タイムアウト発生API（テスト用）
+6. `/api/monster/[id]` - 個別モンスター取得API（動的ルート）
+
+## コンポーネント数: 12個
+
+### レイアウト系コンポーネント (3個)
+1. `Layout.tsx` - 全体レイアウト（Header + Footer + children）
+2. `Header.tsx` - ページヘッダー（タイトル表示）
+3. `Footer.tsx` - ページフッター（ナビゲーション・著作権表示）
+
+### モンスターカード系コンポーネント (6個)
+4. `MonsterCard.tsx` - 基本モンスターカード（名前・タイプ・画像表示）
+5. `MonsterCardV4.tsx` - V4版モンスターカード（改良版）
+6. `MonsterCardVt4.tsx` - Vt4版モンスターカード（テスト版）
+7. `MonsterCardEmpty.tsx` - データなし状態のモンスターカード
+8. `MonsterCardLoading.tsx` - ローディング状態のモンスターカード
+9. `MonsterCardError.tsx` - エラー状態のモンスターカード
+
+### その他コンポーネント (3個)
+10. `MonsterList.tsx` - モンスター一覧表示コンポーネント
+11. `PlaceholderMessage.tsx` - プレースホルダーメッセージ表示
+12. `ApiTestPanel.tsx` - API テストパネル（エンドポイント切り替え機能）
+
+## 詳細な依存関係分析
+
+### 1. ページ → コンポーネント依存関係
+
+#### index.tsx (ホームページ)
+- Layout ← Header, Footer
+- Next.jsのLink（内部ナビゲーション）
+
+#### monster-random-v1.tsx
+- Layout ← Header, Footer
+- MonsterCard
+- PlaceholderMessage
+
+#### monster-random-v2.tsx
+- Layout ← Header, Footer
+- MonsterCard
+
+#### monster-random-v3.tsx (現在表示中のページ)
+- Layout ← Header, Footer
+- MonsterCard
+- MonsterCardEmpty
+- MonsterCardLoading
+- MonsterCardError
+
+#### monster-random-v4.tsx
+- Layout ← Header, Footer
+- MonsterCardV4
+- ApiTestPanel
+
+#### monster-random-vt4.tsx
+- Layout ← Header, Footer
+- MonsterCardVt4 (MonsterCardV4のエイリアスインポート)
+- ApiTestPanel
+
+#### monster-list.tsx
+- Layout ← Header, Footer
+- MonsterList
+
+#### pokemon-stats.tsx
+- Layout ← Header, Footer
+
+### 2. コンポーネント → コンポーネント依存関係
+
+#### Layout.tsx (メインレイアウト)
+├── Header.tsx
+└── Footer.tsx
+    └── Next.jsのLink
+    └── Next.jsのuseRouter
+
+#### MonsterCard系コンポーネント
+- MonsterCard.tsx: 独立（CSSモジュールのみ依存）
+- MonsterCardV4.tsx: 独立
+- MonsterCardVt4.tsx: 独立
+- MonsterCardEmpty.tsx: 独立
+- MonsterCardLoading.tsx: react-spinners（PacmanLoader）
+- MonsterCardError.tsx: 独立
+
+#### その他
+- MonsterList.tsx: 独立
+- PlaceholderMessage.tsx: 独立
+- ApiTestPanel.tsx: 独立
+
+### 3. 外部ライブラリ依存関係
+
+#### プロダクション依存関係
+- next: 15.3.2 (フレームワーク)
+- react: ^19.0.0 (UIライブラリ)
+- react-dom: ^19.0.0 (DOM操作)
+- react-icons: ^5.5.0 (アイコン)
+- react-spinners: ^0.17.0 (ローディングスピナー)
+- zod: ^3.25.51 (スキーマバリデーション)
+
+#### 開発依存関係
+- TypeScript関連: @types/node, @types/react, @types/react-dom
+- ESLint関連: eslint, eslint-config-next
+- テスト関連: jest, @testing-library/react, @testing-library/jest-dom
+- TailwindCSS関連: @tailwindcss/postcss
+- ビルド関連: @vitejs/plugin-react
+
+### 4. データフロー・状態管理
+
+#### データソース
+- `/data/monster/` ディレクトリ（1.json〜1025.json）
+- `/config/monster_count.ts` (モンスター総数定義)
+- `/config/pokemon-type-translations.ts` (タイプ翻訳データ)
+
+#### 状態管理パターン
+- 各ページで個別のuseState管理
+- APIからのデータ取得はfetch API使用
+- ローディング・エラー状態の適切な管理
+- 画像プリロード機能（V3版）
+
+### 5. スタイリング構成
+- CSS Modules（.module.css）
+- インラインスタイル（一部のページ）
+- TailwindCSS（設定済みだが使用量は限定的）
+
+### 6. 特殊機能・パターン
+
+#### カスタムPage型
+- NextPageWithLayout型でレイアウト指定
+- _app.tsxでgetLayout関数実行
+
+#### API設計
+- RESTful API設計
+- エラーハンドリング実装
+- キャッシュ制御（no-store）
+- テスト用API（遅延・エラー・タイムアウト）
+
+#### 開発ツール
+- Jest設定（テスト環境）
+- ESLint設定
+- TypeScript厳密設定
+- 各種スクリプトコマンド（ビルド・取得・テスト）
+
+## 改善提案
+1. TailwindCSSの本格活用（CSS Modulesからの移行）
+2. 状態管理ライブラリ導入検討（複雑化した場合）
+3. コンポーネントの再利用性向上
+4. APIレスポンス型定義の統一
+5. エラーバウンダリの実装

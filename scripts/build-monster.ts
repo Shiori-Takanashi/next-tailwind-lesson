@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
-import { translatePokemonTypes } from "../config/pokemon-type-translations.ts";
-import { monster_count } from "../config/monster_count.ts";
+import { translatePokemonTypes } from "../config/pokemon-type-translations.js";
+import { monster_count } from "../config/monster_count.js";
 
 const INPUT_DIR = path.join(process.cwd(), "data");
 const OUTPUT_DIR = path.join(INPUT_DIR, "monster");
@@ -10,6 +10,7 @@ type Monster = {
     id: number;
     name: string;
     types: string[];
+    stats: number[];
     image: string;
 };
 
@@ -22,6 +23,7 @@ type PokemonData = {
     id: number;
     name: string;
     types: string[];
+    stats: number[];
     image: string;
 };
 
@@ -31,6 +33,7 @@ function isPokemonData(data: any): data is PokemonData {
         typeof data?.name === "string" &&
         Array.isArray(data?.types) &&
         data.types.every((t: any) => typeof t === "string") &&
+        data.stats.every((s: any) => typeof s === "number") &&
         typeof data?.image === "string"
     );
 }
@@ -71,6 +74,7 @@ async function buildMonster(id: number) {
         id: pokemon.id,
         name: jaName,
         types: jaTypes,
+        stats: pokemon.stats,
         image: image
     };
 
