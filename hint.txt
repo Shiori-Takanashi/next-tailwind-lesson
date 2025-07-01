@@ -1,16 +1,15 @@
 # Next.js + TailwindCSS プロジェクト分析 - hint.txt
 
-## ページ数: 7ページ（+ 6個のAPIエンドポイント）
+## ページ数: 6ページ（+ 6個のAPIエンドポイント）
 
-### フロントエンドページ (7ページ)
+### フロントエンドページ (6ページ)
 1. `/` (index.tsx) - ホームページ・ランディングページ
 2. `/monster-list` (monster-list.tsx) - モンスター一覧表示ページ
-3. `/monster-random-v1` (monster-random-v1.tsx) - ランダムモンスター表示（基本版）
-4. `/monster-random-v2` (monster-random-v2.tsx) - ランダムモンスター表示（改良版）
-5. `/monster-random-v3` (monster-random-v3.tsx) - ランダムモンスター表示（画像プリロード対応）
-6. `/monster-random-v4` (monster-random-v4.tsx) - ランダムモンスター表示（最新版・APIテストパネル付き）
-7. `/monster-random-vt4` (monster-random-vt4.tsx) - ランダムモンスター表示（テスト版）
-8. `/pokemon-stats` (pokemon-stats.tsx) - ポケモン統計表示ページ
+3. `/monster-random-v2` (monster-random-v2.tsx) - ランダムモンスター表示（改良版）
+4. `/monster-random-v3` (monster-random-v3.tsx) - ランダムモンスター表示（画像プリロード対応）
+5. `/monster-random-v4` (monster-random-v4.tsx) - ランダムモンスター表示（最新版・APIテストパネル付き）
+6. `/monster-random-vt4` (monster-random-vt4.tsx) - ランダムモンスター表示（テスト版）
+7. `/pokemon-stats` (pokemon-stats.tsx) - ポケモン統計表示ページ
 
 ### APIエンドポイント (6個)
 1. `/api/random-monster` - 標準のランダムモンスター取得API
@@ -20,7 +19,7 @@
 5. `/api/random-monster-timeout` - タイムアウト発生API（テスト用）
 6. `/api/monster/[id]` - 個別モンスター取得API（動的ルート）
 
-## コンポーネント数: 12個
+## コンポーネント数: 11個
 
 ### レイアウト系コンポーネント (3個)
 1. `Layout.tsx` - 全体レイアウト（Header + Footer + children）
@@ -35,10 +34,9 @@
 8. `MonsterCardLoading.tsx` - ローディング状態のモンスターカード
 9. `MonsterCardError.tsx` - エラー状態のモンスターカード
 
-### その他コンポーネント (3個)
+### その他コンポーネント (2個)
 10. `MonsterList.tsx` - モンスター一覧表示コンポーネント
-11. `PlaceholderMessage.tsx` - プレースホルダーメッセージ表示
-12. `ApiTestPanel.tsx` - API テストパネル（エンドポイント切り替え機能）
+11. `ApiTestPanel.tsx` - API テストパネル（エンドポイント切り替え機能）
 
 ## 詳細な依存関係分析
 
@@ -47,11 +45,6 @@
 #### index.tsx (ホームページ)
 - Layout ← Header, Footer
 - Next.jsのLink（内部ナビゲーション）
-
-#### monster-random-v1.tsx
-- Layout ← Header, Footer
-- MonsterCard
-- PlaceholderMessage
 
 #### monster-random-v2.tsx
 - Layout ← Header, Footer
@@ -99,7 +92,6 @@
 
 #### その他
 - MonsterList.tsx: 独立
-- PlaceholderMessage.tsx: 独立
 - ApiTestPanel.tsx: 独立
 
 ### 3. 外部ライブラリ依存関係
