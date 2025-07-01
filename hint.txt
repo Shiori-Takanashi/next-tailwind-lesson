@@ -1,15 +1,14 @@
 # Next.js + TailwindCSS プロジェクト分析 - hint.txt
 
-## ページ数: 6ページ（+ 6個のAPIエンドポイント）
+## ページ数: 5ページ（+ 6個のAPIエンドポイント）
 
-### フロントエンドページ (6ページ)
+### フロントエンドページ (5ページ)
 1. `/` (index.tsx) - ホームページ・ランディングページ
 2. `/monster-list` (monster-list.tsx) - モンスター一覧表示ページ
-3. `/monster-random-v2` (monster-random-v2.tsx) - ランダムモンスター表示（改良版）
-4. `/monster-random-v3` (monster-random-v3.tsx) - ランダムモンスター表示（画像プリロード対応）
-5. `/monster-random-v4` (monster-random-v4.tsx) - ランダムモンスター表示（最新版・APIテストパネル付き）
-6. `/monster-random-vt4` (monster-random-vt4.tsx) - ランダムモンスター表示（テスト版）
-7. `/pokemon-stats` (pokemon-stats.tsx) - ポケモン統計表示ページ
+3. `/monster-random-v3` (monster-random-v3.tsx) - ランダムモンスター表示（画像プリロード対応）
+4. `/monster-random-v4` (monster-random-v4.tsx) - ランダムモンスター表示（最新版・APIテストパネル付き）
+5. `/monster-random-vt4` (monster-random-vt4.tsx) - ランダムモンスター表示（テスト版）
+6. `/pokemon-stats` (pokemon-stats.tsx) - ポケモン統計表示ページ
 
 ### APIエンドポイント (6個)
 1. `/api/random-monster` - 標準のランダムモンスター取得API
@@ -45,10 +44,6 @@
 #### index.tsx (ホームページ)
 - Layout ← Header, Footer
 - Next.jsのLink（内部ナビゲーション）
-
-#### monster-random-v2.tsx
-- Layout ← Header, Footer
-- MonsterCard
 
 #### monster-random-v3.tsx (現在表示中のページ)
 - Layout ← Header, Footer
