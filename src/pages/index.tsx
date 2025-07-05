@@ -1,47 +1,35 @@
 import Link from "next/link";
 import { NextPageWithLayout } from "./_app";
-import Layout from "../components/Layout";
 
 const Home: NextPageWithLayout = () => {
     return (
         <main className="flex flex-col items-center min-h-screen p-8 bg-gray-50">
-            <div className="max-w-3xl w-full p-8 bg-sky-100 rounded-lg shadow-lg">
-                <h1 className="text-4xl font-semibold text-gray-800 mb-6 text-center">All Pages</h1>
-                <ul className="space-y-4">
-                    <li>
-                        <Link href="/monster-list" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケモン一覧</Link>
-                    </li>
-                    <li>
-                        <Link href="/monster-random-v4" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケランダム<br/>（version4）</Link>
-                    </li>
-                    <li>
-                        <Link href="/monster-random-vt4" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケランダム<br/>（version4-tailwind）</Link>
-                    </li>
-                    <li>
-                        <Link href="/pokemon-stats" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケステータス</Link>
-                    </li>
-                    <li>
-                        <Link href="/jsonViewer" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">JSON ビューワー</Link>
-                    </li>
-                </ul>
+            <div className="max-w-2xl w-full p-8 bg-white rounded-lg shadow-lg">
+                <h1 className="text-4xl font-bold text-center mb-4 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                    JSON Viewer
+                </h1>
+                <p className="text-gray-600 text-center mb-8">
+                    ポケモンAPIデータを美しく表示するJSONビューワー
+                </p>
+                <div className="text-center">
+                    <Link 
+                        href="/jsonViewer" 
+                        className="inline-block px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200"
+                    >
+                        JSON ビューワーを開く
+                    </Link>
+                </div>
+                <div className="mt-8 text-sm text-gray-500 text-center">
+                    <p>• Species, Pokemon, Forms データの表示</p>
+                    <p>• ダーク/ライトテーマ対応</p>
+                    <p>• エラーハンドリング</p>
+                </div>
             </div>
         </main>
     );
 };
 
-Home.getLayout = function getLayout(page: React.ReactElement) {
-    return (
-        <Layout
-            showHeader={true}
-            showFooter={false}
-            headerProps={{
-                mainTitle: "Top Page",
-                subTitle: ""
-            }}
-        >
-            {page}
-        </Layout>
-    );
-};
+// このページではレイアウトを外す
+Home.getLayout = (page) => page;
 
 export default Home;
