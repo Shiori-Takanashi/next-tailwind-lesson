@@ -28,7 +28,7 @@ const MonsterListPage: React.FC<MonsterListPageProps> = ({ monsters }) => {
 
     // フィルタリングとソート
     const filteredAndSortedMonsters = useMemo(() => {
-        let filtered = monsters.filter(monster => {
+        const filtered = monsters.filter(monster => {
             const matchesSearch = monster.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
                 monster.id.toString().includes(searchTerm);
             const matchesType = selectedType === '' || monster.types.includes(selectedType);
@@ -350,16 +350,18 @@ const MonsterListPage: React.FC<MonsterListPageProps> = ({ monsters }) => {
                                 }}
                                 onMouseEnter={(e) => {
                                     if (currentPage !== totalPages) {
-                                        e.target.style.background = '#f1f5f9';
-                                        e.target.style.borderColor = '#3b82f6';
-                                        e.target.style.color = '#3b82f6';
+                                        const target = e.target as HTMLButtonElement;
+                                        target.style.background = '#f1f5f9';
+                                        target.style.borderColor = '#3b82f6';
+                                        target.style.color = '#3b82f6';
                                     }
                                 }}
                                 onMouseLeave={(e) => {
                                     if (currentPage !== totalPages) {
-                                        e.target.style.background = 'white';
-                                        e.target.style.borderColor = '#e2e8f0';
-                                        e.target.style.color = '#374151';
+                                        const target = e.target as HTMLButtonElement;
+                                        target.style.background = 'white';
+                                        target.style.borderColor = '#e2e8f0';
+                                        target.style.color = '#374151';
                                     }
                                 }}
                             >
