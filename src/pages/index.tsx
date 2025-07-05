@@ -12,8 +12,8 @@ const Home: NextPageWithLayout = () => {
                     ポケモンAPIデータを美しく表示するJSONビューワー
                 </p>
                 <div className="text-center">
-                    <Link 
-                        href="/jsonViewer" 
+                    <Link
+                        href="/jsonViewer"
                         className="inline-block px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200"
                     >
                         JSON ビューワーを開く
