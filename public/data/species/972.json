@@ -1,0 +1,31 @@
+{
+  "id": 972,
+  "name": "houndstone",
+  "color": "white",
+  "is_legendary": false,
+  "is_mythical": false,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "scarlet",
+        "url": "https://pokeapi.co/api/v2/version/40/"
+      }
+    },
+    {
+      "flavor_text": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "violet",
+        "url": "https://pokeapi.co/api/v2/version/41/"
+      }
+    }
+  ]
+}

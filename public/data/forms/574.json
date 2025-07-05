@@ -1,0 +1,29 @@
+{
+  "id": 574,
+  "name": "gothita",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 749,
+  "form_order": 1,
+  "pokemon": {
+    "name": "gothita",
+    "url": "https://pokeapi.co/api/v2/pokemon/574/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/574.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/574.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/574.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

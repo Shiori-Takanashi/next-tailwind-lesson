@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "name": "purugly",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    71,
+    82,
+    64,
+    64,
+    59,
+    112
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png"
+}

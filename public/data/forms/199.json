@@ -1,0 +1,36 @@
+{
+  "id": 199,
+  "name": "slowking",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 131,
+  "form_order": 1,
+  "pokemon": {
+    "name": "slowking",
+    "url": "https://pokeapi.co/api/v2/pokemon/199/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/199.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/199.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/199.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

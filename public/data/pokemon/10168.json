@@ -1,0 +1,17 @@
+{
+  "id": 10168,
+  "name": "mr-mime-galar",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "stats": [
+    50,
+    65,
+    65,
+    90,
+    90,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10168.png"
+}

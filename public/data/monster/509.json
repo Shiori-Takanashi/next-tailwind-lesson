@@ -1,0 +1,16 @@
+{
+  "id": 509,
+  "name": "チョロネコ",
+  "types": [
+    "悪"
+  ],
+  "stats": [
+    41,
+    50,
+    37,
+    50,
+    37,
+    66
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png"
+}

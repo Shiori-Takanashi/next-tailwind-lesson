@@ -1,0 +1,17 @@
+{
+  "id": 69,
+  "name": "マダツボミ",
+  "types": [
+    "草",
+    "毒"
+  ],
+  "stats": [
+    50,
+    75,
+    35,
+    70,
+    30,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
+}

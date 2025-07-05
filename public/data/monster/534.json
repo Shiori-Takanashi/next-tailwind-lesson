@@ -1,0 +1,16 @@
+{
+  "id": 534,
+  "name": "ローブシン",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    105,
+    140,
+    95,
+    55,
+    65,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
+}

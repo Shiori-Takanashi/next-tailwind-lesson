@@ -1,0 +1,36 @@
+{
+  "id": 630,
+  "name": "mandibuzz",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 812,
+  "form_order": 1,
+  "pokemon": {
+    "name": "mandibuzz",
+    "url": "https://pokeapi.co/api/v2/pokemon/630/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/630.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/630.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/630.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

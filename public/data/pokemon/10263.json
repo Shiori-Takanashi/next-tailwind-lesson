@@ -1,0 +1,16 @@
+{
+  "id": 10263,
+  "name": "gimmighoul-roaming",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    45,
+    30,
+    25,
+    75,
+    45,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10263.png"
+}

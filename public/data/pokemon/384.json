@@ -1,0 +1,17 @@
+{
+  "id": 384,
+  "name": "rayquaza",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "stats": [
+    105,
+    150,
+    90,
+    150,
+    90,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 134,
+  "name": "vaporeon",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 218,
+  "form_order": 1,
+  "pokemon": {
+    "name": "vaporeon",
+    "url": "https://pokeapi.co/api/v2/pokemon/134/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/134.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/134.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

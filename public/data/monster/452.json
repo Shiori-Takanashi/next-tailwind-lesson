@@ -1,0 +1,17 @@
+{
+  "id": 452,
+  "name": "ドラピオン",
+  "types": [
+    "毒",
+    "悪"
+  ],
+  "stats": [
+    70,
+    90,
+    110,
+    60,
+    75,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
+}

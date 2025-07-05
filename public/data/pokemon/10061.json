@@ -1,0 +1,16 @@
+{
+  "id": 10061,
+  "name": "floette-eternal",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    74,
+    65,
+    67,
+    125,
+    128,
+    92
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10061.png"
+}

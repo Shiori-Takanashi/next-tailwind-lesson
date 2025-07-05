@@ -1,0 +1,17 @@
+{
+  "id": 10273,
+  "name": "ogerpon-wellspring-mask",
+  "types": [
+    "grass",
+    "water"
+  ],
+  "stats": [
+    80,
+    120,
+    84,
+    60,
+    96,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10273.png"
+}

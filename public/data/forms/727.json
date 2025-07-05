@@ -1,0 +1,36 @@
+{
+  "id": 727,
+  "name": "incineroar",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1015,
+  "form_order": 1,
+  "pokemon": {
+    "name": "incineroar",
+    "url": "https://pokeapi.co/api/v2/pokemon/727/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/727.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/727.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/727.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fire",
+        "url": "https://pokeapi.co/api/v2/type/10/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    }
+  ]
+}

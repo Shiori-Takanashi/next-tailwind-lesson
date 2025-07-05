@@ -1,0 +1,17 @@
+{
+  "id": 695,
+  "name": "heliolisk",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "stats": [
+    62,
+    55,
+    52,
+    109,
+    94,
+    109
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png"
+}

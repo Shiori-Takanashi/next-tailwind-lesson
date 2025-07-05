@@ -1,0 +1,17 @@
+{
+  "id": 346,
+  "name": "cradily",
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "stats": [
+    86,
+    81,
+    97,
+    81,
+    107,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
+}

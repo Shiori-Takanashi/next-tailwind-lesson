@@ -1,0 +1,16 @@
+{
+  "id": 897,
+  "name": "spectrier",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    100,
+    65,
+    60,
+    145,
+    80,
+    130
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png"
+}

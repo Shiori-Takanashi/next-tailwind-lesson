@@ -1,0 +1,29 @@
+{
+  "id": 10029,
+  "name": "castform-rainy",
+  "form_name": "rainy",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 494,
+  "form_order": 3,
+  "pokemon": {
+    "name": "castform-rainy",
+    "url": "https://pokeapi.co/api/v2/pokemon/10014/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10014.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10014.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351-rainy.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10014.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 267,
+  "name": "アゲハント",
+  "types": [
+    "虫",
+    "飛"
+  ],
+  "stats": [
+    60,
+    70,
+    50,
+    100,
+    50,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10194,
+  "name": "calyrex-shadow",
+  "types": [
+    "psychic",
+    "ghost"
+  ],
+  "stats": [
+    100,
+    85,
+    80,
+    165,
+    100,
+    150
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10194.png"
+}

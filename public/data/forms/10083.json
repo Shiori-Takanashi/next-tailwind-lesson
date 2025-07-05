@@ -1,0 +1,36 @@
+{
+  "id": 10083,
+  "name": "kyurem-white",
+  "form_name": "white",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 832,
+  "form_order": 2,
+  "pokemon": {
+    "name": "kyurem-white",
+    "url": "https://pokeapi.co/api/v2/pokemon/10023/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10023.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/646-white.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/646-white.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/646-white.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "dragon",
+        "url": "https://pokeapi.co/api/v2/type/16/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

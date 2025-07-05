@@ -1,0 +1,17 @@
+{
+  "id": 543,
+  "name": "venipede",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "stats": [
+    30,
+    45,
+    59,
+    30,
+    39,
+    57
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png"
+}

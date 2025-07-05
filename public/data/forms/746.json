@@ -1,0 +1,29 @@
+{
+  "id": 746,
+  "name": "wishiwashi-solo",
+  "form_name": "solo",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1043,
+  "form_order": 1,
+  "pokemon": {
+    "name": "wishiwashi-solo",
+    "url": "https://pokeapi.co/api/v2/pokemon/746/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/746.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/746.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/746.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

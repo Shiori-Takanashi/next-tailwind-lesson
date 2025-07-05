@@ -1,0 +1,29 @@
+{
+  "id": 173,
+  "name": "cleffa",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 64,
+  "form_order": 1,
+  "pokemon": {
+    "name": "cleffa",
+    "url": "https://pokeapi.co/api/v2/pokemon/173/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/173.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/173.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/173.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

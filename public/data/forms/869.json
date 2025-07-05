@@ -1,0 +1,29 @@
+{
+  "id": 869,
+  "name": "alcremie-vanilla-cream-strawberry-sweet",
+  "form_name": "vanilla-cream-strawberry-sweet",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1214,
+  "form_order": 1,
+  "pokemon": {
+    "name": "alcremie",
+    "url": "https://pokeapi.co/api/v2/pokemon/869/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/869.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/869.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/869.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 23,
+  "name": "ekans",
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    35,
+    60,
+    44,
+    40,
+    54,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png"
+}

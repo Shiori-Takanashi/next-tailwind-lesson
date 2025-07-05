@@ -1,0 +1,17 @@
+{
+  "id": 10101,
+  "name": "sandshrew-alola",
+  "types": [
+    "ice",
+    "steel"
+  ],
+  "stats": [
+    50,
+    75,
+    90,
+    10,
+    35,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10101.png"
+}

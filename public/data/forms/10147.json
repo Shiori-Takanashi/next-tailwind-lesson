@@ -1,0 +1,36 @@
+{
+  "id": 10147,
+  "name": "heracross-mega",
+  "form_name": "mega",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": true,
+  "order": 339,
+  "form_order": 2,
+  "pokemon": {
+    "name": "heracross-mega",
+    "url": "https://pokeapi.co/api/v2/pokemon/10047/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10047.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10047.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10047.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10047.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    }
+  ]
+}

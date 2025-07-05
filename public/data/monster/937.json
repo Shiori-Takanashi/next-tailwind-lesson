@@ -1,0 +1,17 @@
+{
+  "id": 937,
+  "name": "ソウブレイズ",
+  "types": [
+    "炎",
+    "霊"
+  ],
+  "stats": [
+    75,
+    125,
+    80,
+    60,
+    100,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png"
+}

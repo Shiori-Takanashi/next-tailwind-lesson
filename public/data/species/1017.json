@@ -1,0 +1,31 @@
+{
+  "id": 1017,
+  "name": "ogerpon",
+  "color": "green",
+  "is_legendary": true,
+  "is_mythical": false,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "scarlet",
+        "url": "https://pokeapi.co/api/v2/version/40/"
+      }
+    },
+    {
+      "flavor_text": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "violet",
+        "url": "https://pokeapi.co/api/v2/version/41/"
+      }
+    }
+  ]
+}

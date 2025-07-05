@@ -1,0 +1,17 @@
+{
+  "id": 10087,
+  "name": "camerupt-mega",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "stats": [
+    70,
+    120,
+    100,
+    145,
+    105,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10087.png"
+}

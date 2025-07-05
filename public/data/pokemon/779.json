@@ -1,0 +1,17 @@
+{
+  "id": 779,
+  "name": "bruxish",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "stats": [
+    68,
+    105,
+    70,
+    70,
+    70,
+    92
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png"
+}

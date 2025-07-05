@@ -1,0 +1,17 @@
+{
+  "id": 985,
+  "name": "scream-tail",
+  "types": [
+    "fairy",
+    "psychic"
+  ],
+  "stats": [
+    115,
+    65,
+    99,
+    65,
+    115,
+    111
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10254,
+  "name": "oinkologne-female",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    115,
+    90,
+    70,
+    59,
+    90,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10254.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 640,
+  "name": "virizion",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "stats": [
+    91,
+    90,
+    72,
+    90,
+    129,
+    108
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10179,
+  "name": "kyogre-primal",
+  "form_name": "primal",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 536,
+  "form_order": 2,
+  "pokemon": {
+    "name": "kyogre-primal",
+    "url": "https://pokeapi.co/api/v2/pokemon/10077/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10077.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10077.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

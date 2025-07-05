@@ -1,0 +1,16 @@
+{
+  "id": 262,
+  "name": "mightyena",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    70,
+    90,
+    70,
+    60,
+    60,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "name": "ピクシー",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    95,
+    70,
+    73,
+    95,
+    90,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+}

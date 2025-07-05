@@ -1,0 +1,16 @@
+{
+  "id": 659,
+  "name": "ホルビー",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    38,
+    36,
+    38,
+    32,
+    36,
+    57
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png"
+}

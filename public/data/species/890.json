@@ -1,0 +1,229 @@
+{
+  "id": 890,
+  "name": "eternatus",
+  "color": "purple",
+  "is_legendary": true,
+  "is_mythical": false,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "むねの　コアが　ガラルちほうの\nだいちから　わきだす　エネルギーを\nきゅうしゅうして　かつどうしている。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "https://pokeapi.co/api/v2/language/1/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "가슴의 코어가 가라르지방의\n대지에서 솟아나는 에너지를\n흡수해서 활동한다.",
+      "language": {
+        "name": "ko",
+        "url": "https://pokeapi.co/api/v2/language/3/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "會用胸部的核心吸收\n伽勒爾的大地湧出的能量，\n藉以保持自己的活力。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "https://pokeapi.co/api/v2/language/4/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Il devient actif en absorbant l’énergie qui émerge\ndu sol de Galar grâce au noyau situé\nsur sa poitrine.",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Indem der Kern in seinem Brustkorb die Energie\nabsorbiert, die aus dem Boden der Galar-Region\nströmt, wird es aktiv.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Se alimenta de la energía que brota de la tierra\nde Galar absorbiéndola por el núcleo del pecho.",
+      "language": {
+        "name": "es",
+        "url": "https://pokeapi.co/api/v2/language/7/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Si alimenta attraverso il nucleo sul suo petto,\ncon cui assorbe l’energia emanata dalla terra\ndella regione di Galar.",
+      "language": {
+        "name": "it",
+        "url": "https://pokeapi.co/api/v2/language/8/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "The core on its chest absorbs energy emanating\nfrom the lands of the Galar region. This energy is\nwhat allows Eternatus to stay active.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "胸の　コアが　ガラル地方の\n大地から　涌きだす　エネルギーを\n吸収して　活動している。",
+      "language": {
+        "name": "ja",
+        "url": "https://pokeapi.co/api/v2/language/11/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "会用胸部的核心吸收\n伽勒尔地区涌出的能量，\n借以保持自己的活力。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "https://pokeapi.co/api/v2/language/12/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "２まんねんまえに　おちた　いんせきの\nなかに　いた。　ダイマックスの\nなぞに　かんけいしている　らしい。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "https://pokeapi.co/api/v2/language/1/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "2만 년 전에 떨어진 운석\n안에 있었다. 다이맥스의\n수수께끼와 관련이 있는 듯하다.",
+      "language": {
+        "name": "ko",
+        "url": "https://pokeapi.co/api/v2/language/3/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "來自於２萬年前墜落\n到地上的隕石之中。\n似乎與極巨化之謎有所關聯。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "https://pokeapi.co/api/v2/language/4/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Il se trouvait dans une météorite qui s’est écrasée\nil y a 20 000 ans. Il semble y avoir un lien\nentre ce Pokémon et le phénomène Dynamax.",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Es steckte in einem Meteorit, der vor 20 000\nJahren herabstürzte. Es scheint in Verbindung\nmit dem Dynamax-Phänomen zu stehen.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Fue hallado en el interior de un meteorito caído\nhace 20 000 años. Por lo visto, está relacionado\ncon el misterio que rodea al fenómeno Dinamax.",
+      "language": {
+        "name": "es",
+        "url": "https://pokeapi.co/api/v2/language/7/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "È giunto dallo spazio dentro un meteorite caduto\n20.000 anni fa. Sembra essere in qualche modo\ncollegato al mistero del fenomeno Dynamax.",
+      "language": {
+        "name": "it",
+        "url": "https://pokeapi.co/api/v2/language/8/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "It was inside a meteorite that fell 20,000 years\nago. There seems to be a connection between\nthis Pokémon and the Dynamax phenomenon.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "２万年前に　落ちた　隕石の\n中に　いた。　ダイマックスの\n謎に　関係している　らしい。",
+      "language": {
+        "name": "ja",
+        "url": "https://pokeapi.co/api/v2/language/11/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "来自于２万年前坠落\n到地上的陨石之中。\n似乎与极巨化之谜有所关联。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "https://pokeapi.co/api/v2/language/12/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    }
+  ]
+}

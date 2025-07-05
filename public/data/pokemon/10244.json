@@ -1,0 +1,17 @@
+{
+  "id": 10244,
+  "name": "decidueye-hisui",
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "stats": [
+    88,
+    112,
+    80,
+    95,
+    95,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10244.png"
+}

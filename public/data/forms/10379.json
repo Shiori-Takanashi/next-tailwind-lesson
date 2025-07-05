@@ -1,0 +1,29 @@
+{
+  "id": 10379,
+  "name": "cinderace-gmax",
+  "form_name": "gmax",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1264,
+  "form_order": 1,
+  "pokemon": {
+    "name": "cinderace-gmax",
+    "url": "https://pokeapi.co/api/v2/pokemon/10210/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10210.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10210.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10210.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10210.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fire",
+        "url": "https://pokeapi.co/api/v2/type/10/"
+      }
+    }
+  ]
+}

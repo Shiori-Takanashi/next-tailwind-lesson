@@ -1,0 +1,29 @@
+{
+  "id": 10310,
+  "name": "rockruff-own-tempo",
+  "form_name": "own-tempo",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1039,
+  "form_order": 2,
+  "pokemon": {
+    "name": "rockruff-own-tempo",
+    "url": "https://pokeapi.co/api/v2/pokemon/10151/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10151.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/744-own-tempo.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    }
+  ]
+}

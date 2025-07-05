@@ -1,0 +1,16 @@
+{
+  "id": 533,
+  "name": "gurdurr",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    85,
+    105,
+    85,
+    40,
+    50,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+}

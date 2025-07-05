@@ -1,0 +1,29 @@
+{
+  "id": 10323,
+  "name": "slowpoke-galar",
+  "form_name": "galar",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 127,
+  "form_order": 2,
+  "pokemon": {
+    "name": "slowpoke-galar",
+    "url": "https://pokeapi.co/api/v2/pokemon/10164/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10164.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10164.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10164.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10164.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

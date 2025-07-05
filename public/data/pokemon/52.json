@@ -1,0 +1,16 @@
+{
+  "id": 52,
+  "name": "meowth",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    40,
+    45,
+    35,
+    40,
+    40,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+}

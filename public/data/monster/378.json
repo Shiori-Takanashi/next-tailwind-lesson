@@ -1,0 +1,16 @@
+{
+  "id": 378,
+  "name": "レジアイス",
+  "types": [
+    "氷"
+  ],
+  "stats": [
+    80,
+    50,
+    100,
+    100,
+    200,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10321,
+  "name": "ponyta-galar",
+  "form_name": "galar",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 123,
+  "form_order": 2,
+  "pokemon": {
+    "name": "ponyta-galar",
+    "url": "https://pokeapi.co/api/v2/pokemon/10162/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10162.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10162.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10162.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10162.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

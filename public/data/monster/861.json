@@ -1,0 +1,17 @@
+{
+  "id": 861,
+  "name": "オーロンゲ",
+  "types": [
+    "悪",
+    "妖"
+  ],
+  "stats": [
+    95,
+    120,
+    65,
+    95,
+    75,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png"
+}

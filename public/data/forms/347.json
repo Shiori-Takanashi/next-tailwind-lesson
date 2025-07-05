@@ -1,0 +1,36 @@
+{
+  "id": 347,
+  "name": "anorith",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 488,
+  "form_order": 1,
+  "pokemon": {
+    "name": "anorith",
+    "url": "https://pokeapi.co/api/v2/pokemon/347/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/347.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/347.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/347.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    }
+  ]
+}

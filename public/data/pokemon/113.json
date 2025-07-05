@@ -1,0 +1,16 @@
+{
+  "id": 113,
+  "name": "chansey",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    250,
+    5,
+    5,
+    35,
+    105,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+}

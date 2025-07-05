@@ -1,0 +1,16 @@
+{
+  "id": 10201,
+  "name": "machamp-gmax",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    90,
+    130,
+    80,
+    65,
+    85,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10201.png"
+}

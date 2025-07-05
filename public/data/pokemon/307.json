@@ -1,0 +1,17 @@
+{
+  "id": 307,
+  "name": "meditite",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "stats": [
+    30,
+    40,
+    55,
+    40,
+    55,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png"
+}

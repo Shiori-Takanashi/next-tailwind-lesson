@@ -1,0 +1,17 @@
+{
+  "id": 752,
+  "name": "オニシズクモ",
+  "types": [
+    "水",
+    "虫"
+  ],
+  "stats": [
+    68,
+    70,
+    92,
+    50,
+    132,
+    42
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10259,
+  "name": "minior-blue",
+  "form_name": "blue",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1103,
+  "form_order": 12,
+  "pokemon": {
+    "name": "minior-blue",
+    "url": "https://pokeapi.co/api/v2/pokemon/10140/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10140.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10140.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10140.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10140.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 210,
+  "name": "グランブル",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    90,
+    120,
+    75,
+    60,
+    60,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10097,
+  "name": "pikachu-unova-cap",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    35,
+    55,
+    40,
+    50,
+    50,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10097.png"
+}

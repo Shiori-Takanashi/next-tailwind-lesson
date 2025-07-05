@@ -1,0 +1,16 @@
+{
+  "id": 54,
+  "name": "コダック",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    50,
+    52,
+    48,
+    65,
+    50,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+}

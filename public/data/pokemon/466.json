@@ -1,0 +1,16 @@
+{
+  "id": 466,
+  "name": "electivire",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    75,
+    123,
+    67,
+    95,
+    85,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png"
+}

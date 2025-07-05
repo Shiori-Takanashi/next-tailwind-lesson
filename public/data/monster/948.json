@@ -1,0 +1,17 @@
+{
+  "id": 948,
+  "name": "ノノクラゲ",
+  "types": [
+    "地",
+    "草"
+  ],
+  "stats": [
+    40,
+    40,
+    35,
+    50,
+    100,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
+}

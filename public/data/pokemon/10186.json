@@ -1,0 +1,17 @@
+{
+  "id": 10186,
+  "name": "indeedee-female",
+  "types": [
+    "psychic",
+    "normal"
+  ],
+  "stats": [
+    70,
+    55,
+    65,
+    95,
+    105,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10186.png"
+}

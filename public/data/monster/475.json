@@ -1,0 +1,17 @@
+{
+  "id": 475,
+  "name": "エルレイド",
+  "types": [
+    "超",
+    "闘"
+  ],
+  "stats": [
+    68,
+    125,
+    65,
+    65,
+    115,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png"
+}

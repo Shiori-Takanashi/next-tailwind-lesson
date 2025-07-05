@@ -1,0 +1,17 @@
+{
+  "id": 10090,
+  "name": "beedrill-mega",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "stats": [
+    65,
+    150,
+    40,
+    15,
+    80,
+    145
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png"
+}

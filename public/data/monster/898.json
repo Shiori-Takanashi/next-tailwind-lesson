@@ -1,0 +1,17 @@
+{
+  "id": 898,
+  "name": "バドレックス",
+  "types": [
+    "超",
+    "草"
+  ],
+  "stats": [
+    100,
+    80,
+    80,
+    80,
+    80,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png"
+}

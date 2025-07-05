@@ -1,0 +1,17 @@
+{
+  "id": 10022,
+  "name": "kyurem-black",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "stats": [
+    125,
+    170,
+    100,
+    120,
+    90,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10022.png"
+}

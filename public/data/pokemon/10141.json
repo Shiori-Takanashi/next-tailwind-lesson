@@ -1,0 +1,17 @@
+{
+  "id": 10141,
+  "name": "minior-indigo",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "stats": [
+    60,
+    100,
+    60,
+    100,
+    60,
+    120
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10141.png"
+}

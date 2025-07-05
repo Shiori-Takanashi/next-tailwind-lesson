@@ -1,0 +1,16 @@
+{
+  "id": 683,
+  "name": "フレフワン",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    101,
+    72,
+    72,
+    99,
+    89,
+    29
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "name": "シェルダー",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    30,
+    65,
+    100,
+    45,
+    25,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png"
+}

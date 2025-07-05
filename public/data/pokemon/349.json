@@ -1,0 +1,16 @@
+{
+  "id": 349,
+  "name": "feebas",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    20,
+    15,
+    20,
+    10,
+    55,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png"
+}

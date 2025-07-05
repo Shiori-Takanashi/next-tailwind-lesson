@@ -1,0 +1,16 @@
+{
+  "id": 621,
+  "name": "druddigon",
+  "types": [
+    "dragon"
+  ],
+  "stats": [
+    77,
+    120,
+    90,
+    60,
+    90,
+    48
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+}

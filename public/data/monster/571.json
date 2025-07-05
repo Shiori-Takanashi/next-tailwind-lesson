@@ -1,0 +1,16 @@
+{
+  "id": 571,
+  "name": "ゾロアーク",
+  "types": [
+    "悪"
+  ],
+  "stats": [
+    60,
+    105,
+    60,
+    120,
+    60,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+}

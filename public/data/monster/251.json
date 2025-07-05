@@ -1,0 +1,17 @@
+{
+  "id": 251,
+  "name": "セレビィ",
+  "types": [
+    "超",
+    "草"
+  ],
+  "stats": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png"
+}

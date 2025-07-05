@@ -1,0 +1,29 @@
+{
+  "id": 10325,
+  "name": "farfetchd-galar",
+  "form_name": "galar",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 137,
+  "form_order": 2,
+  "pokemon": {
+    "name": "farfetchd-galar",
+    "url": "https://pokeapi.co/api/v2/pokemon/10166/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10166.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10166.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10166.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10166.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    }
+  ]
+}

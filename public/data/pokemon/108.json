@@ -1,0 +1,16 @@
+{
+  "id": 108,
+  "name": "lickitung",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    90,
+    55,
+    75,
+    60,
+    75,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png"
+}

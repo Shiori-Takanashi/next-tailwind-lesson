@@ -1,0 +1,17 @@
+{
+  "id": 458,
+  "name": "タマンタ",
+  "types": [
+    "水",
+    "飛"
+  ],
+  "stats": [
+    45,
+    20,
+    50,
+    60,
+    120,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10165,
+  "name": "slowbro-galar",
+  "types": [
+    "poison",
+    "psychic"
+  ],
+  "stats": [
+    95,
+    100,
+    95,
+    100,
+    70,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10165.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 843,
+  "name": "silicobra",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1183,
+  "form_order": 1,
+  "pokemon": {
+    "name": "silicobra",
+    "url": "https://pokeapi.co/api/v2/pokemon/843/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/843.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/843.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/843.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ground",
+        "url": "https://pokeapi.co/api/v2/type/5/"
+      }
+    }
+  ]
+}

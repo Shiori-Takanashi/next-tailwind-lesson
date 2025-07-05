@@ -1,0 +1,16 @@
+{
+  "id": 953,
+  "name": "シガロコ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    41,
+    50,
+    60,
+    31,
+    58,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
+}

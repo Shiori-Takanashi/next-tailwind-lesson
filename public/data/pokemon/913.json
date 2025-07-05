@@ -1,0 +1,16 @@
+{
+  "id": 913,
+  "name": "quaxwell",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    70,
+    85,
+    65,
+    65,
+    60,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png"
+}

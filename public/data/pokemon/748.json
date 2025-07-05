@@ -1,0 +1,17 @@
+{
+  "id": 748,
+  "name": "toxapex",
+  "types": [
+    "poison",
+    "water"
+  ],
+  "stats": [
+    50,
+    63,
+    152,
+    53,
+    142,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png"
+}

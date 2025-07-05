@@ -1,0 +1,16 @@
+{
+  "id": 106,
+  "name": "サワムラー",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    50,
+    120,
+    53,
+    35,
+    110,
+    87
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png"
+}

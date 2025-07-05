@@ -1,0 +1,16 @@
+{
+  "id": 244,
+  "name": "エンテイ",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    115,
+    115,
+    85,
+    90,
+    75,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+}

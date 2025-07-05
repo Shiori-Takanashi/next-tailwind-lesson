@@ -1,0 +1,17 @@
+{
+  "id": 733,
+  "name": "ドデカバシ",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    80,
+    120,
+    75,
+    75,
+    75,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
+}

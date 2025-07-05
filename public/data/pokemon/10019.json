@@ -1,0 +1,16 @@
+{
+  "id": 10019,
+  "name": "tornadus-therian",
+  "types": [
+    "flying"
+  ],
+  "stats": [
+    79,
+    100,
+    80,
+    110,
+    90,
+    121
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10019.png"
+}

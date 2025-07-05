@@ -1,0 +1,31 @@
+{
+  "id": 1002,
+  "name": "chien-pao",
+  "color": "white",
+  "is_legendary": true,
+  "is_mythical": false,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "scarlet",
+        "url": "https://pokeapi.co/api/v2/version/40/"
+      }
+    },
+    {
+      "flavor_text": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "violet",
+        "url": "https://pokeapi.co/api/v2/version/41/"
+      }
+    }
+  ]
+}

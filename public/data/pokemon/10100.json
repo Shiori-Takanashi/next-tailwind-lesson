@@ -1,0 +1,17 @@
+{
+  "id": 10100,
+  "name": "raichu-alola",
+  "types": [
+    "electric",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    85,
+    50,
+    95,
+    85,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png"
+}

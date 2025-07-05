@@ -1,0 +1,17 @@
+{
+  "id": 658,
+  "name": "ゲッコウガ",
+  "types": [
+    "水",
+    "悪"
+  ],
+  "stats": [
+    72,
+    95,
+    67,
+    103,
+    71,
+    122
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 209,
+  "name": "ブルー",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    60,
+    80,
+    50,
+    40,
+    40,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png"
+}

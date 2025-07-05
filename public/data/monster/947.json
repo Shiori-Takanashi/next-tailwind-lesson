@@ -1,0 +1,17 @@
+{
+  "id": 947,
+  "name": "アノホラグサ",
+  "types": [
+    "草",
+    "霊"
+  ],
+  "stats": [
+    55,
+    115,
+    70,
+    80,
+    70,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png"
+}

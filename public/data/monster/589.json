@@ -1,0 +1,17 @@
+{
+  "id": 589,
+  "name": "シュバルゴ",
+  "types": [
+    "虫",
+    "鋼"
+  ],
+  "stats": [
+    70,
+    135,
+    105,
+    60,
+    105,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 60,
+  "name": "poliwag",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    40,
+    50,
+    40,
+    40,
+    40,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png"
+}

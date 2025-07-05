@@ -1,0 +1,17 @@
+{
+  "id": 45,
+  "name": "ラフレシア",
+  "types": [
+    "草",
+    "毒"
+  ],
+  "stats": [
+    75,
+    80,
+    85,
+    110,
+    90,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+}

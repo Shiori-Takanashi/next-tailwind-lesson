@@ -1,0 +1,17 @@
+{
+  "id": 799,
+  "name": "アクジキング",
+  "types": [
+    "悪",
+    "竜"
+  ],
+  "stats": [
+    223,
+    101,
+    53,
+    97,
+    53,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png"
+}

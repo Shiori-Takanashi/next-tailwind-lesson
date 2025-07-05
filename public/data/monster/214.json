@@ -1,0 +1,17 @@
+{
+  "id": 214,
+  "name": "ヘラクロス",
+  "types": [
+    "虫",
+    "闘"
+  ],
+  "stats": [
+    80,
+    125,
+    75,
+    40,
+    95,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png"
+}

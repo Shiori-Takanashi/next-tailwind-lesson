@@ -1,0 +1,36 @@
+{
+  "id": 10357,
+  "name": "zacian-crowned",
+  "form_name": "crowned",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1245,
+  "form_order": 2,
+  "pokemon": {
+    "name": "zacian-crowned",
+    "url": "https://pokeapi.co/api/v2/pokemon/10188/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10188.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10188.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10188.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10188.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

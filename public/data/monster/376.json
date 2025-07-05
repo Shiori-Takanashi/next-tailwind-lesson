@@ -1,0 +1,17 @@
+{
+  "id": 376,
+  "name": "メタグロス",
+  "types": [
+    "鋼",
+    "超"
+  ],
+  "stats": [
+    80,
+    135,
+    130,
+    95,
+    90,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
+}

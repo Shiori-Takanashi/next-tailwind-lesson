@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "name": "sandshrew",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    50,
+    75,
+    85,
+    20,
+    30,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png"
+}

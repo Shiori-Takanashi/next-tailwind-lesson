@@ -1,0 +1,29 @@
+{
+  "id": 10124,
+  "name": "meowstic-female",
+  "form_name": "female",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 953,
+  "form_order": 2,
+  "pokemon": {
+    "name": "meowstic-female",
+    "url": "https://pokeapi.co/api/v2/pokemon/10025/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10025.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10025.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10025.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10025.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

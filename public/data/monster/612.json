@@ -1,0 +1,16 @@
+{
+  "id": 612,
+  "name": "オノノクス",
+  "types": [
+    "竜"
+  ],
+  "stats": [
+    76,
+    147,
+    90,
+    60,
+    70,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png"
+}

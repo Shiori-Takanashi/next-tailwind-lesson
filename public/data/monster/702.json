@@ -1,0 +1,17 @@
+{
+  "id": 702,
+  "name": "デデンネ",
+  "types": [
+    "電",
+    "妖"
+  ],
+  "stats": [
+    67,
+    58,
+    57,
+    81,
+    67,
+    101
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png"
+}

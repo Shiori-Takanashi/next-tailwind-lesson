@@ -1,0 +1,16 @@
+{
+  "id": 10256,
+  "name": "palafin-hero",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    100,
+    160,
+    97,
+    106,
+    87,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10256.png"
+}

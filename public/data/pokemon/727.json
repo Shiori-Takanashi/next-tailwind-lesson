@@ -1,0 +1,17 @@
+{
+  "id": 727,
+  "name": "incineroar",
+  "types": [
+    "fire",
+    "dark"
+  ],
+  "stats": [
+    95,
+    115,
+    90,
+    80,
+    90,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png"
+}

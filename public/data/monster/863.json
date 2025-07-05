@@ -1,0 +1,16 @@
+{
+  "id": 863,
+  "name": "ニャイキング",
+  "types": [
+    "鋼"
+  ],
+  "stats": [
+    70,
+    110,
+    100,
+    50,
+    60,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png"
+}

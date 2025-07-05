@@ -1,0 +1,17 @@
+{
+  "id": 632,
+  "name": "durant",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "stats": [
+    58,
+    109,
+    112,
+    48,
+    48,
+    109
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png"
+}

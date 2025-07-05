@@ -1,0 +1,17 @@
+{
+  "id": 348,
+  "name": "armaldo",
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "stats": [
+    75,
+    125,
+    100,
+    70,
+    80,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
+}

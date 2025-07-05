@@ -1,0 +1,16 @@
+{
+  "id": 10176,
+  "name": "darumaka-galar",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    70,
+    90,
+    45,
+    15,
+    45,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png"
+}

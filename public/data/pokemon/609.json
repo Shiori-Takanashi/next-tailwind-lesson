@@ -1,0 +1,17 @@
+{
+  "id": 609,
+  "name": "chandelure",
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "stats": [
+    60,
+    55,
+    90,
+    145,
+    90,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png"
+}

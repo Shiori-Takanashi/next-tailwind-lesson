@@ -1,0 +1,16 @@
+{
+  "id": 10205,
+  "name": "eevee-gmax",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    55,
+    55,
+    50,
+    45,
+    65,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10205.png"
+}

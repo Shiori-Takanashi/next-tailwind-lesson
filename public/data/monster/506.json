@@ -1,0 +1,16 @@
+{
+  "id": 506,
+  "name": "ヨーテリー",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    45,
+    60,
+    45,
+    25,
+    45,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png"
+}

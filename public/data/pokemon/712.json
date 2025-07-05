@@ -1,0 +1,16 @@
+{
+  "id": 712,
+  "name": "bergmite",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    55,
+    69,
+    85,
+    32,
+    35,
+    28
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10203,
+  "name": "kingler-gmax",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    55,
+    130,
+    115,
+    50,
+    50,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10203.png"
+}

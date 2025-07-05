@@ -1,0 +1,16 @@
+{
+  "id": 132,
+  "name": "ditto",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    48,
+    48,
+    48,
+    48,
+    48,
+    48
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+}

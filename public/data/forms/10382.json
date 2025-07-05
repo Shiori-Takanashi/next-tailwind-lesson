@@ -1,0 +1,36 @@
+{
+  "id": 10382,
+  "name": "orbeetle-gmax",
+  "form_name": "gmax",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1267,
+  "form_order": 1,
+  "pokemon": {
+    "name": "orbeetle-gmax",
+    "url": "https://pokeapi.co/api/v2/pokemon/10213/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10213.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10213.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10213.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10213.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

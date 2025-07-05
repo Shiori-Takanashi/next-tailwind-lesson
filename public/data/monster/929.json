@@ -1,0 +1,17 @@
+{
+  "id": 929,
+  "name": "オリーニョ",
+  "types": [
+    "草",
+    "普"
+  ],
+  "stats": [
+    52,
+    53,
+    60,
+    78,
+    78,
+    33
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
+}

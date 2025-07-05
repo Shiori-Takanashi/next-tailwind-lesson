@@ -1,0 +1,16 @@
+{
+  "id": 57,
+  "name": "primeape",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    65,
+    105,
+    60,
+    60,
+    70,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+}

@@ -1,0 +1,229 @@
+{
+  "id": 841,
+  "name": "flapple",
+  "color": "green",
+  "is_legendary": false,
+  "is_mythical": false,
+  "flavor_text_entries": [
+    {
+      "flavor_text": "すっぱい　りんごを　たべて　しんか。\nやけどする　ほど　きょうさんせいの\nえきたいを　ほほぶくろに　ためる。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "https://pokeapi.co/api/v2/language/1/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "새콤한 사과를 먹고 진화했다.\n화상을 입을 정도로 강한 산성을 띠는\n액체를 볼주머니에 저장하고 있다.",
+      "language": {
+        "name": "ko",
+        "url": "https://pokeapi.co/api/v2/language/3/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "啃果蟲吃了酸蘋果後進化\n而成。頰囊裡儲存著足以\n造成灼傷的強酸性液體。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "https://pokeapi.co/api/v2/language/4/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Il a évolué après avoir mangé une pomme acide.\nIl concentre dans ses joues un liquide si corrosif\nqu’il peut provoquer des brûlures.",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Nach dem Verzehr eines sauren Apfels hat es sich\nentwickelt. In den Backentaschen speichert es\neine saure Substanz, die zu Verbrennungen führt.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Ha evolucionado tras ingerir una manzana ácida.\nLas bolsas de las mejillas albergan un fluido cuya\nextrema acidez llega a provocar quemaduras.",
+      "language": {
+        "name": "es",
+        "url": "https://pokeapi.co/api/v2/language/7/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "Si è evoluto dopo aver mangiato una mela aspra.\nLe sacche sulle guance contengono un liquido\nestremamente acido che può provocare ustioni.",
+      "language": {
+        "name": "it",
+        "url": "https://pokeapi.co/api/v2/language/8/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "It ate a sour apple, and that induced its\nevolution. In its cheeks, it stores an acid\ncapable of causing chemical burns.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "すっぱい　りんごを　食べて　進化。\n火傷する　ほど　強酸性の\n液体を　頬袋に　溜める。",
+      "language": {
+        "name": "ja",
+        "url": "https://pokeapi.co/api/v2/language/11/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "啃果虫吃了酸苹果后进化\n而成。颊囊里储存着足以\n造成灼伤的强酸性液体。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "https://pokeapi.co/api/v2/language/12/"
+      },
+      "version": {
+        "name": "sword",
+        "url": "https://pokeapi.co/api/v2/version/33/"
+      }
+    },
+    {
+      "flavor_text": "りんごの　かわの　つばさで　とんで\nきょうさんせいの　だえきを　とばす。\nりんごの　かたちに　へんけいする。",
+      "language": {
+        "name": "ja-Hrkt",
+        "url": "https://pokeapi.co/api/v2/language/1/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "사과 껍질로 된 날개로 날며\n강산성의 타액을 뱉는다.\n사과의 형태로 변형한다.",
+      "language": {
+        "name": "ko",
+        "url": "https://pokeapi.co/api/v2/language/3/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "會用蘋果皮的翅膀飛翔，\n並吐出強酸性的唾液。\n能變成蘋果的形狀。",
+      "language": {
+        "name": "zh-Hant",
+        "url": "https://pokeapi.co/api/v2/language/4/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Il vole avec ses ailes faites de pelures de pomme\net crache une substance très acide.\nIl peut aussi prendre la forme de ce fruit.",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Dieses Pokémon fliegt mit seinen Flügeln aus\nApfelschale und spuckt extrem sauren Speichel\naus. Es nimmt die Gestalt eines Apfels an.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Escupe una saliva sumamente ácida y vuela con\nsus alas compuestas por piel de manzana, cuyo\naspecto es capaz de adoptar.",
+      "language": {
+        "name": "es",
+        "url": "https://pokeapi.co/api/v2/language/7/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "Vola usando la buccia del pomo a mo’ di ali e\nsputa una saliva altamente acida. Può assumere\nl’aspetto di una mela.",
+      "language": {
+        "name": "it",
+        "url": "https://pokeapi.co/api/v2/language/8/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "It flies on wings of apple skin and spits a\npowerful acid. It can also change its shape\ninto that of an apple.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "りんごの　皮の　翼で　飛んで\n強酸性の　唾液を　飛ばす。\nりんごの　形に　変形する。",
+      "language": {
+        "name": "ja",
+        "url": "https://pokeapi.co/api/v2/language/11/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    },
+    {
+      "flavor_text": "会用苹果皮的翅膀飞翔，\n并吐出强酸性的唾液。\n可以变成苹果的形状。",
+      "language": {
+        "name": "zh-Hans",
+        "url": "https://pokeapi.co/api/v2/language/12/"
+      },
+      "version": {
+        "name": "shield",
+        "url": "https://pokeapi.co/api/v2/version/34/"
+      }
+    }
+  ]
+}

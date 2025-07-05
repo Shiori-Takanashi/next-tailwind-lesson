@@ -1,0 +1,16 @@
+{
+  "id": 362,
+  "name": "オニゴーリ",
+  "types": [
+    "氷"
+  ],
+  "stats": [
+    80,
+    80,
+    80,
+    80,
+    80,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 111,
+  "name": "rhyhorn",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "stats": [
+    80,
+    85,
+    95,
+    30,
+    30,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
+}

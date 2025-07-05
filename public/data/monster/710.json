@@ -1,0 +1,17 @@
+{
+  "id": 710,
+  "name": "バケッチャ",
+  "types": [
+    "霊",
+    "草"
+  ],
+  "stats": [
+    49,
+    66,
+    70,
+    44,
+    55,
+    51
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png"
+}

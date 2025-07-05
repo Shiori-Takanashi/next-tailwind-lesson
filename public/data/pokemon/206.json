@@ -1,0 +1,16 @@
+{
+  "id": 206,
+  "name": "dunsparce",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    100,
+    70,
+    70,
+    65,
+    65,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
+}

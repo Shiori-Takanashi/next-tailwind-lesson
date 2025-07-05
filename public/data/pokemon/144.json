@@ -1,0 +1,17 @@
+{
+  "id": 144,
+  "name": "articuno",
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "stats": [
+    90,
+    85,
+    100,
+    95,
+    125,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png"
+}

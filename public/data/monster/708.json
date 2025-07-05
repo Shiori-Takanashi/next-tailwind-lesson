@@ -1,0 +1,17 @@
+{
+  "id": 708,
+  "name": "ボクレー",
+  "types": [
+    "霊",
+    "草"
+  ],
+  "stats": [
+    43,
+    70,
+    48,
+    50,
+    60,
+    38
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png"
+}

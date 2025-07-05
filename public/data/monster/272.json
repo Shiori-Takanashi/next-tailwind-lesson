@@ -1,0 +1,17 @@
+{
+  "id": 272,
+  "name": "ルンパッパ",
+  "types": [
+    "水",
+    "草"
+  ],
+  "stats": [
+    80,
+    70,
+    70,
+    90,
+    100,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png"
+}

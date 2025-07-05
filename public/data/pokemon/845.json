@@ -1,0 +1,17 @@
+{
+  "id": 845,
+  "name": "cramorant",
+  "types": [
+    "flying",
+    "water"
+  ],
+  "stats": [
+    70,
+    85,
+    55,
+    85,
+    95,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png"
+}

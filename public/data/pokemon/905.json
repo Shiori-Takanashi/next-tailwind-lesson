@@ -1,0 +1,17 @@
+{
+  "id": 905,
+  "name": "enamorus-incarnate",
+  "types": [
+    "fairy",
+    "flying"
+  ],
+  "stats": [
+    74,
+    115,
+    70,
+    135,
+    80,
+    106
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png"
+}

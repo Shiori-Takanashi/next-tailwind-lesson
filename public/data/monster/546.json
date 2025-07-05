@@ -1,0 +1,17 @@
+{
+  "id": 546,
+  "name": "モンメン",
+  "types": [
+    "草",
+    "妖"
+  ],
+  "stats": [
+    40,
+    27,
+    60,
+    37,
+    50,
+    66
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+}

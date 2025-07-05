@@ -1,0 +1,29 @@
+{
+  "id": 10319,
+  "name": "pikachu-world-cap",
+  "form_name": "world-cap",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 51,
+  "form_order": 16,
+  "pokemon": {
+    "name": "pikachu-world-cap",
+    "url": "https://pokeapi.co/api/v2/pokemon/10160/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10160.png",
+    "front_shiny": null,
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10160.png",
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

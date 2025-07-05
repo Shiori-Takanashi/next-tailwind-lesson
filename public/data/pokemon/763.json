@@ -1,0 +1,16 @@
+{
+  "id": 763,
+  "name": "tsareena",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    72,
+    120,
+    98,
+    50,
+    98,
+    72
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png"
+}

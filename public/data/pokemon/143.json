@@ -1,0 +1,16 @@
+{
+  "id": 143,
+  "name": "snorlax",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    160,
+    110,
+    65,
+    65,
+    110,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 426,
+  "name": "drifblim",
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "stats": [
+    150,
+    80,
+    44,
+    90,
+    54,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+}

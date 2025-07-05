@@ -1,0 +1,17 @@
+{
+  "id": 779,
+  "name": "ハギギシリ",
+  "types": [
+    "水",
+    "超"
+  ],
+  "stats": [
+    68,
+    105,
+    70,
+    70,
+    70,
+    92
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png"
+}

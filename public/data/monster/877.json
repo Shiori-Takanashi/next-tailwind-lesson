@@ -1,0 +1,17 @@
+{
+  "id": 877,
+  "name": "モルペコ",
+  "types": [
+    "電",
+    "悪"
+  ],
+  "stats": [
+    58,
+    95,
+    58,
+    70,
+    58,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
+}

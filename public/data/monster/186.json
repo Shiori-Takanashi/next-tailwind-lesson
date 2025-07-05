@@ -1,0 +1,16 @@
+{
+  "id": 186,
+  "name": "ニョロトノ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    90,
+    75,
+    75,
+    90,
+    100,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png"
+}

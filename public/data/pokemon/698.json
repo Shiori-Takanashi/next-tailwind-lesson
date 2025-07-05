@@ -1,0 +1,17 @@
+{
+  "id": 698,
+  "name": "amaura",
+  "types": [
+    "rock",
+    "ice"
+  ],
+  "stats": [
+    77,
+    59,
+    50,
+    67,
+    63,
+    46
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 990,
+  "name": "iron-treads",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "stats": [
+    90,
+    112,
+    120,
+    72,
+    70,
+    106
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png"
+}

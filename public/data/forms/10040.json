@@ -1,0 +1,36 @@
+{
+  "id": 10040,
+  "name": "gastrodon-east",
+  "form_name": "east",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 589,
+  "form_order": 2,
+  "pokemon": {
+    "name": "gastrodon",
+    "url": "https://pokeapi.co/api/v2/pokemon/423/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423-east.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/423-east.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/423-east.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/423-east.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ground",
+        "url": "https://pokeapi.co/api/v2/type/5/"
+      }
+    }
+  ]
+}

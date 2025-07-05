@@ -1,0 +1,17 @@
+{
+  "id": 10035,
+  "name": "charizard-mega-y",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "stats": [
+    78,
+    104,
+    78,
+    159,
+    115,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png"
+}

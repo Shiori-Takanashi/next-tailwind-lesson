@@ -1,0 +1,16 @@
+{
+  "id": 438,
+  "name": "ウソハチ",
+  "types": [
+    "岩"
+  ],
+  "stats": [
+    50,
+    80,
+    95,
+    10,
+    45,
+    10
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png"
+}

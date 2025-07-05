@@ -1,0 +1,16 @@
+{
+  "id": 815,
+  "name": "エースバーン",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    80,
+    116,
+    75,
+    65,
+    75,
+    119
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 757,
+  "name": "ヤトウモリ",
+  "types": [
+    "毒",
+    "炎"
+  ],
+  "stats": [
+    48,
+    44,
+    40,
+    71,
+    40,
+    77
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png"
+}

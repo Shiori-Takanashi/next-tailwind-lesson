@@ -1,0 +1,17 @@
+{
+  "id": 778,
+  "name": "mimikyu-disguised",
+  "types": [
+    "ghost",
+    "fairy"
+  ],
+  "stats": [
+    55,
+    90,
+    80,
+    50,
+    105,
+    96
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
+}

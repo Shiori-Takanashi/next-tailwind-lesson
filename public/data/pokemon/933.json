@@ -1,0 +1,16 @@
+{
+  "id": 933,
+  "name": "naclstack",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    60,
+    60,
+    100,
+    35,
+    65,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png"
+}

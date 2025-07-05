@@ -1,0 +1,16 @@
+{
+  "id": 294,
+  "name": "loudred",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    84,
+    71,
+    43,
+    71,
+    43,
+    48
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png"
+}

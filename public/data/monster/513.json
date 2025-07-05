@@ -1,0 +1,16 @@
+{
+  "id": 513,
+  "name": "バオップ",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    50,
+    53,
+    48,
+    53,
+    48,
+    64
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png"
+}

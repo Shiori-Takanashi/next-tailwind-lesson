@@ -1,0 +1,16 @@
+{
+  "id": 325,
+  "name": "spoink",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    60,
+    25,
+    35,
+    70,
+    80,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png"
+}

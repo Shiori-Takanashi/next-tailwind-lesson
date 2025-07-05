@@ -1,0 +1,29 @@
+{
+  "id": 974,
+  "name": "cetoddle",
+  "form_name": "",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1308,
+  "form_order": 1,
+  "pokemon": {
+    "name": "cetoddle",
+    "url": "https://pokeapi.co/api/v2/pokemon/974/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/974.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/974.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

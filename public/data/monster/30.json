@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "name": "ニドリーナ",
+  "types": [
+    "毒"
+  ],
+  "stats": [
+    70,
+    62,
+    67,
+    55,
+    55,
+    56
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+}

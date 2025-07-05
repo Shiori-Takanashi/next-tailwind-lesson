@@ -1,0 +1,16 @@
+{
+  "id": 846,
+  "name": "arrokuda",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    41,
+    63,
+    40,
+    40,
+    30,
+    66
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png"
+}

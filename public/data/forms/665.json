@@ -1,0 +1,29 @@
+{
+  "id": 665,
+  "name": "spewpa-icy-snow",
+  "form_name": "icy-snow",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 879,
+  "form_order": 1,
+  "pokemon": {
+    "name": "spewpa",
+    "url": "https://pokeapi.co/api/v2/pokemon/665/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/665.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/665.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/665.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    }
+  ]
+}

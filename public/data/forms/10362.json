@@ -1,0 +1,36 @@
+{
+  "id": 10362,
+  "name": "calyrex-ice",
+  "form_name": "ice",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1260,
+  "form_order": 2,
+  "pokemon": {
+    "name": "calyrex-ice",
+    "url": "https://pokeapi.co/api/v2/pokemon/10193/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10193.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10193.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10193.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10193.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

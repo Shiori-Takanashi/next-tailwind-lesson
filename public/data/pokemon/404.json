@@ -1,0 +1,16 @@
+{
+  "id": 404,
+  "name": "luxio",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    60,
+    85,
+    49,
+    60,
+    49,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png"
+}

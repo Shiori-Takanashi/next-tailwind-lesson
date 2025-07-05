@@ -1,0 +1,16 @@
+{
+  "id": 535,
+  "name": "オタマロ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    50,
+    50,
+    40,
+    50,
+    40,
+    64
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+}

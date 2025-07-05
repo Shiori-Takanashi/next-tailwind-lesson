@@ -1,0 +1,29 @@
+{
+  "id": 10056,
+  "name": "arceus-water",
+  "form_name": "water",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 653,
+  "form_order": 11,
+  "pokemon": {
+    "name": "arceus",
+    "url": "https://pokeapi.co/api/v2/pokemon/493/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-water.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493-water.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493-water.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/493-water.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

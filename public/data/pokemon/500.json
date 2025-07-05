@@ -1,0 +1,17 @@
+{
+  "id": 500,
+  "name": "emboar",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "stats": [
+    110,
+    123,
+    65,
+    100,
+    65,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png"
+}

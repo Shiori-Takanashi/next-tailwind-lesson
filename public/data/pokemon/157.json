@@ -1,0 +1,16 @@
+{
+  "id": 157,
+  "name": "typhlosion",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    78,
+    84,
+    78,
+    109,
+    85,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png"
+}

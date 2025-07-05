@@ -1,0 +1,17 @@
+{
+  "id": 1025,
+  "name": "pecharunt",
+  "types": [
+    "poison",
+    "ghost"
+  ],
+  "stats": [
+    88,
+    88,
+    160,
+    88,
+    88,
+    88
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png"
+}

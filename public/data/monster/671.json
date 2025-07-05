@@ -1,0 +1,16 @@
+{
+  "id": 671,
+  "name": "フラージェス",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    78,
+    65,
+    68,
+    112,
+    154,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+}

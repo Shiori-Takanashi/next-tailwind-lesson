@@ -1,0 +1,17 @@
+{
+  "id": 595,
+  "name": "バチュル",
+  "types": [
+    "虫",
+    "電"
+  ],
+  "stats": [
+    50,
+    47,
+    50,
+    57,
+    50,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 339,
+  "name": "barboach",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "stats": [
+    50,
+    48,
+    43,
+    46,
+    41,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png"
+}

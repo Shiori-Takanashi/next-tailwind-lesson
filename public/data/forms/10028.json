@@ -1,0 +1,29 @@
+{
+  "id": 10028,
+  "name": "castform-sunny",
+  "form_name": "sunny",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 493,
+  "form_order": 2,
+  "pokemon": {
+    "name": "castform-sunny",
+    "url": "https://pokeapi.co/api/v2/pokemon/10013/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10013.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10013.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351-sunny.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10013.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fire",
+        "url": "https://pokeapi.co/api/v2/type/10/"
+      }
+    }
+  ]
+}

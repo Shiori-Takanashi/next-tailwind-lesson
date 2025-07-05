@@ -1,0 +1,16 @@
+{
+  "id": 424,
+  "name": "エテボース",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    75,
+    100,
+    66,
+    60,
+    66,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png"
+}

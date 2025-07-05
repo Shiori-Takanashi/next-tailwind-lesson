@@ -1,0 +1,16 @@
+{
+  "id": 264,
+  "name": "マッスグマ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    78,
+    70,
+    61,
+    50,
+    61,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png"
+}

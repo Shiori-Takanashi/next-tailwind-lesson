@@ -1,0 +1,17 @@
+{
+  "id": 701,
+  "name": "hawlucha",
+  "types": [
+    "fighting",
+    "flying"
+  ],
+  "stats": [
+    78,
+    92,
+    75,
+    74,
+    63,
+    118
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png"
+}

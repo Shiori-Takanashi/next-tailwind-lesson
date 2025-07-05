@@ -1,0 +1,16 @@
+{
+  "id": 10250,
+  "name": "tauros-paldea-combat-breed",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    75,
+    110,
+    105,
+    30,
+    70,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10250.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 994,
+  "name": "テツノドクガ",
+  "types": [
+    "炎",
+    "毒"
+  ],
+  "stats": [
+    80,
+    70,
+    60,
+    140,
+    110,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
+}

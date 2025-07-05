@@ -1,0 +1,17 @@
+{
+  "id": 227,
+  "name": "エアームド",
+  "types": [
+    "鋼",
+    "飛"
+  ],
+  "stats": [
+    65,
+    80,
+    140,
+    40,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png"
+}

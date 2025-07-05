@@ -1,0 +1,17 @@
+{
+  "id": 164,
+  "name": "ヨルノズク",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    100,
+    50,
+    50,
+    86,
+    96,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+}

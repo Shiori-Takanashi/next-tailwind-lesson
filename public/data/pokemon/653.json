@@ -1,0 +1,16 @@
+{
+  "id": 653,
+  "name": "fennekin",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    40,
+    45,
+    40,
+    62,
+    60,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png"
+}

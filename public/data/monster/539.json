@@ -1,0 +1,16 @@
+{
+  "id": 539,
+  "name": "ダゲキ",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    75,
+    125,
+    75,
+    30,
+    75,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 440,
+  "name": "ピンプク",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    100,
+    5,
+    5,
+    15,
+    65,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png"
+}

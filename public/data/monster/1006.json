@@ -1,0 +1,17 @@
+{
+  "id": 1006,
+  "name": "テツノブジン",
+  "types": [
+    "妖",
+    "闘"
+  ],
+  "stats": [
+    74,
+    130,
+    90,
+    120,
+    60,
+    116
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png"
+}

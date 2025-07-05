@@ -1,0 +1,17 @@
+{
+  "id": 969,
+  "name": "glimmet",
+  "types": [
+    "rock",
+    "poison"
+  ],
+  "stats": [
+    48,
+    35,
+    42,
+    105,
+    60,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png"
+}

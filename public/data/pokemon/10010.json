@@ -1,0 +1,17 @@
+{
+  "id": 10010,
+  "name": "rotom-frost",
+  "types": [
+    "electric",
+    "ice"
+  ],
+  "stats": [
+    50,
+    65,
+    107,
+    105,
+    107,
+    86
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10010.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10187,
+  "name": "morpeko-hangry",
+  "types": [
+    "electric",
+    "dark"
+  ],
+  "stats": [
+    58,
+    95,
+    58,
+    70,
+    58,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10187.png"
+}

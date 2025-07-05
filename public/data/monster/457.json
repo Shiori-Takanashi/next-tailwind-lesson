@@ -1,0 +1,16 @@
+{
+  "id": 457,
+  "name": "ネオラント",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    69,
+    69,
+    76,
+    69,
+    86,
+    91
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+}

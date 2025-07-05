@@ -1,0 +1,17 @@
+{
+  "id": 478,
+  "name": "froslass",
+  "types": [
+    "ice",
+    "ghost"
+  ],
+  "stats": [
+    70,
+    80,
+    70,
+    80,
+    70,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10336,
+  "name": "darmanitan-galar-standard",
+  "form_name": "galar-standard",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 728,
+  "form_order": 3,
+  "pokemon": {
+    "name": "darmanitan-galar-standard",
+    "url": "https://pokeapi.co/api/v2/pokemon/10177/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10177.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10177.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10177.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10177.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

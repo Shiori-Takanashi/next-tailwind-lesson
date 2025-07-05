@@ -1,0 +1,17 @@
+{
+  "id": 70,
+  "name": "ウツドン",
+  "types": [
+    "草",
+    "毒"
+  ],
+  "stats": [
+    65,
+    90,
+    50,
+    85,
+    45,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png"
+}

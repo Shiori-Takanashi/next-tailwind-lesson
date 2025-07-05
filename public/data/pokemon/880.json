@@ -1,0 +1,17 @@
+{
+  "id": 880,
+  "name": "dracozolt",
+  "types": [
+    "electric",
+    "dragon"
+  ],
+  "stats": [
+    90,
+    100,
+    90,
+    80,
+    70,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png"
+}

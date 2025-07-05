@@ -1,0 +1,17 @@
+{
+  "id": 10202,
+  "name": "gengar-gmax",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "stats": [
+    60,
+    65,
+    60,
+    130,
+    75,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10202.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 716,
+  "name": "xerneas",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    126,
+    131,
+    95,
+    131,
+    98,
+    99
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+}

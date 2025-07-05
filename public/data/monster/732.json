@@ -1,0 +1,17 @@
+{
+  "id": 732,
+  "name": "ケララッパ",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    55,
+    85,
+    50,
+    40,
+    50,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png"
+}

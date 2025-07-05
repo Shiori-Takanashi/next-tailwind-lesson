@@ -1,0 +1,16 @@
+{
+  "id": 320,
+  "name": "wailmer",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    130,
+    70,
+    35,
+    70,
+    35,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png"
+}

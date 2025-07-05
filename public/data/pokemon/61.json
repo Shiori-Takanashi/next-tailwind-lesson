@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "name": "poliwhirl",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    65,
+    65,
+    65,
+    50,
+    50,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+}

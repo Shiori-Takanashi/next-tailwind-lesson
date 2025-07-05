@@ -1,0 +1,17 @@
+{
+  "id": 442,
+  "name": "spiritomb",
+  "types": [
+    "ghost",
+    "dark"
+  ],
+  "stats": [
+    50,
+    92,
+    108,
+    92,
+    108,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png"
+}

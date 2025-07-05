@@ -1,0 +1,17 @@
+{
+  "id": 962,
+  "name": "bombirdier",
+  "types": [
+    "flying",
+    "dark"
+  ],
+  "stats": [
+    70,
+    103,
+    85,
+    60,
+    85,
+    82
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+}

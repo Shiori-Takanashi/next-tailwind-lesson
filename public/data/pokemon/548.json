@@ -1,0 +1,16 @@
+{
+  "id": 548,
+  "name": "petilil",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    45,
+    35,
+    50,
+    70,
+    50,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 213,
+  "name": "shuckle",
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "stats": [
+    20,
+    10,
+    230,
+    10,
+    230,
+    5
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png"
+}

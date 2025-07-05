@@ -1,0 +1,16 @@
+{
+  "id": 223,
+  "name": "テッポウオ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    35,
+    65,
+    35,
+    65,
+    35,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png"
+}

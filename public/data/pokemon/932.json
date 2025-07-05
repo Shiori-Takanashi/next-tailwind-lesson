@@ -1,0 +1,16 @@
+{
+  "id": 932,
+  "name": "nacli",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    55,
+    55,
+    75,
+    35,
+    35,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10220,
+  "name": "centiskorch-gmax",
+  "types": [
+    "fire",
+    "bug"
+  ],
+  "stats": [
+    100,
+    115,
+    65,
+    90,
+    90,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10220.png"
+}

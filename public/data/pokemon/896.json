@@ -1,0 +1,16 @@
+{
+  "id": 896,
+  "name": "glastrier",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    100,
+    145,
+    130,
+    65,
+    110,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1007,
+  "name": "koraidon",
+  "types": [
+    "fighting",
+    "dragon"
+  ],
+  "stats": [
+    100,
+    135,
+    115,
+    85,
+    100,
+    135
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 691,
+  "name": "dragalge",
+  "types": [
+    "poison",
+    "dragon"
+  ],
+  "stats": [
+    65,
+    75,
+    90,
+    97,
+    123,
+    44
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png"
+}

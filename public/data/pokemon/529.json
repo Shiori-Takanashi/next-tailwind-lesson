@@ -1,0 +1,16 @@
+{
+  "id": 529,
+  "name": "drilbur",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    60,
+    85,
+    40,
+    30,
+    45,
+    68
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+}

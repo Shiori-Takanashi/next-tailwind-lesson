@@ -1,0 +1,36 @@
+{
+  "id": 10260,
+  "name": "minior-indigo",
+  "form_name": "indigo",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1104,
+  "form_order": 13,
+  "pokemon": {
+    "name": "minior-indigo",
+    "url": "https://pokeapi.co/api/v2/pokemon/10141/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10141.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10141.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10141.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10141.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

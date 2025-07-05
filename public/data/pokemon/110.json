@@ -1,0 +1,16 @@
+{
+  "id": 110,
+  "name": "weezing",
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    65,
+    90,
+    120,
+    85,
+    70,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+}

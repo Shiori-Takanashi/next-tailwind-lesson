@@ -1,0 +1,17 @@
+{
+  "id": 624,
+  "name": "コマタナ",
+  "types": [
+    "悪",
+    "鋼"
+  ],
+  "stats": [
+    45,
+    85,
+    70,
+    40,
+    40,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png"
+}

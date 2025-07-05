@@ -1,0 +1,16 @@
+{
+  "id": 641,
+  "name": "tornadus-incarnate",
+  "types": [
+    "flying"
+  ],
+  "stats": [
+    79,
+    115,
+    70,
+    125,
+    80,
+    111
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+}

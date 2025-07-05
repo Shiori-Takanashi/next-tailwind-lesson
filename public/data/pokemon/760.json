@@ -1,0 +1,17 @@
+{
+  "id": 760,
+  "name": "bewear",
+  "types": [
+    "normal",
+    "fighting"
+  ],
+  "stats": [
+    120,
+    125,
+    80,
+    55,
+    60,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png"
+}

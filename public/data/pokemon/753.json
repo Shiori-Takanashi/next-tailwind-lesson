@@ -1,0 +1,16 @@
+{
+  "id": 753,
+  "name": "fomantis",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    40,
+    55,
+    35,
+    50,
+    35,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png"
+}

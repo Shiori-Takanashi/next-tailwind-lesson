@@ -1,0 +1,17 @@
+{
+  "id": 740,
+  "name": "crabominable",
+  "types": [
+    "fighting",
+    "ice"
+  ],
+  "stats": [
+    97,
+    132,
+    77,
+    62,
+    67,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png"
+}

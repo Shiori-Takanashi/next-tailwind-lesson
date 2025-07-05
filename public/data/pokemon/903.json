@@ -1,0 +1,17 @@
+{
+  "id": 903,
+  "name": "sneasler",
+  "types": [
+    "fighting",
+    "poison"
+  ],
+  "stats": [
+    80,
+    130,
+    60,
+    40,
+    80,
+    120
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png"
+}

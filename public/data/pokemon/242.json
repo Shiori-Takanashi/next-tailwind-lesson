@@ -1,0 +1,16 @@
+{
+  "id": 242,
+  "name": "blissey",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    255,
+    10,
+    10,
+    75,
+    135,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png"
+}

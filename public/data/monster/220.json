@@ -1,0 +1,17 @@
+{
+  "id": 220,
+  "name": "ウリムー",
+  "types": [
+    "氷",
+    "地"
+  ],
+  "stats": [
+    50,
+    50,
+    40,
+    30,
+    30,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png"
+}

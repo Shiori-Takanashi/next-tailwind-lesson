@@ -1,0 +1,16 @@
+{
+  "id": 191,
+  "name": "sunkern",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png"
+}

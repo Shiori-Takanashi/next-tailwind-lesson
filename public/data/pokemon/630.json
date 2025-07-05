@@ -1,0 +1,17 @@
+{
+  "id": 630,
+  "name": "mandibuzz",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "stats": [
+    110,
+    65,
+    105,
+    55,
+    95,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png"
+}

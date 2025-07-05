@@ -1,0 +1,29 @@
+{
+  "id": 10457,
+  "name": "alcremie-rainbow-swirl-berry-sweet",
+  "form_name": "rainbow-swirl-berry-sweet",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1222,
+  "form_order": 18,
+  "pokemon": {
+    "name": "alcremie",
+    "url": "https://pokeapi.co/api/v2/pokemon/869/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-rainbow-swirl-berry-sweet.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/869-rainbow-swirl-berry-sweet.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

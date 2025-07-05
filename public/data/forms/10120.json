@@ -1,0 +1,29 @@
+{
+  "id": 10120,
+  "name": "furfrou-dandy",
+  "form_name": "dandy",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 947,
+  "form_order": 7,
+  "pokemon": {
+    "name": "furfrou",
+    "url": "https://pokeapi.co/api/v2/pokemon/676/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-dandy.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/676-dandy.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    }
+  ]
+}

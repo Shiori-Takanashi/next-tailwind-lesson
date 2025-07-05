@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import type { NextPageWithLayout } from './_app';
 import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import { Monster } from '../types/monster';
@@ -10,7 +11,7 @@ interface MonsterListPageProps {
     monsters: Monster[];
 }
 
-const MonsterListPage: React.FC<MonsterListPageProps> = ({ monsters }) => {
+const MonsterListPage: NextPageWithLayout<MonsterListPageProps> = ({ monsters }) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedType, setSelectedType] = useState('');
     const [sortBy, setSortBy] = useState<'id' | 'name' | 'hp'>('id');
@@ -439,5 +440,8 @@ export const getStaticProps: GetStaticProps = async () => {
         };
     }
 };
+
+// このページではレイアウトを外す
+MonsterListPage.getLayout = (page) => page;
 
 export default MonsterListPage;

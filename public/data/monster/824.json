@@ -1,0 +1,16 @@
+{
+  "id": 824,
+  "name": "サッチムシ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    25,
+    20,
+    20,
+    25,
+    45,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png"
+}

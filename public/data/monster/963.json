@@ -1,0 +1,16 @@
+{
+  "id": 963,
+  "name": "ナミイルカ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    70,
+    45,
+    40,
+    45,
+    40,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png"
+}

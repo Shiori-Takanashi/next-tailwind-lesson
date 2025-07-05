@@ -1,0 +1,29 @@
+{
+  "id": 10034,
+  "name": "burmy-sandy",
+  "form_name": "sandy",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 570,
+  "form_order": 2,
+  "pokemon": {
+    "name": "burmy",
+    "url": "https://pokeapi.co/api/v2/pokemon/412/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412-sandy.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/412-sandy.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/412-sandy.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/412-sandy.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    }
+  ]
+}

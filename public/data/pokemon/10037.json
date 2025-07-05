@@ -1,0 +1,16 @@
+{
+  "id": 10037,
+  "name": "alakazam-mega",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    55,
+    50,
+    65,
+    175,
+    105,
+    150
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10037.png"
+}

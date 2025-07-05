@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "name": "ムウマージ",
+  "types": [
+    "霊"
+  ],
+  "stats": [
+    60,
+    60,
+    60,
+    105,
+    105,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 414,
+  "name": "mothim",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    70,
+    94,
+    50,
+    94,
+    50,
+    66
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 776,
+  "name": "バクガメス",
+  "types": [
+    "炎",
+    "竜"
+  ],
+  "stats": [
+    60,
+    78,
+    135,
+    91,
+    85,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png"
+}

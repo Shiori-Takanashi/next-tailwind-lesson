@@ -1,0 +1,36 @@
+{
+  "id": 10339,
+  "name": "stunfisk-galar",
+  "form_name": "galar",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 800,
+  "form_order": 2,
+  "pokemon": {
+    "name": "stunfisk-galar",
+    "url": "https://pokeapi.co/api/v2/pokemon/10180/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10180.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10180.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10180.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10180.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ground",
+        "url": "https://pokeapi.co/api/v2/type/5/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

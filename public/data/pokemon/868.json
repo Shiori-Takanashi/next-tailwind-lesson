@@ -1,0 +1,16 @@
+{
+  "id": 868,
+  "name": "milcery",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    45,
+    40,
+    40,
+    50,
+    61,
+    34
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png"
+}

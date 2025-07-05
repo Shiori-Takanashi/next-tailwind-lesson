@@ -1,0 +1,17 @@
+{
+  "id": 559,
+  "name": "scraggy",
+  "types": [
+    "dark",
+    "fighting"
+  ],
+  "stats": [
+    50,
+    75,
+    70,
+    35,
+    70,
+    48
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
+}

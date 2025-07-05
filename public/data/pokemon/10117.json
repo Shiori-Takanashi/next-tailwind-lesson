@@ -1,0 +1,17 @@
+{
+  "id": 10117,
+  "name": "greninja-ash",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "stats": [
+    72,
+    145,
+    67,
+    153,
+    71,
+    132
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10117.png"
+}

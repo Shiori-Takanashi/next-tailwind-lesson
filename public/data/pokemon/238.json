@@ -1,0 +1,17 @@
+{
+  "id": 238,
+  "name": "smoochum",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "stats": [
+    45,
+    30,
+    15,
+    85,
+    65,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png"
+}

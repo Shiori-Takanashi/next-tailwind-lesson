@@ -1,0 +1,16 @@
+{
+  "id": 611,
+  "name": "オノンド",
+  "types": [
+    "竜"
+  ],
+  "stats": [
+    66,
+    117,
+    70,
+    40,
+    50,
+    67
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png"
+}

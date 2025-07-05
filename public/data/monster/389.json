@@ -1,0 +1,17 @@
+{
+  "id": 389,
+  "name": "ドダイトス",
+  "types": [
+    "草",
+    "地"
+  ],
+  "stats": [
+    95,
+    109,
+    105,
+    75,
+    85,
+    56
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png"
+}

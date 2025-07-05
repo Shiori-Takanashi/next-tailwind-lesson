@@ -1,0 +1,17 @@
+{
+  "id": 885,
+  "name": "dreepy",
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "stats": [
+    28,
+    60,
+    30,
+    40,
+    30,
+    82
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png"
+}

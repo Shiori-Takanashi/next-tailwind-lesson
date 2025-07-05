@@ -1,0 +1,16 @@
+{
+  "id": 518,
+  "name": "musharna",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    116,
+    55,
+    85,
+    107,
+    95,
+    29
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
+}

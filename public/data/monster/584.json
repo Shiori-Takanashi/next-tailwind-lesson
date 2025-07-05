@@ -1,0 +1,16 @@
+{
+  "id": 584,
+  "name": "バイバニラ",
+  "types": [
+    "氷"
+  ],
+  "stats": [
+    71,
+    95,
+    85,
+    110,
+    95,
+    79
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
+}

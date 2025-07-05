@@ -1,0 +1,17 @@
+{
+  "id": 10114,
+  "name": "exeggutor-alola",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "stats": [
+    95,
+    105,
+    85,
+    125,
+    75,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10114.png"
+}

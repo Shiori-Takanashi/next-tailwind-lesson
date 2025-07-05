@@ -1,0 +1,16 @@
+{
+  "id": 813,
+  "name": "ヒバニー",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    50,
+    71,
+    40,
+    40,
+    40,
+    69
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png"
+}

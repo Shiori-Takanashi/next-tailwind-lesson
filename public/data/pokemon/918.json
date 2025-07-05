@@ -1,0 +1,16 @@
+{
+  "id": 918,
+  "name": "spidops",
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    60,
+    79,
+    92,
+    52,
+    86,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
+}

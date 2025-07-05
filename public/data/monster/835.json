@@ -1,0 +1,16 @@
+{
+  "id": 835,
+  "name": "ワンパチ",
+  "types": [
+    "電"
+  ],
+  "stats": [
+    59,
+    45,
+    50,
+    40,
+    50,
+    26
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png"
+}

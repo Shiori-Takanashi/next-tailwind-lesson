@@ -1,0 +1,36 @@
+{
+  "id": 10129,
+  "name": "gourgeist-small",
+  "form_name": "small",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 990,
+  "form_order": 2,
+  "pokemon": {
+    "name": "gourgeist-small",
+    "url": "https://pokeapi.co/api/v2/pokemon/10030/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10030.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/711-small.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    }
+  ]
+}

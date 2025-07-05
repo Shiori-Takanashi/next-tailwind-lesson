@@ -1,0 +1,17 @@
+{
+  "id": 993,
+  "name": "テツノコウベ",
+  "types": [
+    "悪",
+    "飛"
+  ],
+  "stats": [
+    94,
+    80,
+    86,
+    122,
+    80,
+    108
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png"
+}

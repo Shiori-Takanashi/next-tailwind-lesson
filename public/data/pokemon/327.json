@@ -1,0 +1,16 @@
+{
+  "id": 327,
+  "name": "spinda",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png"
+}

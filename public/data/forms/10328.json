@@ -1,0 +1,36 @@
+{
+  "id": 10328,
+  "name": "articuno-galar",
+  "form_name": "galar",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 238,
+  "form_order": 2,
+  "pokemon": {
+    "name": "articuno-galar",
+    "url": "https://pokeapi.co/api/v2/pokemon/10169/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10169.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10169.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10169.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10169.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

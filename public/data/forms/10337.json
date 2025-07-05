@@ -1,0 +1,36 @@
+{
+  "id": 10337,
+  "name": "darmanitan-galar-zen",
+  "form_name": "galar-zen",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 729,
+  "form_order": 4,
+  "pokemon": {
+    "name": "darmanitan-galar-zen",
+    "url": "https://pokeapi.co/api/v2/pokemon/10178/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10178.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10178.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10178.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10178.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fire",
+        "url": "https://pokeapi.co/api/v2/type/10/"
+      }
+    }
+  ]
+}

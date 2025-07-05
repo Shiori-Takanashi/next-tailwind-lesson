@@ -1,0 +1,16 @@
+{
+  "id": 700,
+  "name": "sylveon",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    95,
+    65,
+    65,
+    110,
+    130,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png"
+}

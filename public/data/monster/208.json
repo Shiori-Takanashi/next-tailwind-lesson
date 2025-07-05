@@ -1,0 +1,17 @@
+{
+  "id": 208,
+  "name": "ハガネール",
+  "types": [
+    "鋼",
+    "地"
+  ],
+  "stats": [
+    75,
+    85,
+    200,
+    55,
+    65,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+}

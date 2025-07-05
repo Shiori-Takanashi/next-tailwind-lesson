@@ -1,0 +1,17 @@
+{
+  "id": 798,
+  "name": "カミツルギ",
+  "types": [
+    "草",
+    "鋼"
+  ],
+  "stats": [
+    59,
+    181,
+    131,
+    59,
+    31,
+    109
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png"
+}

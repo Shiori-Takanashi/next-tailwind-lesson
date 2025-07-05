@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "bulbasaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    45,
+    49,
+    49,
+    65,
+    65,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+}

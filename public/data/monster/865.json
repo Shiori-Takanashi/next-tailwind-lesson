@@ -1,0 +1,16 @@
+{
+  "id": 865,
+  "name": "ネギガナイト",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    62,
+    135,
+    95,
+    68,
+    82,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png"
+}

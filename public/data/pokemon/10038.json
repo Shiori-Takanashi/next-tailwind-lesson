@@ -1,0 +1,17 @@
+{
+  "id": 10038,
+  "name": "gengar-mega",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "stats": [
+    60,
+    65,
+    80,
+    170,
+    95,
+    130
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png"
+}

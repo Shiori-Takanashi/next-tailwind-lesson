@@ -1,0 +1,16 @@
+{
+  "id": 1017,
+  "name": "ogerpon",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    80,
+    120,
+    84,
+    60,
+    96,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png"
+}

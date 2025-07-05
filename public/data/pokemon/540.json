@@ -1,0 +1,17 @@
+{
+  "id": 540,
+  "name": "sewaddle",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    45,
+    53,
+    70,
+    40,
+    60,
+    42
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png"
+}

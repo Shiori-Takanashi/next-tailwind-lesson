@@ -1,0 +1,36 @@
+{
+  "id": 10364,
+  "name": "venusaur-gmax",
+  "form_name": "gmax",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1249,
+  "form_order": 1,
+  "pokemon": {
+    "name": "venusaur-gmax",
+    "url": "https://pokeapi.co/api/v2/pokemon/10195/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10195.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10195.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10195.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10195.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "poison",
+        "url": "https://pokeapi.co/api/v2/type/4/"
+      }
+    }
+  ]
+}

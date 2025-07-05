@@ -1,0 +1,17 @@
+{
+  "id": 1004,
+  "name": "イーユイ",
+  "types": [
+    "悪",
+    "炎"
+  ],
+  "stats": [
+    55,
+    80,
+    80,
+    135,
+    120,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png"
+}

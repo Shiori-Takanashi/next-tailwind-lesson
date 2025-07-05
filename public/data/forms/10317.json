@@ -1,0 +1,29 @@
+{
+  "id": 10317,
+  "name": "pikachu-starter",
+  "form_name": "starter",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 50,
+  "form_order": 15,
+  "pokemon": {
+    "name": "pikachu-starter",
+    "url": "https://pokeapi.co/api/v2/pokemon/10158/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

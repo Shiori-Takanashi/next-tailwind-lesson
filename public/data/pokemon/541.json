@@ -1,0 +1,17 @@
+{
+  "id": 541,
+  "name": "swadloon",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    55,
+    63,
+    90,
+    50,
+    80,
+    42
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+}

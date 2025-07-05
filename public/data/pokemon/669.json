@@ -1,0 +1,16 @@
+{
+  "id": 669,
+  "name": "flabebe",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    44,
+    38,
+    39,
+    61,
+    79,
+    42
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+}

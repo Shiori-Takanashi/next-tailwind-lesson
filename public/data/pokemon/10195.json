@@ -1,0 +1,17 @@
+{
+  "id": 10195,
+  "name": "venusaur-gmax",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    80,
+    82,
+    83,
+    100,
+    100,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10195.png"
+}

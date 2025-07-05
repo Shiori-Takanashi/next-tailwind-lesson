@@ -1,0 +1,17 @@
+{
+  "id": 413,
+  "name": "wormadam-plant",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    60,
+    59,
+    85,
+    79,
+    105,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png"
+}

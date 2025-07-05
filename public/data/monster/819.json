@@ -1,0 +1,16 @@
+{
+  "id": 819,
+  "name": "ホシガリス",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    70,
+    55,
+    55,
+    35,
+    35,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png"
+}

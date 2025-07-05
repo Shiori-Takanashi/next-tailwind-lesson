@@ -1,0 +1,16 @@
+{
+  "id": 576,
+  "name": "gothitelle",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    70,
+    55,
+    95,
+    95,
+    110,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 970,
+  "name": "キラフロル",
+  "types": [
+    "岩",
+    "毒"
+  ],
+  "stats": [
+    83,
+    55,
+    90,
+    130,
+    81,
+    86
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 782,
+  "name": "ジャラコ",
+  "types": [
+    "竜"
+  ],
+  "stats": [
+    45,
+    55,
+    65,
+    45,
+    45,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png"
+}

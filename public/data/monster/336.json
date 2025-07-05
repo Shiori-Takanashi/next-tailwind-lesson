@@ -1,0 +1,16 @@
+{
+  "id": 336,
+  "name": "ハブネーク",
+  "types": [
+    "毒"
+  ],
+  "stats": [
+    73,
+    100,
+    60,
+    100,
+    60,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png"
+}

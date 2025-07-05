@@ -1,0 +1,16 @@
+{
+  "id": 599,
+  "name": "ギアル",
+  "types": [
+    "鋼"
+  ],
+  "stats": [
+    40,
+    55,
+    70,
+    45,
+    60,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+}

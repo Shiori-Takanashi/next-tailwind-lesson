@@ -1,0 +1,16 @@
+{
+  "id": 916,
+  "name": "パフュートン",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    110,
+    100,
+    75,
+    59,
+    80,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
+}

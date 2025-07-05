@@ -1,0 +1,17 @@
+{
+  "id": 694,
+  "name": "helioptile",
+  "types": [
+    "electric",
+    "normal"
+  ],
+  "stats": [
+    44,
+    38,
+    33,
+    61,
+    43,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
+}

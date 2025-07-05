@@ -1,0 +1,16 @@
+{
+  "id": 351,
+  "name": "ポワルン",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    70,
+    70,
+    70,
+    70,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png"
+}

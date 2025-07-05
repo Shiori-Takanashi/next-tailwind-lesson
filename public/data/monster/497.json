@@ -1,0 +1,16 @@
+{
+  "id": 497,
+  "name": "ジャローダ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    75,
+    75,
+    95,
+    75,
+    95,
+    113
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png"
+}

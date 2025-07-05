@@ -1,0 +1,36 @@
+{
+  "id": 10214,
+  "name": "grimer-alola",
+  "form_name": "alola",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 143,
+  "form_order": 2,
+  "pokemon": {
+    "name": "grimer-alola",
+    "url": "https://pokeapi.co/api/v2/pokemon/10112/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10112.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10112.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10112.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10112.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "poison",
+        "url": "https://pokeapi.co/api/v2/type/4/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 926,
+  "name": "パピモッチ",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    37,
+    55,
+    70,
+    30,
+    55,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
+}

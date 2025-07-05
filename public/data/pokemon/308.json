@@ -1,0 +1,17 @@
+{
+  "id": 308,
+  "name": "medicham",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    60,
+    75,
+    60,
+    75,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png"
+}

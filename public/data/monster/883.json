@@ -1,0 +1,17 @@
+{
+  "id": 883,
+  "name": "ウオチルドン",
+  "types": [
+    "水",
+    "氷"
+  ],
+  "stats": [
+    90,
+    90,
+    100,
+    80,
+    90,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png"
+}

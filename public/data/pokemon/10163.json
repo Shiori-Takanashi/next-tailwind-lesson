@@ -1,0 +1,17 @@
+{
+  "id": 10163,
+  "name": "rapidash-galar",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "stats": [
+    65,
+    100,
+    70,
+    80,
+    80,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10163.png"
+}

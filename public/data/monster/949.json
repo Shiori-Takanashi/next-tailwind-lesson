@@ -1,0 +1,17 @@
+{
+  "id": 949,
+  "name": "リククラゲ",
+  "types": [
+    "地",
+    "草"
+  ],
+  "stats": [
+    80,
+    70,
+    65,
+    80,
+    120,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png"
+}

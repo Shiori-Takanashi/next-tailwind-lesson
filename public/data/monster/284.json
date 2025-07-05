@@ -1,0 +1,17 @@
+{
+  "id": 284,
+  "name": "アメモース",
+  "types": [
+    "虫",
+    "飛"
+  ],
+  "stats": [
+    70,
+    60,
+    62,
+    100,
+    82,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png"
+}

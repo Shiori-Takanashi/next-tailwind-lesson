@@ -1,0 +1,17 @@
+{
+  "id": 46,
+  "name": "パラス",
+  "types": [
+    "虫",
+    "草"
+  ],
+  "stats": [
+    35,
+    70,
+    55,
+    45,
+    55,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+}

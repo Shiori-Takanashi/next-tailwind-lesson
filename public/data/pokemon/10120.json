@@ -1,0 +1,17 @@
+{
+  "id": 10120,
+  "name": "zygarde-complete",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "stats": [
+    216,
+    100,
+    121,
+    91,
+    95,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10120.png"
+}

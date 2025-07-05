@@ -1,0 +1,17 @@
+{
+  "id": 662,
+  "name": "fletchinder",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "stats": [
+    62,
+    73,
+    55,
+    56,
+    52,
+    84
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png"
+}

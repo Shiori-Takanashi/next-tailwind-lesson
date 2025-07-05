@@ -1,0 +1,16 @@
+{
+  "id": 606,
+  "name": "beheeyem",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    75,
+    75,
+    75,
+    125,
+    95,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png"
+}

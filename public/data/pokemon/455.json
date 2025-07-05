@@ -1,0 +1,16 @@
+{
+  "id": 455,
+  "name": "carnivine",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    74,
+    100,
+    72,
+    90,
+    72,
+    46
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 341,
+  "name": "corphish",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    43,
+    80,
+    65,
+    50,
+    35,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png"
+}

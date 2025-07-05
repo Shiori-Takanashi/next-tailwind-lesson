@@ -1,0 +1,17 @@
+{
+  "id": 632,
+  "name": "アイアント",
+  "types": [
+    "虫",
+    "鋼"
+  ],
+  "stats": [
+    58,
+    109,
+    112,
+    48,
+    48,
+    109
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png"
+}

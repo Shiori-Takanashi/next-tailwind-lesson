@@ -1,0 +1,17 @@
+{
+  "id": 884,
+  "name": "ジュラルドン",
+  "types": [
+    "鋼",
+    "竜"
+  ],
+  "stats": [
+    70,
+    95,
+    115,
+    120,
+    50,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 762,
+  "name": "アママイコ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    52,
+    40,
+    48,
+    40,
+    48,
+    62
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10183,
+  "name": "pikachu-belle",
+  "form_name": "belle",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 39,
+  "form_order": 4,
+  "pokemon": {
+    "name": "pikachu-belle",
+    "url": "https://pokeapi.co/api/v2/pokemon/10081/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10081.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10081.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10081.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10081.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

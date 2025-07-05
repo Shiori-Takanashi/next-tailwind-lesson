@@ -1,0 +1,17 @@
+{
+  "id": 914,
+  "name": "ウェーニバル",
+  "types": [
+    "水",
+    "闘"
+  ],
+  "stats": [
+    85,
+    120,
+    80,
+    85,
+    75,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 887,
+  "name": "dragapult",
+  "types": [
+    "dragon",
+    "ghost"
+  ],
+  "stats": [
+    88,
+    120,
+    75,
+    100,
+    75,
+    142
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png"
+}

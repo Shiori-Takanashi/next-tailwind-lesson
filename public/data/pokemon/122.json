@@ -1,0 +1,17 @@
+{
+  "id": 122,
+  "name": "mr-mime",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "stats": [
+    40,
+    45,
+    65,
+    100,
+    120,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png"
+}

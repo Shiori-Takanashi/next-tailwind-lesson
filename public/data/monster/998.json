@@ -1,0 +1,17 @@
+{
+  "id": 998,
+  "name": "セグレイブ",
+  "types": [
+    "竜",
+    "氷"
+  ],
+  "stats": [
+    115,
+    145,
+    92,
+    75,
+    86,
+    87
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png"
+}

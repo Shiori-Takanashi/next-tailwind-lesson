@@ -1,0 +1,17 @@
+{
+  "id": 286,
+  "name": "キノガッサ",
+  "types": [
+    "草",
+    "闘"
+  ],
+  "stats": [
+    60,
+    130,
+    80,
+    60,
+    60,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png"
+}

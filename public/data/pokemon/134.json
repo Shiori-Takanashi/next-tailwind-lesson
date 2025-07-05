@@ -1,0 +1,16 @@
+{
+  "id": 134,
+  "name": "vaporeon",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    130,
+    65,
+    60,
+    110,
+    95,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png"
+}

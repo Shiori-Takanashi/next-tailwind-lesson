@@ -1,0 +1,29 @@
+{
+  "id": 493,
+  "name": "arceus-normal",
+  "form_name": "normal",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 643,
+  "form_order": 1,
+  "pokemon": {
+    "name": "arceus",
+    "url": "https://pokeapi.co/api/v2/pokemon/493/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/493.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    }
+  ]
+}

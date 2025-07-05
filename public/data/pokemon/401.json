@@ -1,0 +1,16 @@
+{
+  "id": 401,
+  "name": "kricketot",
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    37,
+    25,
+    41,
+    25,
+    41,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png"
+}

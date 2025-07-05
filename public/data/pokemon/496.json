@@ -1,0 +1,16 @@
+{
+  "id": 496,
+  "name": "servine",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    60,
+    60,
+    75,
+    60,
+    75,
+    83
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png"
+}

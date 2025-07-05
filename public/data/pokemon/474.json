@@ -1,0 +1,16 @@
+{
+  "id": 474,
+  "name": "porygon-z",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    85,
+    80,
+    70,
+    135,
+    75,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png"
+}

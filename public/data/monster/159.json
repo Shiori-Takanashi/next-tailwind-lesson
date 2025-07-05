@@ -1,0 +1,16 @@
+{
+  "id": 159,
+  "name": "アリゲイツ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    65,
+    80,
+    80,
+    59,
+    63,
+    58
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+}

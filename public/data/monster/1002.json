@@ -1,0 +1,17 @@
+{
+  "id": 1002,
+  "name": "パオジアン",
+  "types": [
+    "悪",
+    "氷"
+  ],
+  "stats": [
+    80,
+    120,
+    80,
+    90,
+    65,
+    135
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png"
+}

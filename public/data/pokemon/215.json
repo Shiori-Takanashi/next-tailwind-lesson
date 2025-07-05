@@ -1,0 +1,17 @@
+{
+  "id": 215,
+  "name": "sneasel",
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "stats": [
+    55,
+    95,
+    55,
+    35,
+    75,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
+}

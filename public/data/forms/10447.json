@@ -1,0 +1,36 @@
+{
+  "id": 10447,
+  "name": "poltchageist-artisan",
+  "form_name": "artisan",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1375,
+  "form_order": 2,
+  "pokemon": {
+    "name": "poltchageist",
+    "url": "https://pokeapi.co/api/v2/pokemon/1012/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

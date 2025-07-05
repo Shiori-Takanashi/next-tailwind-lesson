@@ -1,0 +1,16 @@
+{
+  "id": 288,
+  "name": "vigoroth",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    80,
+    80,
+    80,
+    55,
+    55,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png"
+}

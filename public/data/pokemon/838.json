@@ -1,0 +1,17 @@
+{
+  "id": 838,
+  "name": "carkol",
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "stats": [
+    80,
+    60,
+    90,
+    60,
+    70,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png"
+}

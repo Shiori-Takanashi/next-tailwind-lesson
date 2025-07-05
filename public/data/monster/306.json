@@ -1,0 +1,17 @@
+{
+  "id": 306,
+  "name": "ボスゴドラ",
+  "types": [
+    "鋼",
+    "岩"
+  ],
+  "stats": [
+    70,
+    110,
+    180,
+    60,
+    60,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 988,
+  "name": "チヲハウハネ",
+  "types": [
+    "虫",
+    "闘"
+  ],
+  "stats": [
+    85,
+    135,
+    79,
+    85,
+    105,
+    81
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png"
+}

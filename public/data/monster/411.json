@@ -1,0 +1,17 @@
+{
+  "id": 411,
+  "name": "トリデプス",
+  "types": [
+    "岩",
+    "鋼"
+  ],
+  "stats": [
+    60,
+    52,
+    168,
+    47,
+    138,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png"
+}

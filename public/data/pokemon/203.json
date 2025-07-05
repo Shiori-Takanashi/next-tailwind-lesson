@@ -1,0 +1,17 @@
+{
+  "id": 203,
+  "name": "girafarig",
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "stats": [
+    70,
+    80,
+    65,
+    90,
+    65,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png"
+}

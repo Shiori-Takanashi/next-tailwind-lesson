@@ -1,0 +1,17 @@
+{
+  "id": 1009,
+  "name": "ウネルミナモ",
+  "types": [
+    "水",
+    "竜"
+  ],
+  "stats": [
+    99,
+    83,
+    91,
+    125,
+    83,
+    109
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png"
+}

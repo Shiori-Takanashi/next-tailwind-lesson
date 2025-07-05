@@ -1,0 +1,17 @@
+{
+  "id": 780,
+  "name": "ジジーロン",
+  "types": [
+    "普",
+    "竜"
+  ],
+  "stats": [
+    78,
+    60,
+    85,
+    135,
+    91,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 872,
+  "name": "snom",
+  "types": [
+    "ice",
+    "bug"
+  ],
+  "stats": [
+    30,
+    25,
+    35,
+    45,
+    30,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+}

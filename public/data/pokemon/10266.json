@@ -1,0 +1,17 @@
+{
+  "id": 10266,
+  "name": "koraidon-swimming-build",
+  "types": [
+    "fighting",
+    "dragon"
+  ],
+  "stats": [
+    100,
+    135,
+    115,
+    85,
+    100,
+    135
+  ],
+  "image": null
+}

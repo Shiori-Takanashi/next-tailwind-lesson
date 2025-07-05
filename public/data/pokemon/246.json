@@ -1,0 +1,17 @@
+{
+  "id": 246,
+  "name": "larvitar",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "stats": [
+    50,
+    64,
+    50,
+    45,
+    50,
+    41
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+}

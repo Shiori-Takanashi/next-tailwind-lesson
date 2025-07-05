@@ -1,0 +1,16 @@
+{
+  "id": 10103,
+  "name": "vulpix-alola",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    38,
+    41,
+    40,
+    50,
+    65,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10103.png"
+}

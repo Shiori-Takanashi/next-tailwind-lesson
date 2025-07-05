@@ -1,0 +1,16 @@
+{
+  "id": 354,
+  "name": "banette",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    64,
+    115,
+    65,
+    83,
+    63,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+}

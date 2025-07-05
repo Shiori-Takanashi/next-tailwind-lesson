@@ -1,0 +1,16 @@
+{
+  "id": 253,
+  "name": "ジュプトル",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    50,
+    65,
+    45,
+    85,
+    65,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+}

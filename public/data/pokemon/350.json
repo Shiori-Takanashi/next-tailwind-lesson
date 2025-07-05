@@ -1,0 +1,16 @@
+{
+  "id": 350,
+  "name": "milotic",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    95,
+    60,
+    79,
+    100,
+    125,
+    81
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+}

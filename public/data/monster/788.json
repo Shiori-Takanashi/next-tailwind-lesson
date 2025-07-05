@@ -1,0 +1,17 @@
+{
+  "id": 788,
+  "name": "カプ・レヒレ",
+  "types": [
+    "水",
+    "妖"
+  ],
+  "stats": [
+    70,
+    75,
+    115,
+    95,
+    130,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
+}

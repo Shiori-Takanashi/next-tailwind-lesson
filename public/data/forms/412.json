@@ -1,0 +1,29 @@
+{
+  "id": 412,
+  "name": "burmy-plant",
+  "form_name": "plant",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 569,
+  "form_order": 1,
+  "pokemon": {
+    "name": "burmy",
+    "url": "https://pokeapi.co/api/v2/pokemon/412/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/412.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/412.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/412.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    }
+  ]
+}

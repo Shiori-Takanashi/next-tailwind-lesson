@@ -1,0 +1,17 @@
+{
+  "id": 10249,
+  "name": "enamorus-therian",
+  "types": [
+    "fairy",
+    "flying"
+  ],
+  "stats": [
+    74,
+    115,
+    110,
+    135,
+    100,
+    46
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10249.png"
+}

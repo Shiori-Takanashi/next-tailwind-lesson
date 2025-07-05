@@ -1,0 +1,17 @@
+{
+  "id": 10047,
+  "name": "heracross-mega",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "stats": [
+    80,
+    185,
+    115,
+    40,
+    105,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10047.png"
+}

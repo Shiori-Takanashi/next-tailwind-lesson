@@ -1,0 +1,17 @@
+{
+  "id": 10184,
+  "name": "toxtricity-low-key",
+  "types": [
+    "electric",
+    "poison"
+  ],
+  "stats": [
+    75,
+    98,
+    70,
+    114,
+    70,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10184.png"
+}

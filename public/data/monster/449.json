@@ -1,0 +1,16 @@
+{
+  "id": 449,
+  "name": "ヒポポタス",
+  "types": [
+    "地"
+  ],
+  "stats": [
+    68,
+    72,
+    78,
+    38,
+    42,
+    32
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png"
+}

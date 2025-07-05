@@ -1,0 +1,17 @@
+{
+  "id": 248,
+  "name": "バンギラス",
+  "types": [
+    "岩",
+    "悪"
+  ],
+  "stats": [
+    100,
+    134,
+    110,
+    95,
+    100,
+    61
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png"
+}

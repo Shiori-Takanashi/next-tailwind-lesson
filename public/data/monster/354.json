@@ -1,0 +1,16 @@
+{
+  "id": 354,
+  "name": "ジュペッタ",
+  "types": [
+    "霊"
+  ],
+  "stats": [
+    64,
+    115,
+    65,
+    83,
+    63,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+}

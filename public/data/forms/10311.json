@@ -1,0 +1,29 @@
+{
+  "id": 10311,
+  "name": "lycanroc-dusk",
+  "form_name": "dusk",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1042,
+  "form_order": 3,
+  "pokemon": {
+    "name": "lycanroc-dusk",
+    "url": "https://pokeapi.co/api/v2/pokemon/10152/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10152.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10152.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10152.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10152.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    }
+  ]
+}

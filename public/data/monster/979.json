@@ -1,0 +1,17 @@
+{
+  "id": 979,
+  "name": "コノヨザル",
+  "types": [
+    "闘",
+    "霊"
+  ],
+  "stats": [
+    110,
+    115,
+    80,
+    50,
+    90,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
+}

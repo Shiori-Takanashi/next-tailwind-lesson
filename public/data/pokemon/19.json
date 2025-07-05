@@ -1,0 +1,16 @@
+{
+  "id": 19,
+  "name": "rattata",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    30,
+    56,
+    35,
+    25,
+    35,
+    72
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+}

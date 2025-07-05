@@ -1,0 +1,36 @@
+{
+  "id": 10168,
+  "name": "sableye-mega",
+  "form_name": "mega",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": true,
+  "order": 434,
+  "form_order": 2,
+  "pokemon": {
+    "name": "sableye-mega",
+    "url": "https://pokeapi.co/api/v2/pokemon/10066/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10066.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10066.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

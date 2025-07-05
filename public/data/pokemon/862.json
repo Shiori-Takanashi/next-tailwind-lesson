@@ -1,0 +1,17 @@
+{
+  "id": 862,
+  "name": "obstagoon",
+  "types": [
+    "dark",
+    "normal"
+  ],
+  "stats": [
+    93,
+    90,
+    101,
+    60,
+    81,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 154,
+  "name": "meganium",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    80,
+    82,
+    100,
+    83,
+    100,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 196,
+  "name": "espeon",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    65,
+    65,
+    60,
+    130,
+    95,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png"
+}

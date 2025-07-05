@@ -1,0 +1,16 @@
+{
+  "id": 827,
+  "name": "nickit",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    40,
+    28,
+    28,
+    47,
+    52,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png"
+}

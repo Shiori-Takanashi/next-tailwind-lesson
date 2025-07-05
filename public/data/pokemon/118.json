@@ -1,0 +1,16 @@
+{
+  "id": 118,
+  "name": "goldeen",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    45,
+    67,
+    60,
+    35,
+    50,
+    63
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10060,
+  "name": "abomasnow-mega",
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "stats": [
+    90,
+    132,
+    105,
+    132,
+    105,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png"
+}

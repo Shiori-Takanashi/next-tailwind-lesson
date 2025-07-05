@@ -1,0 +1,17 @@
+{
+  "id": 786,
+  "name": "カプ・テテフ",
+  "types": [
+    "超",
+    "妖"
+  ],
+  "stats": [
+    70,
+    85,
+    75,
+    130,
+    115,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png"
+}

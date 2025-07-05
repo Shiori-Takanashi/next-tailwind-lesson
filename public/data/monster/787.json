@@ -1,0 +1,17 @@
+{
+  "id": 787,
+  "name": "カプ・ブルル",
+  "types": [
+    "草",
+    "妖"
+  ],
+  "stats": [
+    70,
+    130,
+    115,
+    85,
+    95,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png"
+}

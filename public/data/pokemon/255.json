@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "name": "torchic",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    45,
+    60,
+    40,
+    70,
+    50,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+}

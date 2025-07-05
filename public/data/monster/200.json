@@ -1,0 +1,16 @@
+{
+  "id": 200,
+  "name": "ムウマ",
+  "types": [
+    "霊"
+  ],
+  "stats": [
+    60,
+    60,
+    60,
+    85,
+    85,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png"
+}

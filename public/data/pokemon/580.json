@@ -1,0 +1,17 @@
+{
+  "id": 580,
+  "name": "ducklett",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "stats": [
+    62,
+    44,
+    50,
+    44,
+    50,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 739,
+  "name": "crabrawler",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    47,
+    82,
+    57,
+    42,
+    47,
+    63
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png"
+}

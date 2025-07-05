@@ -1,0 +1,29 @@
+{
+  "id": 10046,
+  "name": "arceus-fire",
+  "form_name": "fire",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 652,
+  "form_order": 10,
+  "pokemon": {
+    "name": "arceus",
+    "url": "https://pokeapi.co/api/v2/pokemon/493/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-fire.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493-fire.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493-fire.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/493-fire.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fire",
+        "url": "https://pokeapi.co/api/v2/type/10/"
+      }
+    }
+  ]
+}

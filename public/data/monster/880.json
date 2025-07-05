@@ -1,0 +1,17 @@
+{
+  "id": 880,
+  "name": "パッチラゴン",
+  "types": [
+    "電",
+    "竜"
+  ],
+  "stats": [
+    90,
+    100,
+    90,
+    80,
+    70,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png"
+}

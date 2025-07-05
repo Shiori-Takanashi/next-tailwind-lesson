@@ -1,0 +1,16 @@
+{
+  "id": 126,
+  "name": "ブーバー",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    65,
+    95,
+    57,
+    100,
+    85,
+    93
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png"
+}

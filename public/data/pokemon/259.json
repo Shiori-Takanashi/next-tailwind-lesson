@@ -1,0 +1,17 @@
+{
+  "id": 259,
+  "name": "marshtomp",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "stats": [
+    70,
+    85,
+    70,
+    60,
+    70,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 686,
+  "name": "inkay",
+  "types": [
+    "dark",
+    "psychic"
+  ],
+  "stats": [
+    53,
+    54,
+    53,
+    37,
+    46,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 570,
+  "name": "zorua",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    40,
+    65,
+    40,
+    80,
+    40,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 282,
+  "name": "gardevoir",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "stats": [
+    68,
+    65,
+    65,
+    125,
+    115,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png"
+}

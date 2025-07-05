@@ -1,0 +1,17 @@
+{
+  "id": 1001,
+  "name": "wo-chien",
+  "types": [
+    "dark",
+    "grass"
+  ],
+  "stats": [
+    85,
+    85,
+    100,
+    95,
+    135,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
+}

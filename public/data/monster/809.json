@@ -1,0 +1,16 @@
+{
+  "id": 809,
+  "name": "メルメタル",
+  "types": [
+    "鋼"
+  ],
+  "stats": [
+    135,
+    143,
+    143,
+    80,
+    65,
+    34
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png"
+}

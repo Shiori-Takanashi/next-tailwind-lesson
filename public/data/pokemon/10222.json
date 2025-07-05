@@ -1,0 +1,17 @@
+{
+  "id": 10222,
+  "name": "grimmsnarl-gmax",
+  "types": [
+    "dark",
+    "fairy"
+  ],
+  "stats": [
+    95,
+    120,
+    65,
+    95,
+    75,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10222.png"
+}

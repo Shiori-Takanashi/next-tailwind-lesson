@@ -1,0 +1,17 @@
+{
+  "id": 696,
+  "name": "tyrunt",
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "stats": [
+    58,
+    89,
+    77,
+    45,
+    45,
+    48
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png"
+}

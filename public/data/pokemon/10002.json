@@ -1,0 +1,16 @@
+{
+  "id": 10002,
+  "name": "deoxys-defense",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    50,
+    70,
+    160,
+    70,
+    160,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10002.png"
+}

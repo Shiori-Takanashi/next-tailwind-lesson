@@ -1,0 +1,17 @@
+{
+  "id": 1003,
+  "name": "ting-lu",
+  "types": [
+    "dark",
+    "ground"
+  ],
+  "stats": [
+    155,
+    110,
+    125,
+    55,
+    80,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10163,
+  "name": "floette-eternal",
+  "form_name": "eternal",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 931,
+  "form_order": 6,
+  "pokemon": {
+    "name": "floette-eternal",
+    "url": "https://pokeapi.co/api/v2/pokemon/10061/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10061.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10061.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10061.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10061.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 648,
+  "name": "meloetta-aria",
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "stats": [
+    100,
+    77,
+    77,
+    128,
+    128,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png"
+}

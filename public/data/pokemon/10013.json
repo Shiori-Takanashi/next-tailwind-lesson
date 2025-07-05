@@ -1,0 +1,16 @@
+{
+  "id": 10013,
+  "name": "castform-sunny",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    70,
+    70,
+    70,
+    70,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10013.png"
+}

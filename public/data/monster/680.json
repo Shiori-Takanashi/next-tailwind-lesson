@@ -1,0 +1,17 @@
+{
+  "id": 680,
+  "name": "ニダンギル",
+  "types": [
+    "鋼",
+    "霊"
+  ],
+  "stats": [
+    59,
+    110,
+    150,
+    45,
+    49,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png"
+}

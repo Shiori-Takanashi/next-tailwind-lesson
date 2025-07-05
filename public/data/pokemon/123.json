@@ -1,0 +1,17 @@
+{
+  "id": 123,
+  "name": "scyther",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    70,
+    110,
+    80,
+    55,
+    80,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png"
+}

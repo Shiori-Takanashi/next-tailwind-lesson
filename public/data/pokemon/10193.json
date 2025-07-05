@@ -1,0 +1,17 @@
+{
+  "id": 10193,
+  "name": "calyrex-ice",
+  "types": [
+    "psychic",
+    "ice"
+  ],
+  "stats": [
+    100,
+    165,
+    150,
+    85,
+    130,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10193.png"
+}

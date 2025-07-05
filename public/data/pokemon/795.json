@@ -1,0 +1,17 @@
+{
+  "id": 795,
+  "name": "pheromosa",
+  "types": [
+    "bug",
+    "fighting"
+  ],
+  "stats": [
+    71,
+    137,
+    37,
+    137,
+    37,
+    151
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png"
+}

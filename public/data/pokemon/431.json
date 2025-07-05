@@ -1,0 +1,16 @@
+{
+  "id": 431,
+  "name": "glameow",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    49,
+    55,
+    42,
+    42,
+    37,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 552,
+  "name": "krokorok",
+  "types": [
+    "ground",
+    "dark"
+  ],
+  "stats": [
+    60,
+    82,
+    45,
+    45,
+    45,
+    74
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+}

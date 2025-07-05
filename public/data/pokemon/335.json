@@ -1,0 +1,16 @@
+{
+  "id": 335,
+  "name": "zangoose",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    73,
+    115,
+    60,
+    60,
+    60,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png"
+}

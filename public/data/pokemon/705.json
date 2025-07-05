@@ -1,0 +1,16 @@
+{
+  "id": 705,
+  "name": "sliggoo",
+  "types": [
+    "dragon"
+  ],
+  "stats": [
+    68,
+    75,
+    53,
+    83,
+    113,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png"
+}

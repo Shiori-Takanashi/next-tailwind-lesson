@@ -1,0 +1,17 @@
+{
+  "id": 83,
+  "name": "farfetchd",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    52,
+    90,
+    55,
+    58,
+    62,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+}

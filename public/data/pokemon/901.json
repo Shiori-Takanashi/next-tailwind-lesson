@@ -1,0 +1,17 @@
+{
+  "id": 901,
+  "name": "ursaluna",
+  "types": [
+    "ground",
+    "normal"
+  ],
+  "stats": [
+    130,
+    140,
+    105,
+    45,
+    80,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png"
+}

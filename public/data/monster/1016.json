@@ -1,0 +1,17 @@
+{
+  "id": 1016,
+  "name": "キチキギス",
+  "types": [
+    "毒",
+    "妖"
+  ],
+  "stats": [
+    88,
+    91,
+    82,
+    70,
+    125,
+    99
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png"
+}

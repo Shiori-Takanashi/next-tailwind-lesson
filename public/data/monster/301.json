@@ -1,0 +1,16 @@
+{
+  "id": 301,
+  "name": "エネコロロ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    70,
+    65,
+    65,
+    55,
+    55,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
+}

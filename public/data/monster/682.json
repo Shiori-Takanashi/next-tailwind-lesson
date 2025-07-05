@@ -1,0 +1,16 @@
+{
+  "id": 682,
+  "name": "シュシュプ",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    78,
+    52,
+    60,
+    63,
+    65,
+    23
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png"
+}

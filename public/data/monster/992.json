@@ -1,0 +1,17 @@
+{
+  "id": 992,
+  "name": "テツノカイナ",
+  "types": [
+    "闘",
+    "電"
+  ],
+  "stats": [
+    154,
+    140,
+    108,
+    50,
+    68,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png"
+}

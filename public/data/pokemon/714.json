@@ -1,0 +1,17 @@
+{
+  "id": 714,
+  "name": "noibat",
+  "types": [
+    "flying",
+    "dragon"
+  ],
+  "stats": [
+    40,
+    30,
+    35,
+    45,
+    40,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png"
+}

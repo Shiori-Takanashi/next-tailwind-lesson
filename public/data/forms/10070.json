@@ -1,0 +1,36 @@
+{
+  "id": 10070,
+  "name": "deerling-winter",
+  "form_name": "winter",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 763,
+  "form_order": 4,
+  "pokemon": {
+    "name": "deerling",
+    "url": "https://pokeapi.co/api/v2/pokemon/585/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585-winter.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/585-winter.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/585-winter.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/585-winter.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    }
+  ]
+}

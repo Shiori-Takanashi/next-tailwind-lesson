@@ -1,0 +1,16 @@
+{
+  "id": 10159,
+  "name": "eevee-starter",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    65,
+    75,
+    70,
+    65,
+    85,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10159.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10079,
+  "name": "tornadus-therian",
+  "form_name": "therian",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 824,
+  "form_order": 2,
+  "pokemon": {
+    "name": "tornadus-therian",
+    "url": "https://pokeapi.co/api/v2/pokemon/10019/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10019.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641-therian.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641-therian.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641-therian.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

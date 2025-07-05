@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "name": "stantler",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    73,
+    95,
+    62,
+    85,
+    65,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png"
+}

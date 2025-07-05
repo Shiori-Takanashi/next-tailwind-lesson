@@ -1,0 +1,16 @@
+{
+  "id": 314,
+  "name": "イルミーゼ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    65,
+    47,
+    75,
+    73,
+    85,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1020,
+  "name": "gouging-fire",
+  "types": [
+    "fire",
+    "dragon"
+  ],
+  "stats": [
+    105,
+    115,
+    121,
+    65,
+    93,
+    91
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png"
+}

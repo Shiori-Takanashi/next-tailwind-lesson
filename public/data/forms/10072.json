@@ -1,0 +1,36 @@
+{
+  "id": 10072,
+  "name": "sawsbuck-autumn",
+  "form_name": "autumn",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 766,
+  "form_order": 3,
+  "pokemon": {
+    "name": "sawsbuck",
+    "url": "https://pokeapi.co/api/v2/pokemon/586/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586-autumn.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/586-autumn.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/586-autumn.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/586-autumn.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    }
+  ]
+}

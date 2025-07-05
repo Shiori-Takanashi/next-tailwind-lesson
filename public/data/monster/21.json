@@ -1,0 +1,17 @@
+{
+  "id": 21,
+  "name": "オニスズメ",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    40,
+    60,
+    30,
+    31,
+    31,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png"
+}

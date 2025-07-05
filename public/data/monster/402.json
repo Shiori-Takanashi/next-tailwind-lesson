@@ -1,0 +1,16 @@
+{
+  "id": 402,
+  "name": "コロトック",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    77,
+    85,
+    51,
+    55,
+    51,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png"
+}

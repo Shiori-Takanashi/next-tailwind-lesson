@@ -1,0 +1,17 @@
+{
+  "id": 10169,
+  "name": "articuno-galar",
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "stats": [
+    90,
+    85,
+    85,
+    125,
+    100,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10169.png"
+}

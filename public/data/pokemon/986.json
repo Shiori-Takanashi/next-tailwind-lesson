@@ -1,0 +1,17 @@
+{
+  "id": 986,
+  "name": "brute-bonnet",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "stats": [
+    111,
+    127,
+    99,
+    79,
+    99,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
+}

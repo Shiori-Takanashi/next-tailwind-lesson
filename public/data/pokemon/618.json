@@ -1,0 +1,17 @@
+{
+  "id": 618,
+  "name": "stunfisk",
+  "types": [
+    "ground",
+    "electric"
+  ],
+  "stats": [
+    109,
+    66,
+    84,
+    81,
+    99,
+    32
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png"
+}

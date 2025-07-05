@@ -1,0 +1,17 @@
+{
+  "id": 71,
+  "name": "victreebel",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    80,
+    105,
+    65,
+    100,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10013,
+  "name": "unown-n",
+  "form_name": "n",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 311,
+  "form_order": 14,
+  "pokemon": {
+    "name": "unown",
+    "url": "https://pokeapi.co/api/v2/pokemon/201/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-n.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/201-n.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/201-n.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/201-n.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

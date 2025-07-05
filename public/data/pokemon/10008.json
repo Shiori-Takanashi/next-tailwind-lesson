@@ -1,0 +1,17 @@
+{
+  "id": 10008,
+  "name": "rotom-heat",
+  "types": [
+    "electric",
+    "fire"
+  ],
+  "stats": [
+    50,
+    65,
+    107,
+    105,
+    107,
+    86
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10008.png"
+}

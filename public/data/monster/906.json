@@ -1,0 +1,16 @@
+{
+  "id": 906,
+  "name": "ニャオハ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    40,
+    61,
+    54,
+    45,
+    45,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png"
+}

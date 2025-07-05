@@ -1,0 +1,17 @@
+{
+  "id": 742,
+  "name": "cutiefly",
+  "types": [
+    "bug",
+    "fairy"
+  ],
+  "stats": [
+    40,
+    45,
+    40,
+    55,
+    40,
+    84
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+}

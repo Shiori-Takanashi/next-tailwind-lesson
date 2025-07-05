@@ -1,0 +1,16 @@
+{
+  "id": 744,
+  "name": "rockruff",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    45,
+    65,
+    40,
+    30,
+    40,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png"
+}

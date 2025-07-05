@@ -1,0 +1,17 @@
+{
+  "id": 198,
+  "name": "ヤミカラス",
+  "types": [
+    "悪",
+    "飛"
+  ],
+  "stats": [
+    60,
+    85,
+    42,
+    85,
+    42,
+    91
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png"
+}

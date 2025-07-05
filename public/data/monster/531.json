@@ -1,0 +1,16 @@
+{
+  "id": 531,
+  "name": "タブンネ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    103,
+    60,
+    86,
+    60,
+    86,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png"
+}

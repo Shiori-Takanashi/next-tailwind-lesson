@@ -1,0 +1,17 @@
+{
+  "id": 141,
+  "name": "カブトプス",
+  "types": [
+    "岩",
+    "水"
+  ],
+  "stats": [
+    60,
+    115,
+    105,
+    65,
+    70,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png"
+}

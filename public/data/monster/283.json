@@ -1,0 +1,17 @@
+{
+  "id": 283,
+  "name": "アメタマ",
+  "types": [
+    "虫",
+    "水"
+  ],
+  "stats": [
+    40,
+    30,
+    32,
+    50,
+    52,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png"
+}

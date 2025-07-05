@@ -1,0 +1,17 @@
+{
+  "id": 590,
+  "name": "タマゲタケ",
+  "types": [
+    "草",
+    "毒"
+  ],
+  "stats": [
+    69,
+    55,
+    45,
+    55,
+    55,
+    15
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
+}

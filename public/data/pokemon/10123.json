@@ -1,0 +1,17 @@
+{
+  "id": 10123,
+  "name": "oricorio-pom-pom",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "stats": [
+    75,
+    70,
+    70,
+    98,
+    70,
+    93
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10123.png"
+}

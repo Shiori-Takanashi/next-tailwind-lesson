@@ -1,0 +1,16 @@
+{
+  "id": 615,
+  "name": "cryogonal",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    80,
+    50,
+    50,
+    95,
+    135,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png"
+}

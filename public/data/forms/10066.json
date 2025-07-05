@@ -1,0 +1,29 @@
+{
+  "id": 10066,
+  "name": "basculin-blue-striped",
+  "form_name": "blue-striped",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 720,
+  "form_order": 2,
+  "pokemon": {
+    "name": "basculin-blue-striped",
+    "url": "https://pokeapi.co/api/v2/pokemon/10016/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10016.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/550-blue-striped.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/550-blue-striped.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/550-blue-striped.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

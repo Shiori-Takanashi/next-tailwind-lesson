@@ -1,0 +1,17 @@
+{
+  "id": 777,
+  "name": "togedemaru",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "stats": [
+    65,
+    98,
+    63,
+    40,
+    73,
+    96
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png"
+}

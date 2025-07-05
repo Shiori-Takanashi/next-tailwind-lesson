@@ -1,0 +1,16 @@
+{
+  "id": 725,
+  "name": "litten",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    45,
+    65,
+    40,
+    60,
+    40,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png"
+}

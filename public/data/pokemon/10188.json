@@ -1,0 +1,17 @@
+{
+  "id": 10188,
+  "name": "zacian-crowned",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "stats": [
+    92,
+    150,
+    115,
+    80,
+    115,
+    148
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
+}

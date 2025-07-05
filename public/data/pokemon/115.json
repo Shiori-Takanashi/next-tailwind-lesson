@@ -1,0 +1,16 @@
+{
+  "id": 115,
+  "name": "kangaskhan",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    105,
+    95,
+    80,
+    40,
+    80,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+}

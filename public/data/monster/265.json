@@ -1,0 +1,16 @@
+{
+  "id": 265,
+  "name": "ケムッソ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    45,
+    45,
+    35,
+    20,
+    30,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 454,
+  "name": "toxicroak",
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "stats": [
+    83,
+    106,
+    65,
+    86,
+    65,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png"
+}

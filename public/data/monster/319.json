@@ -1,0 +1,17 @@
+{
+  "id": 319,
+  "name": "サメハダー",
+  "types": [
+    "水",
+    "悪"
+  ],
+  "stats": [
+    70,
+    120,
+    40,
+    95,
+    40,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png"
+}

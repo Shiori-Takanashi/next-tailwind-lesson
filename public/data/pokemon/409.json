@@ -1,0 +1,16 @@
+{
+  "id": 409,
+  "name": "rampardos",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    97,
+    165,
+    60,
+    65,
+    50,
+    58
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png"
+}

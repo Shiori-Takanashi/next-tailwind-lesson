@@ -1,0 +1,36 @@
+{
+  "id": 10436,
+  "name": "koraidon-gliding-build",
+  "form_name": "gliding-build",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1322,
+  "form_order": 5,
+  "pokemon": {
+    "name": "koraidon-gliding-build",
+    "url": "https://pokeapi.co/api/v2/pokemon/10267/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dragon",
+        "url": "https://pokeapi.co/api/v2/type/16/"
+      }
+    }
+  ]
+}

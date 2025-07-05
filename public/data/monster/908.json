@@ -1,0 +1,17 @@
+{
+  "id": 908,
+  "name": "マスカーニャ",
+  "types": [
+    "草",
+    "悪"
+  ],
+  "stats": [
+    76,
+    110,
+    70,
+    81,
+    70,
+    123
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
+}

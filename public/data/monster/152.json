@@ -1,0 +1,16 @@
+{
+  "id": 152,
+  "name": "チコリータ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    45,
+    49,
+    65,
+    49,
+    65,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+}

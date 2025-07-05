@@ -1,0 +1,16 @@
+{
+  "id": 968,
+  "name": "ミミズズ",
+  "types": [
+    "鋼"
+  ],
+  "stats": [
+    70,
+    85,
+    145,
+    60,
+    55,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+}

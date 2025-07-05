@@ -1,0 +1,17 @@
+{
+  "id": 10048,
+  "name": "houndoom-mega",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "stats": [
+    75,
+    90,
+    90,
+    140,
+    90,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png"
+}

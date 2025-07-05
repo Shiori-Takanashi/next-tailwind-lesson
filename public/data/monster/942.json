@@ -1,0 +1,16 @@
+{
+  "id": 942,
+  "name": "オラチフ",
+  "types": [
+    "悪"
+  ],
+  "stats": [
+    60,
+    78,
+    60,
+    40,
+    51,
+    51
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
+}

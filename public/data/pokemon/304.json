@@ -1,0 +1,17 @@
+{
+  "id": 304,
+  "name": "aron",
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "stats": [
+    50,
+    70,
+    100,
+    40,
+    40,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png"
+}

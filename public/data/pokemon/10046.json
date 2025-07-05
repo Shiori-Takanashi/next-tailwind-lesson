@@ -1,0 +1,17 @@
+{
+  "id": 10046,
+  "name": "scizor-mega",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "stats": [
+    70,
+    150,
+    140,
+    65,
+    100,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png"
+}

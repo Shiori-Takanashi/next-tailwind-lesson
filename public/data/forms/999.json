@@ -1,0 +1,29 @@
+{
+  "id": 999,
+  "name": "gimmighoul-chest",
+  "form_name": "chest",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1337,
+  "form_order": 1,
+  "pokemon": {
+    "name": "gimmighoul",
+    "url": "https://pokeapi.co/api/v2/pokemon/999/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/999.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 603,
+  "name": "eelektrik",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    65,
+    85,
+    70,
+    75,
+    70,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png"
+}

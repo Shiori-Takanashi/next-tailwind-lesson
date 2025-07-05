@@ -1,0 +1,16 @@
+{
+  "id": 800,
+  "name": "necrozma",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    97,
+    107,
+    101,
+    127,
+    89,
+    79
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png"
+}

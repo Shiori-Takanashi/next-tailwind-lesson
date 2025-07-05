@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "name": "エビワラー",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    50,
+    105,
+    79,
+    35,
+    110,
+    76
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
+}

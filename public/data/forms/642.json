@@ -1,0 +1,36 @@
+{
+  "id": 642,
+  "name": "thundurus-incarnate",
+  "form_name": "incarnate",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 825,
+  "form_order": 1,
+  "pokemon": {
+    "name": "thundurus-incarnate",
+    "url": "https://pokeapi.co/api/v2/pokemon/642/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/642.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/642.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/642.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

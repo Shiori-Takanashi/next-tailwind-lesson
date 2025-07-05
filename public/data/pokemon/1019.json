@@ -1,0 +1,17 @@
+{
+  "id": 1019,
+  "name": "hydrapple",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "stats": [
+    106,
+    80,
+    110,
+    120,
+    80,
+    44
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
+}

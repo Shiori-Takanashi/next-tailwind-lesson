@@ -1,0 +1,16 @@
+{
+  "id": 10152,
+  "name": "lycanroc-dusk",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    75,
+    117,
+    65,
+    55,
+    65,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10152.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 816,
+  "name": "sobble",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    50,
+    40,
+    40,
+    70,
+    40,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+}

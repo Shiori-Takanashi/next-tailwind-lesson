@@ -1,0 +1,17 @@
+{
+  "id": 130,
+  "name": "ギャラドス",
+  "types": [
+    "水",
+    "飛"
+  ],
+  "stats": [
+    95,
+    125,
+    79,
+    60,
+    100,
+    81
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+}

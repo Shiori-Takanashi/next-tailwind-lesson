@@ -1,0 +1,16 @@
+{
+  "id": 999,
+  "name": "gimmighoul",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    45,
+    30,
+    70,
+    75,
+    70,
+    10
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png"
+}

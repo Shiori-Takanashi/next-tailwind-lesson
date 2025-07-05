@@ -1,0 +1,29 @@
+{
+  "id": 10267,
+  "name": "pikachu-partner-cap",
+  "form_name": "partner-cap",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 49,
+  "form_order": 14,
+  "pokemon": {
+    "name": "pikachu-partner-cap",
+    "url": "https://pokeapi.co/api/v2/pokemon/10148/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10148.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/25-partner-cap.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

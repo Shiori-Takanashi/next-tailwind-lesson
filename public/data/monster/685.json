@@ -1,0 +1,16 @@
+{
+  "id": 685,
+  "name": "ペロリーム",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    82,
+    80,
+    86,
+    85,
+    75,
+    72
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10068,
+  "name": "gallade-mega",
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "stats": [
+    68,
+    165,
+    95,
+    65,
+    115,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png"
+}

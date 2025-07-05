@@ -1,0 +1,29 @@
+{
+  "id": 492,
+  "name": "shaymin-land",
+  "form_name": "land",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 641,
+  "form_order": 1,
+  "pokemon": {
+    "name": "shaymin-land",
+    "url": "https://pokeapi.co/api/v2/pokemon/492/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/492.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/492.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/492.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    }
+  ]
+}

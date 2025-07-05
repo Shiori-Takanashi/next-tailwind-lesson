@@ -1,0 +1,17 @@
+{
+  "id": 930,
+  "name": "オリーヴァ",
+  "types": [
+    "草",
+    "普"
+  ],
+  "stats": [
+    78,
+    69,
+    90,
+    125,
+    109,
+    39
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png"
+}

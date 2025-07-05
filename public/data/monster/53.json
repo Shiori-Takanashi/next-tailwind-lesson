@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "name": "ペルシアン",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    65,
+    70,
+    60,
+    65,
+    65,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png"
+}

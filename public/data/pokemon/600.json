@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "name": "klang",
+  "types": [
+    "steel"
+  ],
+  "stats": [
+    60,
+    80,
+    95,
+    70,
+    85,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+}

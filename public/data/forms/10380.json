@@ -1,0 +1,29 @@
+{
+  "id": 10380,
+  "name": "inteleon-gmax",
+  "form_name": "gmax",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1265,
+  "form_order": 1,
+  "pokemon": {
+    "name": "inteleon-gmax",
+    "url": "https://pokeapi.co/api/v2/pokemon/10211/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10211.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10211.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10211.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10211.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

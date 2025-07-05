@@ -1,0 +1,17 @@
+{
+  "id": 322,
+  "name": "numel",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "stats": [
+    60,
+    60,
+    40,
+    65,
+    45,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10088,
+  "name": "lopunny-mega",
+  "types": [
+    "normal",
+    "fighting"
+  ],
+  "stats": [
+    65,
+    136,
+    94,
+    54,
+    96,
+    135
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10088.png"
+}

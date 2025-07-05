@@ -4,6 +4,8 @@
     "experimentalSpecifierResolution": "node"
   },
   "compilerOptions": {
+    // 絶対パス用のベースディレクトリ
+    "baseUrl": ".",
     "target": "ES2022",
     "module": "esnext",
     "lib": [
@@ -23,9 +25,9 @@
     "incremental": true,
     "allowImportingTsExtensions": true,
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"],
+      // config ディレクトリも絶対パスで参照
+      "config/*": ["config/*"]
     }
   },
   "include": [

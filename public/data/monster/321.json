@@ -1,0 +1,16 @@
+{
+  "id": 321,
+  "name": "ホエルオー",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    170,
+    90,
+    45,
+    90,
+    45,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png"
+}

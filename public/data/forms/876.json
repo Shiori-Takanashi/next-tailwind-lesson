@@ -1,0 +1,36 @@
+{
+  "id": 876,
+  "name": "indeedee-male",
+  "form_name": "male",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1230,
+  "form_order": 1,
+  "pokemon": {
+    "name": "indeedee-male",
+    "url": "https://pokeapi.co/api/v2/pokemon/876/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/876.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/876.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/876.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    }
+  ]
+}

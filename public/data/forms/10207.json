@@ -1,0 +1,36 @@
+{
+  "id": 10207,
+  "name": "diglett-alola",
+  "form_name": "alola",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 86,
+  "form_order": 2,
+  "pokemon": {
+    "name": "diglett-alola",
+    "url": "https://pokeapi.co/api/v2/pokemon/10105/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10105.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10105.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10105.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10105.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ground",
+        "url": "https://pokeapi.co/api/v2/type/5/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

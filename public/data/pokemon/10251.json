@@ -1,0 +1,17 @@
+{
+  "id": 10251,
+  "name": "tauros-paldea-blaze-breed",
+  "types": [
+    "fighting",
+    "fire"
+  ],
+  "stats": [
+    75,
+    110,
+    105,
+    30,
+    70,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10251.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 229,
+  "name": "houndoom",
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "stats": [
+    75,
+    90,
+    50,
+    110,
+    80,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png"
+}

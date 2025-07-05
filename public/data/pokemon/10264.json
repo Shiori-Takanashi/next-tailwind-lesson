@@ -1,0 +1,17 @@
+{
+  "id": 10264,
+  "name": "koraidon-limited-build",
+  "types": [
+    "fighting",
+    "dragon"
+  ],
+  "stats": [
+    100,
+    135,
+    115,
+    85,
+    100,
+    135
+  ],
+  "image": null
+}

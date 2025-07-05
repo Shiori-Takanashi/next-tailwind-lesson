@@ -1,0 +1,16 @@
+{
+  "id": 313,
+  "name": "volbeat",
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    65,
+    73,
+    75,
+    47,
+    85,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png"
+}

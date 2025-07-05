@@ -1,0 +1,16 @@
+{
+  "id": 674,
+  "name": "ヤンチャム",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    67,
+    82,
+    62,
+    46,
+    48,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+}

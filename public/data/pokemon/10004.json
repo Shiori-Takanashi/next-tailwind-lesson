@@ -1,0 +1,17 @@
+{
+  "id": 10004,
+  "name": "wormadam-sandy",
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "stats": [
+    60,
+    79,
+    105,
+    59,
+    85,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10004.png"
+}

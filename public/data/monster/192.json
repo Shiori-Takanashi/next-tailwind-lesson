@@ -1,0 +1,16 @@
+{
+  "id": 192,
+  "name": "キマワリ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    75,
+    75,
+    55,
+    105,
+    85,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png"
+}

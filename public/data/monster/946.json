@@ -1,0 +1,17 @@
+{
+  "id": 946,
+  "name": "アノクサ",
+  "types": [
+    "草",
+    "霊"
+  ],
+  "stats": [
+    40,
+    65,
+    30,
+    45,
+    35,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png"
+}

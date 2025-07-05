@@ -1,0 +1,16 @@
+{
+  "id": 951,
+  "name": "capsakid",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    50,
+    62,
+    40,
+    62,
+    40,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
+}

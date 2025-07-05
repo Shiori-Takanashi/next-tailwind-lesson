@@ -1,0 +1,17 @@
+{
+  "id": 10130,
+  "name": "minior-orange-meteor",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "stats": [
+    60,
+    60,
+    100,
+    60,
+    100,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10130.png"
+}

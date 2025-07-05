@@ -1,0 +1,16 @@
+{
+  "id": 617,
+  "name": "accelgor",
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    80,
+    70,
+    40,
+    100,
+    60,
+    145
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png"
+}

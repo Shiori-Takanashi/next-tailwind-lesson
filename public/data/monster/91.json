@@ -1,0 +1,17 @@
+{
+  "id": 91,
+  "name": "パルシェン",
+  "types": [
+    "水",
+    "氷"
+  ],
+  "stats": [
+    50,
+    95,
+    180,
+    85,
+    45,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png"
+}

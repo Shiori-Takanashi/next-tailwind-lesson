@@ -1,0 +1,17 @@
+{
+  "id": 347,
+  "name": "アノプス",
+  "types": [
+    "岩",
+    "虫"
+  ],
+  "stats": [
+    45,
+    95,
+    50,
+    40,
+    50,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
+}

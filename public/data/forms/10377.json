@@ -1,0 +1,29 @@
+{
+  "id": 10377,
+  "name": "melmetal-gmax",
+  "form_name": "gmax",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1262,
+  "form_order": 1,
+  "pokemon": {
+    "name": "melmetal-gmax",
+    "url": "https://pokeapi.co/api/v2/pokemon/10208/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10208.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10208.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10208.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10208.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 593,
+  "name": "jellicent",
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "stats": [
+    100,
+    60,
+    70,
+    85,
+    105,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 730,
+  "name": "アシレーヌ",
+  "types": [
+    "水",
+    "妖"
+  ],
+  "stats": [
+    80,
+    74,
+    74,
+    126,
+    116,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png"
+}

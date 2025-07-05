@@ -1,0 +1,16 @@
+{
+  "id": 821,
+  "name": "rookidee",
+  "types": [
+    "flying"
+  ],
+  "stats": [
+    38,
+    47,
+    35,
+    33,
+    35,
+    57
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png"
+}

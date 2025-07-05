@@ -1,0 +1,16 @@
+{
+  "id": 766,
+  "name": "ナゲツケサル",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    100,
+    120,
+    90,
+    40,
+    60,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png"
+}

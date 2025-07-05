@@ -1,0 +1,16 @@
+{
+  "id": 523,
+  "name": "zebstrika",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    75,
+    100,
+    63,
+    80,
+    63,
+    116
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 182,
+  "name": "キレイハナ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    75,
+    80,
+    95,
+    90,
+    100,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 82,
+  "name": "レアコイル",
+  "types": [
+    "電",
+    "鋼"
+  ],
+  "stats": [
+    50,
+    60,
+    95,
+    120,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+}

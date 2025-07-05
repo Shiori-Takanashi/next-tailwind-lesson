@@ -1,0 +1,17 @@
+{
+  "id": 443,
+  "name": "フカマル",
+  "types": [
+    "竜",
+    "地"
+  ],
+  "stats": [
+    58,
+    70,
+    45,
+    40,
+    45,
+    42
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 560,
+  "name": "ズルズキン",
+  "types": [
+    "悪",
+    "闘"
+  ],
+  "stats": [
+    65,
+    90,
+    115,
+    45,
+    115,
+    58
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
+}

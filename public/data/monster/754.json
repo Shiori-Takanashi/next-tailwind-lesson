@@ -1,0 +1,16 @@
+{
+  "id": 754,
+  "name": "ラランテス",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    70,
+    105,
+    90,
+    80,
+    90,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png"
+}

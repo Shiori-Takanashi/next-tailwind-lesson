@@ -1,0 +1,16 @@
+{
+  "id": 379,
+  "name": "registeel",
+  "types": [
+    "steel"
+  ],
+  "stats": [
+    80,
+    75,
+    150,
+    75,
+    150,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png"
+}

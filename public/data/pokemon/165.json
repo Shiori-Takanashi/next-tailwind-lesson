@@ -1,0 +1,17 @@
+{
+  "id": 165,
+  "name": "ledyba",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    40,
+    20,
+    30,
+    40,
+    80,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png"
+}

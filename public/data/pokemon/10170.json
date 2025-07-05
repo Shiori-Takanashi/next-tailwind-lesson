@@ -1,0 +1,17 @@
+{
+  "id": 10170,
+  "name": "zapdos-galar",
+  "types": [
+    "fighting",
+    "flying"
+  ],
+  "stats": [
+    90,
+    125,
+    90,
+    85,
+    90,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10170.png"
+}

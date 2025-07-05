@@ -1,0 +1,16 @@
+{
+  "id": 10277,
+  "name": "terapagos-stellar",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    160,
+    105,
+    110,
+    130,
+    110,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10277.png"
+}

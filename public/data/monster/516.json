@@ -1,0 +1,16 @@
+{
+  "id": 516,
+  "name": "ヒヤッキー",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    75,
+    98,
+    63,
+    98,
+    63,
+    101
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
+}

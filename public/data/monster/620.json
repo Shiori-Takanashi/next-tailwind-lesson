@@ -1,0 +1,16 @@
+{
+  "id": 620,
+  "name": "コジョンド",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    65,
+    125,
+    60,
+    95,
+    60,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png"
+}

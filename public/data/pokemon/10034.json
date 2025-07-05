@@ -1,0 +1,17 @@
+{
+  "id": 10034,
+  "name": "charizard-mega-x",
+  "types": [
+    "fire",
+    "dragon"
+  ],
+  "stats": [
+    78,
+    130,
+    111,
+    130,
+    85,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png"
+}

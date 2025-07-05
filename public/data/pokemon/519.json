@@ -1,0 +1,17 @@
+{
+  "id": 519,
+  "name": "pidove",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    50,
+    55,
+    50,
+    36,
+    30,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
+}

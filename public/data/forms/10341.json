@@ -1,0 +1,36 @@
+{
+  "id": 10341,
+  "name": "cramorant-gulping",
+  "form_name": "gulping",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1186,
+  "form_order": 2,
+  "pokemon": {
+    "name": "cramorant-gulping",
+    "url": "https://pokeapi.co/api/v2/pokemon/10182/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

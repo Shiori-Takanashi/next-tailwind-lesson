@@ -1,0 +1,17 @@
+{
+  "id": 10179,
+  "name": "yamask-galar",
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "stats": [
+    38,
+    55,
+    85,
+    30,
+    65,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png"
+}

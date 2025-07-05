@@ -1,0 +1,16 @@
+{
+  "id": 421,
+  "name": "チェリム",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    70,
+    60,
+    70,
+    87,
+    78,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png"
+}

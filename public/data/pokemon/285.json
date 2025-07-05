@@ -1,0 +1,16 @@
+{
+  "id": 285,
+  "name": "shroomish",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    60,
+    40,
+    60,
+    40,
+    60,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png"
+}

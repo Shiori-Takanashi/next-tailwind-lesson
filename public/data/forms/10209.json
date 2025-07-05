@@ -1,0 +1,29 @@
+{
+  "id": 10209,
+  "name": "meowth-alola",
+  "form_name": "alola",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 90,
+  "form_order": 2,
+  "pokemon": {
+    "name": "meowth-alola",
+    "url": "https://pokeapi.co/api/v2/pokemon/10107/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10107.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10107.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10107.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10107.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    }
+  ]
+}

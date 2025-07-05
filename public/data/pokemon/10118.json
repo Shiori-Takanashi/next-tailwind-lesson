@@ -1,0 +1,17 @@
+{
+  "id": 10118,
+  "name": "zygarde-10-power-construct",
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "stats": [
+    54,
+    100,
+    71,
+    61,
+    85,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10118.png"
+}

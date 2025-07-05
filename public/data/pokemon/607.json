@@ -1,0 +1,17 @@
+{
+  "id": 607,
+  "name": "litwick",
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "stats": [
+    50,
+    30,
+    55,
+    65,
+    55,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
+}

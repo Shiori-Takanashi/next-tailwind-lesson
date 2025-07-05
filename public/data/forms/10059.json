@@ -1,0 +1,36 @@
+{
+  "id": 10059,
+  "name": "rotom-wash",
+  "form_name": "wash",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 624,
+  "form_order": 3,
+  "pokemon": {
+    "name": "rotom-wash",
+    "url": "https://pokeapi.co/api/v2/pokemon/10009/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10009.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/479-wash.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/479-wash.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/479-wash.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

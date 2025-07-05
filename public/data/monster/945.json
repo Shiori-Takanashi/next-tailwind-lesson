@@ -1,0 +1,17 @@
+{
+  "id": 945,
+  "name": "タギングル",
+  "types": [
+    "毒",
+    "普"
+  ],
+  "stats": [
+    63,
+    95,
+    65,
+    80,
+    72,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
+}

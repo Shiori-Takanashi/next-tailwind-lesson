@@ -1,0 +1,36 @@
+{
+  "id": 10084,
+  "name": "keldeo-resolute",
+  "form_name": "resolute",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 835,
+  "form_order": 2,
+  "pokemon": {
+    "name": "keldeo-resolute",
+    "url": "https://pokeapi.co/api/v2/pokemon/10024/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10024.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/647-resolute.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/647-resolute.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/647-resolute.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    }
+  ]
+}

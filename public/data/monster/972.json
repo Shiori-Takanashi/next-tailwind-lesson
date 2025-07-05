@@ -1,0 +1,16 @@
+{
+  "id": 972,
+  "name": "ハカドッグ",
+  "types": [
+    "霊"
+  ],
+  "stats": [
+    72,
+    101,
+    100,
+    50,
+    97,
+    68
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
+}

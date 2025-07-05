@@ -1,0 +1,17 @@
+{
+  "id": 10198,
+  "name": "butterfree-gmax",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    60,
+    45,
+    50,
+    90,
+    80,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10198.png"
+}

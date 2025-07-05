@@ -1,0 +1,17 @@
+{
+  "id": 649,
+  "name": "ゲノセクト",
+  "types": [
+    "虫",
+    "鋼"
+  ],
+  "stats": [
+    71,
+    120,
+    95,
+    120,
+    95,
+    99
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png"
+}

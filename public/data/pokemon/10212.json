@@ -1,0 +1,17 @@
+{
+  "id": 10212,
+  "name": "corviknight-gmax",
+  "types": [
+    "flying",
+    "steel"
+  ],
+  "stats": [
+    98,
+    87,
+    105,
+    53,
+    85,
+    67
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10212.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 562,
+  "name": "デスマス",
+  "types": [
+    "霊"
+  ],
+  "stats": [
+    38,
+    30,
+    85,
+    55,
+    65,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 660,
+  "name": "ホルード",
+  "types": [
+    "普",
+    "地"
+  ],
+  "stats": [
+    85,
+    56,
+    77,
+    50,
+    77,
+    78
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 587,
+  "name": "エモンガ",
+  "types": [
+    "電",
+    "飛"
+  ],
+  "stats": [
+    55,
+    75,
+    60,
+    75,
+    60,
+    103
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 950,
+  "name": "klawf",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    70,
+    100,
+    115,
+    35,
+    55,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png"
+}

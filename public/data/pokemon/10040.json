@@ -1,0 +1,17 @@
+{
+  "id": 10040,
+  "name": "pinsir-mega",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    65,
+    155,
+    120,
+    65,
+    90,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png"
+}

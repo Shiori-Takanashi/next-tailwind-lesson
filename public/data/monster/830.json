@@ -1,0 +1,16 @@
+{
+  "id": 830,
+  "name": "ワタシラガ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    60,
+    50,
+    90,
+    80,
+    120,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png"
+}

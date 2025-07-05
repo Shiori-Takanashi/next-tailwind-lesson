@@ -1,0 +1,16 @@
+{
+  "id": 510,
+  "name": "liepard",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    64,
+    88,
+    50,
+    88,
+    50,
+    106
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 503,
+  "name": "ダイケンキ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    95,
+    100,
+    85,
+    108,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+}

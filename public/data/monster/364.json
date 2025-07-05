@@ -1,0 +1,17 @@
+{
+  "id": 364,
+  "name": "トドグラー",
+  "types": [
+    "氷",
+    "水"
+  ],
+  "stats": [
+    90,
+    60,
+    70,
+    75,
+    70,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
+}

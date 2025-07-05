@@ -1,0 +1,16 @@
+{
+  "id": 467,
+  "name": "ブーバーン",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    75,
+    95,
+    67,
+    125,
+    95,
+    83
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png"
+}

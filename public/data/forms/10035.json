@@ -1,0 +1,29 @@
+{
+  "id": 10035,
+  "name": "burmy-trash",
+  "form_name": "trash",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 571,
+  "form_order": 3,
+  "pokemon": {
+    "name": "burmy",
+    "url": "https://pokeapi.co/api/v2/pokemon/412/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412-trash.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/412-trash.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/412-trash.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/412-trash.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 735,
+  "name": "gumshoos",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    88,
+    110,
+    60,
+    55,
+    60,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png"
+}

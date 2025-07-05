@@ -1,0 +1,17 @@
+{
+  "id": 435,
+  "name": "スカタンク",
+  "types": [
+    "毒",
+    "悪"
+  ],
+  "stats": [
+    103,
+    93,
+    67,
+    71,
+    61,
+    84
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png"
+}

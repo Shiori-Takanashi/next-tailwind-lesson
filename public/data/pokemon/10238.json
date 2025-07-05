@@ -1,0 +1,17 @@
+{
+  "id": 10238,
+  "name": "zorua-hisui",
+  "types": [
+    "normal",
+    "ghost"
+  ],
+  "stats": [
+    35,
+    60,
+    40,
+    85,
+    40,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10238.png"
+}

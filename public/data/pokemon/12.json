@@ -1,0 +1,17 @@
+{
+  "id": 12,
+  "name": "butterfree",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    60,
+    45,
+    50,
+    90,
+    80,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+}

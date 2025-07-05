@@ -1,0 +1,17 @@
+{
+  "id": 85,
+  "name": "dodrio",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    60,
+    110,
+    70,
+    60,
+    60,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 38,
+  "name": "ninetales",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    73,
+    76,
+    75,
+    81,
+    100,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "name": "aipom",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    55,
+    70,
+    55,
+    40,
+    55,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png"
+}

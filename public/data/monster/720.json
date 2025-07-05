@@ -1,0 +1,17 @@
+{
+  "id": 720,
+  "name": "フーパ",
+  "types": [
+    "超",
+    "霊"
+  ],
+  "stats": [
+    80,
+    110,
+    60,
+    150,
+    130,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+}

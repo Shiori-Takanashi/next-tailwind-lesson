@@ -1,0 +1,16 @@
+{
+  "id": 814,
+  "name": "ラビフット",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    65,
+    86,
+    60,
+    55,
+    60,
+    94
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png"
+}

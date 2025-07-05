@@ -1,0 +1,16 @@
+{
+  "id": 232,
+  "name": "donphan",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    90,
+    120,
+    120,
+    60,
+    60,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png"
+}

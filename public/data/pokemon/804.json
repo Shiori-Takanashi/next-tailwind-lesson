@@ -1,0 +1,17 @@
+{
+  "id": 804,
+  "name": "naganadel",
+  "types": [
+    "poison",
+    "dragon"
+  ],
+  "stats": [
+    73,
+    73,
+    73,
+    127,
+    73,
+    121
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
+}

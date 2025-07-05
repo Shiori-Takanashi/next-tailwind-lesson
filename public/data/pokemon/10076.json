@@ -1,0 +1,17 @@
+{
+  "id": 10076,
+  "name": "metagross-mega",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "stats": [
+    80,
+    145,
+    150,
+    105,
+    110,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png"
+}

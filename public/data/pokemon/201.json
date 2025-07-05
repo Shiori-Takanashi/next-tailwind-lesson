@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "name": "unown",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    48,
+    72,
+    48,
+    72,
+    48,
+    48
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+}

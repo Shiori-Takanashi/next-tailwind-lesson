@@ -1,0 +1,16 @@
+{
+  "id": 10044,
+  "name": "mewtwo-mega-y",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    106,
+    150,
+    70,
+    194,
+    120,
+    140
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10044.png"
+}

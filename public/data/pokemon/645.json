@@ -1,0 +1,17 @@
+{
+  "id": 645,
+  "name": "landorus-incarnate",
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "stats": [
+    89,
+    125,
+    90,
+    115,
+    80,
+    101
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png"
+}

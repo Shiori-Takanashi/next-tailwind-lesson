@@ -1,0 +1,16 @@
+{
+  "id": 129,
+  "name": "magikarp",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    20,
+    10,
+    55,
+    15,
+    20,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
+}

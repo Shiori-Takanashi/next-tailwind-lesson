@@ -1,0 +1,16 @@
+{
+  "id": 237,
+  "name": "カポエラー",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    50,
+    95,
+    95,
+    35,
+    110,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
+}

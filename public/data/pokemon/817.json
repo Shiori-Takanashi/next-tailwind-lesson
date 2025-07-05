@@ -1,0 +1,16 @@
+{
+  "id": 817,
+  "name": "drizzile",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    65,
+    60,
+    55,
+    95,
+    55,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png"
+}

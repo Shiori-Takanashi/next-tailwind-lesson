@@ -1,0 +1,17 @@
+{
+  "id": 469,
+  "name": "yanmega",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    86,
+    76,
+    86,
+    116,
+    56,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png"
+}

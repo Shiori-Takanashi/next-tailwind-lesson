@@ -1,0 +1,17 @@
+{
+  "id": 794,
+  "name": "マッシブーン",
+  "types": [
+    "虫",
+    "闘"
+  ],
+  "stats": [
+    107,
+    139,
+    139,
+    53,
+    53,
+    79
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 652,
+  "name": "ブリガロン",
+  "types": [
+    "草",
+    "闘"
+  ],
+  "stats": [
+    88,
+    107,
+    122,
+    74,
+    75,
+    64
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 272,
+  "name": "ludicolo",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "stats": [
+    80,
+    70,
+    70,
+    90,
+    100,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png"
+}

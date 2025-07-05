@@ -1,0 +1,16 @@
+{
+  "id": 852,
+  "name": "clobbopus",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    50,
+    68,
+    60,
+    50,
+    50,
+    32
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10239,
+  "name": "zoroark-hisui",
+  "types": [
+    "normal",
+    "ghost"
+  ],
+  "stats": [
+    55,
+    100,
+    60,
+    125,
+    60,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png"
+}

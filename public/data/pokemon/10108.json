@@ -1,0 +1,16 @@
+{
+  "id": 10108,
+  "name": "persian-alola",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    65,
+    60,
+    60,
+    75,
+    65,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10108.png"
+}

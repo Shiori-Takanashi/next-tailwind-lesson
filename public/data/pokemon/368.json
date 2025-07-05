@@ -1,0 +1,16 @@
+{
+  "id": 368,
+  "name": "gorebyss",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    55,
+    84,
+    105,
+    114,
+    75,
+    52
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png"
+}

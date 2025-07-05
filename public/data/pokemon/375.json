@@ -1,0 +1,17 @@
+{
+  "id": 375,
+  "name": "metang",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    75,
+    100,
+    55,
+    80,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png"
+}

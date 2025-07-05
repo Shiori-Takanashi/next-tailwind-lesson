@@ -1,0 +1,17 @@
+{
+  "id": 528,
+  "name": "ココロモリ",
+  "types": [
+    "超",
+    "飛"
+  ],
+  "stats": [
+    67,
+    57,
+    55,
+    77,
+    55,
+    114
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 289,
+  "name": "slaking",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    150,
+    160,
+    100,
+    95,
+    65,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png"
+}

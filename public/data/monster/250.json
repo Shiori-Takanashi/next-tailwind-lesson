@@ -1,0 +1,17 @@
+{
+  "id": 250,
+  "name": "ホウオウ",
+  "types": [
+    "炎",
+    "飛"
+  ],
+  "stats": [
+    106,
+    130,
+    90,
+    110,
+    154,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10042,
+  "name": "aerodactyl-mega",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "stats": [
+    80,
+    135,
+    85,
+    70,
+    95,
+    150
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png"
+}

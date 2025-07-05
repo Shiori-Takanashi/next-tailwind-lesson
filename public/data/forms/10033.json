@@ -1,0 +1,29 @@
+{
+  "id": 10033,
+  "name": "deoxys-speed",
+  "form_name": "speed",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 545,
+  "form_order": 4,
+  "pokemon": {
+    "name": "deoxys-speed",
+    "url": "https://pokeapi.co/api/v2/pokemon/10003/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10003.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/386-speed.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/386-speed.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/386-speed.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

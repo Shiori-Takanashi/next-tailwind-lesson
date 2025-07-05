@@ -1,0 +1,17 @@
+{
+  "id": 140,
+  "name": "kabuto",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "stats": [
+    30,
+    80,
+    90,
+    55,
+    45,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png"
+}

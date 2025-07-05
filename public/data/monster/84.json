@@ -1,0 +1,17 @@
+{
+  "id": 84,
+  "name": "ドードー",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    35,
+    85,
+    45,
+    35,
+    35,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png"
+}

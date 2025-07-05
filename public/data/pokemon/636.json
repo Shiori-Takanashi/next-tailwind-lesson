@@ -1,0 +1,17 @@
+{
+  "id": 636,
+  "name": "larvesta",
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "stats": [
+    55,
+    85,
+    55,
+    50,
+    55,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+}

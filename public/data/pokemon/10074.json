@@ -1,0 +1,16 @@
+{
+  "id": 10074,
+  "name": "glalie-mega",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    80,
+    120,
+    80,
+    120,
+    80,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png"
+}

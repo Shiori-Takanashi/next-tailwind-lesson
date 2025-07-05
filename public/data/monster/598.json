@@ -1,0 +1,17 @@
+{
+  "id": 598,
+  "name": "ナットレイ",
+  "types": [
+    "草",
+    "鋼"
+  ],
+  "stats": [
+    74,
+    94,
+    131,
+    54,
+    116,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
+}

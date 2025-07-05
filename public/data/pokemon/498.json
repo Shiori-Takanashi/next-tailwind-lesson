@@ -1,0 +1,16 @@
+{
+  "id": 498,
+  "name": "tepig",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    65,
+    63,
+    45,
+    45,
+    45,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 866,
+  "name": "mr-rime",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "stats": [
+    80,
+    85,
+    75,
+    110,
+    100,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png"
+}

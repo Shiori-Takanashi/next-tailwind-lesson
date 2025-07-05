@@ -1,0 +1,16 @@
+{
+  "id": 507,
+  "name": "ハーデリア",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    65,
+    80,
+    65,
+    35,
+    65,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10048,
+  "name": "arceus-ghost",
+  "form_name": "ghost",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 650,
+  "form_order": 8,
+  "pokemon": {
+    "name": "arceus",
+    "url": "https://pokeapi.co/api/v2/pokemon/493/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-ghost.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493-ghost.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493-ghost.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/493-ghost.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

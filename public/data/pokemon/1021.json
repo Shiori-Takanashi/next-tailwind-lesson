@@ -1,0 +1,17 @@
+{
+  "id": 1021,
+  "name": "raging-bolt",
+  "types": [
+    "electric",
+    "dragon"
+  ],
+  "stats": [
+    125,
+    73,
+    91,
+    137,
+    89,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png"
+}

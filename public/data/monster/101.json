@@ -1,0 +1,16 @@
+{
+  "id": 101,
+  "name": "マルマイン",
+  "types": [
+    "電"
+  ],
+  "stats": [
+    60,
+    50,
+    70,
+    80,
+    80,
+    150
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+}

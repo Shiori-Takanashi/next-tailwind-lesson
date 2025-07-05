@@ -1,0 +1,17 @@
+{
+  "id": 363,
+  "name": "spheal",
+  "types": [
+    "ice",
+    "water"
+  ],
+  "stats": [
+    70,
+    40,
+    50,
+    55,
+    50,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png"
+}

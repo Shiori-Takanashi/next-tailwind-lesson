@@ -1,0 +1,17 @@
+{
+  "id": 10072,
+  "name": "steelix-mega",
+  "types": [
+    "steel",
+    "ground"
+  ],
+  "stats": [
+    75,
+    125,
+    230,
+    55,
+    95,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png"
+}

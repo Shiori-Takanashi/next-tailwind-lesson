@@ -1,0 +1,17 @@
+{
+  "id": 890,
+  "name": "eternatus",
+  "types": [
+    "poison",
+    "dragon"
+  ],
+  "stats": [
+    140,
+    85,
+    95,
+    145,
+    95,
+    130
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png"
+}

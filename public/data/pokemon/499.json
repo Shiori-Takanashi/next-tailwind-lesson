@@ -1,0 +1,17 @@
+{
+  "id": 499,
+  "name": "pignite",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "stats": [
+    90,
+    93,
+    55,
+    70,
+    55,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png"
+}

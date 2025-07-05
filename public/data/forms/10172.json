@@ -1,0 +1,36 @@
+{
+  "id": 10172,
+  "name": "sharpedo-mega",
+  "form_name": "mega",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": true,
+  "order": 458,
+  "form_order": 2,
+  "pokemon": {
+    "name": "sharpedo-mega",
+    "url": "https://pokeapi.co/api/v2/pokemon/10070/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10070.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10070.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10070.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10070.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    }
+  ]
+}

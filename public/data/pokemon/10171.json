@@ -1,0 +1,17 @@
+{
+  "id": 10171,
+  "name": "moltres-galar",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "stats": [
+    90,
+    85,
+    90,
+    100,
+    125,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10171.png"
+}

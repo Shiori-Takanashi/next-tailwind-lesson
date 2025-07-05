@@ -1,0 +1,16 @@
+{
+  "id": 665,
+  "name": "spewpa",
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    45,
+    22,
+    60,
+    27,
+    30,
+    29
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png"
+}

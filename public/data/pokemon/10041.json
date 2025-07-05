@@ -1,0 +1,17 @@
+{
+  "id": 10041,
+  "name": "gyarados-mega",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "stats": [
+    95,
+    155,
+    109,
+    70,
+    130,
+    81
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png"
+}

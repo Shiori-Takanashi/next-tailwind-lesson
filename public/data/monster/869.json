@@ -1,0 +1,16 @@
+{
+  "id": 869,
+  "name": "マホイップ",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    65,
+    60,
+    75,
+    110,
+    121,
+    64
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
+}

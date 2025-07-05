@@ -1,0 +1,17 @@
+{
+  "id": 415,
+  "name": "ミツハニー",
+  "types": [
+    "虫",
+    "飛"
+  ],
+  "stats": [
+    30,
+    30,
+    42,
+    30,
+    42,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 591,
+  "name": "amoonguss",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    114,
+    85,
+    70,
+    85,
+    80,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 651,
+  "name": "ハリボーグ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    61,
+    78,
+    95,
+    56,
+    58,
+    57
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png"
+}

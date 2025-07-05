@@ -1,0 +1,29 @@
+{
+  "id": 10477,
+  "name": "alcremie-ruby-cream-clover-sweet",
+  "form_name": "ruby-cream-clover-sweet",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1215,
+  "form_order": 38,
+  "pokemon": {
+    "name": "alcremie",
+    "url": "https://pokeapi.co/api/v2/pokemon/869/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-ruby-cream-clover-sweet.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/869-ruby-cream-clover-sweet.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

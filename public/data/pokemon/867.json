@@ -1,0 +1,17 @@
+{
+  "id": 867,
+  "name": "runerigus",
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "stats": [
+    58,
+    95,
+    145,
+    50,
+    105,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png"
+}

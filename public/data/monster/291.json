@@ -1,0 +1,17 @@
+{
+  "id": 291,
+  "name": "テッカニン",
+  "types": [
+    "虫",
+    "飛"
+  ],
+  "stats": [
+    61,
+    90,
+    45,
+    50,
+    50,
+    160
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png"
+}

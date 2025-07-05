@@ -1,0 +1,17 @@
+{
+  "id": 17,
+  "name": "ピジョン",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    63,
+    60,
+    55,
+    50,
+    50,
+    71
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+}

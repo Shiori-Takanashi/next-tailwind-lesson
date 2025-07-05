@@ -1,0 +1,16 @@
+{
+  "id": 789,
+  "name": "cosmog",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    43,
+    29,
+    31,
+    29,
+    31,
+    37
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
+}

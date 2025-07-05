@@ -1,0 +1,17 @@
+{
+  "id": 276,
+  "name": "taillow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    40,
+    55,
+    30,
+    30,
+    30,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png"
+}

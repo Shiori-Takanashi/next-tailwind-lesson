@@ -1,0 +1,17 @@
+{
+  "id": 193,
+  "name": "ヤンヤンマ",
+  "types": [
+    "虫",
+    "飛"
+  ],
+  "stats": [
+    65,
+    65,
+    45,
+    75,
+    45,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png"
+}

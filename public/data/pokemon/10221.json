@@ -1,0 +1,17 @@
+{
+  "id": 10221,
+  "name": "hatterene-gmax",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "stats": [
+    57,
+    90,
+    95,
+    136,
+    103,
+    29
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10221.png"
+}

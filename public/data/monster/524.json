@@ -1,0 +1,16 @@
+{
+  "id": 524,
+  "name": "ダンゴロ",
+  "types": [
+    "岩"
+  ],
+  "stats": [
+    55,
+    75,
+    85,
+    25,
+    25,
+    15
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png"
+}

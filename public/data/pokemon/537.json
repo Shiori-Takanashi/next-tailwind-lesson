@@ -1,0 +1,17 @@
+{
+  "id": 537,
+  "name": "seismitoad",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "stats": [
+    105,
+    95,
+    75,
+    85,
+    75,
+    74
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10233,
+  "name": "typhlosion-hisui",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "stats": [
+    73,
+    84,
+    78,
+    119,
+    85,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png"
+}

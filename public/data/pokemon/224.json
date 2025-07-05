@@ -1,0 +1,16 @@
+{
+  "id": 224,
+  "name": "octillery",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    75,
+    105,
+    75,
+    105,
+    75,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png"
+}

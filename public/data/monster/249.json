@@ -1,0 +1,17 @@
+{
+  "id": 249,
+  "name": "ルギア",
+  "types": [
+    "超",
+    "飛"
+  ],
+  "stats": [
+    106,
+    90,
+    130,
+    90,
+    154,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png"
+}

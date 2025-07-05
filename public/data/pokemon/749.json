@@ -1,0 +1,16 @@
+{
+  "id": 749,
+  "name": "mudbray",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    70,
+    100,
+    70,
+    45,
+    55,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png"
+}

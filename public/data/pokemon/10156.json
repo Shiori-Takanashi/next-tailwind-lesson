@@ -1,0 +1,17 @@
+{
+  "id": 10156,
+  "name": "necrozma-dawn",
+  "types": [
+    "psychic",
+    "ghost"
+  ],
+  "stats": [
+    97,
+    113,
+    109,
+    157,
+    127,
+    77
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10156.png"
+}

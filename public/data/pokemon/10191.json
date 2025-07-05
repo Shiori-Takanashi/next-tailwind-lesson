@@ -1,0 +1,17 @@
+{
+  "id": 10191,
+  "name": "urshifu-rapid-strike",
+  "types": [
+    "fighting",
+    "water"
+  ],
+  "stats": [
+    100,
+    130,
+    100,
+    63,
+    60,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 641,
+  "name": "tornadus-incarnate",
+  "form_name": "incarnate",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 823,
+  "form_order": 1,
+  "pokemon": {
+    "name": "tornadus-incarnate",
+    "url": "https://pokeapi.co/api/v2/pokemon/641/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/641.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/641.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/641.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

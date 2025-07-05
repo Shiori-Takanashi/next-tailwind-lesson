@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "name": "squirtle",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    44,
+    48,
+    65,
+    50,
+    64,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+}

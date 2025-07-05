@@ -1,0 +1,29 @@
+{
+  "id": 10139,
+  "name": "kangaskhan-mega",
+  "form_name": "mega",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": true,
+  "order": 186,
+  "form_order": 2,
+  "pokemon": {
+    "name": "kangaskhan-mega",
+    "url": "https://pokeapi.co/api/v2/pokemon/10039/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10039.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10039.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10039.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10039.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    }
+  ]
+}

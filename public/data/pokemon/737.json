@@ -1,0 +1,17 @@
+{
+  "id": 737,
+  "name": "charjabug",
+  "types": [
+    "bug",
+    "electric"
+  ],
+  "stats": [
+    57,
+    82,
+    95,
+    55,
+    75,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10018,
+  "name": "meloetta-pirouette",
+  "types": [
+    "normal",
+    "fighting"
+  ],
+  "stats": [
+    100,
+    128,
+    90,
+    77,
+    77,
+    128
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10018.png"
+}

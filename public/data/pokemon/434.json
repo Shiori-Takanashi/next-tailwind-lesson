@@ -1,0 +1,17 @@
+{
+  "id": 434,
+  "name": "stunky",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "stats": [
+    63,
+    63,
+    47,
+    41,
+    41,
+    74
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png"
+}

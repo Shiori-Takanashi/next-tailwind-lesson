@@ -1,0 +1,17 @@
+{
+  "id": 823,
+  "name": "アーマーガア",
+  "types": [
+    "飛",
+    "鋼"
+  ],
+  "stats": [
+    98,
+    87,
+    105,
+    53,
+    85,
+    67
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png"
+}

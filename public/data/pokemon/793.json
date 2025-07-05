@@ -1,0 +1,17 @@
+{
+  "id": 793,
+  "name": "nihilego",
+  "types": [
+    "rock",
+    "poison"
+  ],
+  "stats": [
+    109,
+    53,
+    47,
+    127,
+    131,
+    103
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png"
+}

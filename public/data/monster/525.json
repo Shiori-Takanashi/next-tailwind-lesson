@@ -1,0 +1,16 @@
+{
+  "id": 525,
+  "name": "ガントル",
+  "types": [
+    "岩"
+  ],
+  "stats": [
+    70,
+    105,
+    105,
+    50,
+    40,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+}

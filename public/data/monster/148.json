@@ -1,0 +1,16 @@
+{
+  "id": 148,
+  "name": "ハクリュー",
+  "types": [
+    "竜"
+  ],
+  "stats": [
+    61,
+    84,
+    65,
+    70,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+}

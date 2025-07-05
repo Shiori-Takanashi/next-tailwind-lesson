@@ -1,0 +1,17 @@
+{
+  "id": 10006,
+  "name": "shaymin-sky",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "stats": [
+    100,
+    103,
+    75,
+    120,
+    75,
+    127
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10006.png"
+}

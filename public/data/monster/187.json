@@ -1,0 +1,17 @@
+{
+  "id": 187,
+  "name": "ハネッコ",
+  "types": [
+    "草",
+    "飛"
+  ],
+  "stats": [
+    35,
+    35,
+    40,
+    35,
+    55,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png"
+}

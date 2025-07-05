@@ -1,0 +1,17 @@
+{
+  "id": 737,
+  "name": "デンヂムシ",
+  "types": [
+    "虫",
+    "電"
+  ],
+  "stats": [
+    57,
+    82,
+    95,
+    55,
+    75,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png"
+}

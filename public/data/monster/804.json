@@ -1,0 +1,17 @@
+{
+  "id": 804,
+  "name": "アーゴヨン",
+  "types": [
+    "毒",
+    "竜"
+  ],
+  "stats": [
+    73,
+    73,
+    73,
+    127,
+    73,
+    121
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png"
+}

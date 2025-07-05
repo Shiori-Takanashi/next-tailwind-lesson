@@ -1,0 +1,16 @@
+{
+  "id": 10107,
+  "name": "meowth-alola",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    40,
+    35,
+    35,
+    50,
+    40,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10107.png"
+}

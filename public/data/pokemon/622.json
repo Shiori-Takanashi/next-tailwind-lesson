@@ -1,0 +1,17 @@
+{
+  "id": 622,
+  "name": "golett",
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "stats": [
+    59,
+    74,
+    50,
+    35,
+    50,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png"
+}

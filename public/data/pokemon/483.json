@@ -1,0 +1,17 @@
+{
+  "id": 483,
+  "name": "dialga",
+  "types": [
+    "steel",
+    "dragon"
+  ],
+  "stats": [
+    100,
+    120,
+    120,
+    150,
+    100,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+}

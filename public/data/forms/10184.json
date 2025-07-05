@@ -1,0 +1,29 @@
+{
+  "id": 10184,
+  "name": "pikachu-pop-star",
+  "form_name": "pop-star",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 40,
+  "form_order": 5,
+  "pokemon": {
+    "name": "pikachu-pop-star",
+    "url": "https://pokeapi.co/api/v2/pokemon/10082/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10082.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10082.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10082.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10082.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

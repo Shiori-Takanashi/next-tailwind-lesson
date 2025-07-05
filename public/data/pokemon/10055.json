@@ -1,0 +1,16 @@
+{
+  "id": 10055,
+  "name": "manectric-mega",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    70,
+    75,
+    80,
+    135,
+    80,
+    135
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png"
+}

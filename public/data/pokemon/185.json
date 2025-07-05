@@ -1,0 +1,16 @@
+{
+  "id": 185,
+  "name": "sudowoodo",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    70,
+    100,
+    115,
+    30,
+    65,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png"
+}

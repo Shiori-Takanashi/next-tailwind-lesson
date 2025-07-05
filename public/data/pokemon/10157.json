@@ -1,0 +1,17 @@
+{
+  "id": 10157,
+  "name": "necrozma-ultra",
+  "types": [
+    "psychic",
+    "dragon"
+  ],
+  "stats": [
+    97,
+    167,
+    97,
+    167,
+    97,
+    129
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10157.png"
+}

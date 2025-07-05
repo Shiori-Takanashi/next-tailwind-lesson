@@ -1,0 +1,36 @@
+{
+  "id": 10211,
+  "name": "geodude-alola",
+  "form_name": "alola",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 117,
+  "form_order": 2,
+  "pokemon": {
+    "name": "geodude-alola",
+    "url": "https://pokeapi.co/api/v2/pokemon/10109/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10109.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10109.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10109.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

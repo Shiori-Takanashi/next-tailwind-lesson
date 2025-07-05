@@ -1,0 +1,16 @@
+{
+  "id": 583,
+  "name": "vanillish",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    51,
+    65,
+    65,
+    80,
+    75,
+    59
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
+}

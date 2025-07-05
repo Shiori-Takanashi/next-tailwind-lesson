@@ -1,0 +1,16 @@
+{
+  "id": 517,
+  "name": "munna",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    76,
+    25,
+    45,
+    67,
+    55,
+    24
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png"
+}

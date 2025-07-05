@@ -1,0 +1,17 @@
+{
+  "id": 10059,
+  "name": "lucario-mega",
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "stats": [
+    70,
+    145,
+    88,
+    140,
+    70,
+    112
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png"
+}

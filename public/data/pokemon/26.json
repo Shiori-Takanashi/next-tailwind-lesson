@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "name": "raichu",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    60,
+    90,
+    55,
+    90,
+    80,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png"
+}

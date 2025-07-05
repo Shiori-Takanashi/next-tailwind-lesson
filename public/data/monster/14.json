@@ -1,0 +1,17 @@
+{
+  "id": 14,
+  "name": "コクーン",
+  "types": [
+    "虫",
+    "毒"
+  ],
+  "stats": [
+    45,
+    25,
+    50,
+    25,
+    25,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+}

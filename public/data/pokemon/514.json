@@ -1,0 +1,16 @@
+{
+  "id": 514,
+  "name": "simisear",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    75,
+    98,
+    63,
+    98,
+    63,
+    101
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+}

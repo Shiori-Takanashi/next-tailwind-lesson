@@ -1,0 +1,17 @@
+{
+  "id": 797,
+  "name": "celesteela",
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "stats": [
+    97,
+    101,
+    103,
+    107,
+    101,
+    61
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png"
+}

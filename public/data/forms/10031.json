@@ -1,0 +1,29 @@
+{
+  "id": 10031,
+  "name": "deoxys-attack",
+  "form_name": "attack",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 543,
+  "form_order": 2,
+  "pokemon": {
+    "name": "deoxys-attack",
+    "url": "https://pokeapi.co/api/v2/pokemon/10001/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10001.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/386-attack.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/386-attack.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/386-attack.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

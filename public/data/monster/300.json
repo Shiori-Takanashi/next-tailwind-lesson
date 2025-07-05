@@ -1,0 +1,16 @@
+{
+  "id": 300,
+  "name": "エネコ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    50,
+    45,
+    45,
+    35,
+    35,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png"
+}

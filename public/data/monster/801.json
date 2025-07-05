@@ -1,0 +1,17 @@
+{
+  "id": 801,
+  "name": "マギアナ",
+  "types": [
+    "鋼",
+    "妖"
+  ],
+  "stats": [
+    80,
+    95,
+    115,
+    130,
+    115,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 124,
+  "name": "jynx",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "stats": [
+    65,
+    50,
+    35,
+    115,
+    95,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png"
+}

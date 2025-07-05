@@ -1,0 +1,16 @@
+{
+  "id": 310,
+  "name": "manectric",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    70,
+    75,
+    60,
+    105,
+    60,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png"
+}

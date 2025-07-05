@@ -1,0 +1,17 @@
+{
+  "id": 391,
+  "name": "monferno",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "stats": [
+    64,
+    78,
+    52,
+    78,
+    52,
+    81
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png"
+}

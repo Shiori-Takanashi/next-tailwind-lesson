@@ -1,0 +1,16 @@
+{
+  "id": 692,
+  "name": "clauncher",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    50,
+    53,
+    62,
+    58,
+    63,
+    44
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png"
+}

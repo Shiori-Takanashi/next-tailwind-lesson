@@ -1,0 +1,17 @@
+{
+  "id": 18,
+  "name": "ピジョット",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    83,
+    80,
+    75,
+    70,
+    70,
+    101
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+}

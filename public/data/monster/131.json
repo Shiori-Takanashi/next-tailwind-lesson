@@ -1,0 +1,17 @@
+{
+  "id": 131,
+  "name": "ラプラス",
+  "types": [
+    "水",
+    "氷"
+  ],
+  "stats": [
+    130,
+    85,
+    80,
+    85,
+    95,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10064,
+  "name": "swampert-mega",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "stats": [
+    100,
+    150,
+    110,
+    95,
+    110,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10064.png"
+}

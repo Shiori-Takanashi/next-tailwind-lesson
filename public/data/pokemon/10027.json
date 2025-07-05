@@ -1,0 +1,17 @@
+{
+  "id": 10027,
+  "name": "pumpkaboo-small",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "stats": [
+    44,
+    66,
+    70,
+    44,
+    55,
+    56
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10027.png"
+}

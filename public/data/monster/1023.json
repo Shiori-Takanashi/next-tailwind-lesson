@@ -1,0 +1,17 @@
+{
+  "id": 1023,
+  "name": "テツノカシラ",
+  "types": [
+    "鋼",
+    "超"
+  ],
+  "stats": [
+    90,
+    72,
+    100,
+    122,
+    108,
+    98
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
+}

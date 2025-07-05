@@ -1,0 +1,16 @@
+{
+  "id": 964,
+  "name": "palafin-zero",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    100,
+    70,
+    72,
+    53,
+    62,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
+}

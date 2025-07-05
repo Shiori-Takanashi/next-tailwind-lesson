@@ -1,0 +1,16 @@
+{
+  "id": 889,
+  "name": "ザマゼンタ",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    92,
+    120,
+    115,
+    80,
+    115,
+    138
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
+}

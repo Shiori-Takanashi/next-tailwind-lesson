@@ -1,0 +1,17 @@
+{
+  "id": 10109,
+  "name": "geodude-alola",
+  "types": [
+    "rock",
+    "electric"
+  ],
+  "stats": [
+    40,
+    80,
+    100,
+    30,
+    30,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10109.png"
+}

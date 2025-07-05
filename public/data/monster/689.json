@@ -1,0 +1,17 @@
+{
+  "id": 689,
+  "name": "ガメノデス",
+  "types": [
+    "岩",
+    "水"
+  ],
+  "stats": [
+    72,
+    105,
+    115,
+    54,
+    86,
+    68
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 334,
+  "name": "チルタリス",
+  "types": [
+    "竜",
+    "飛"
+  ],
+  "stats": [
+    75,
+    70,
+    90,
+    70,
+    105,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png"
+}

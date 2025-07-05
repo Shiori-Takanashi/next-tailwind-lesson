@@ -1,0 +1,17 @@
+{
+  "id": 10143,
+  "name": "mimikyu-busted",
+  "types": [
+    "ghost",
+    "fairy"
+  ],
+  "stats": [
+    55,
+    90,
+    80,
+    50,
+    105,
+    96
+  ],
+  "image": null
+}

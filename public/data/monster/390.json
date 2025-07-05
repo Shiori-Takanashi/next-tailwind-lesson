@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "name": "ヒコザル",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    44,
+    58,
+    44,
+    58,
+    44,
+    61
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png"
+}

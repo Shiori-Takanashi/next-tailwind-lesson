@@ -1,0 +1,16 @@
+{
+  "id": 713,
+  "name": "avalugg",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    95,
+    117,
+    184,
+    44,
+    46,
+    28
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png"
+}

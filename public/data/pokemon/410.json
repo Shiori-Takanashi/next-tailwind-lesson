@@ -1,0 +1,17 @@
+{
+  "id": 410,
+  "name": "shieldon",
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "stats": [
+    30,
+    42,
+    118,
+    42,
+    88,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
+}

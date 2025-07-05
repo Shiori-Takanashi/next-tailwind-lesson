@@ -1,0 +1,16 @@
+{
+  "id": 10016,
+  "name": "basculin-blue-striped",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    70,
+    92,
+    65,
+    80,
+    55,
+    98
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10016.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10051,
+  "name": "gardevoir-mega",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "stats": [
+    68,
+    85,
+    65,
+    165,
+    135,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+}

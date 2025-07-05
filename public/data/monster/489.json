@@ -1,0 +1,16 @@
+{
+  "id": 489,
+  "name": "フィオネ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    80,
+    80,
+    80,
+    80,
+    80,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png"
+}

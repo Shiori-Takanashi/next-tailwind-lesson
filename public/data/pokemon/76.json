@@ -1,0 +1,17 @@
+{
+  "id": 76,
+  "name": "golem",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "stats": [
+    80,
+    120,
+    130,
+    55,
+    65,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
+}

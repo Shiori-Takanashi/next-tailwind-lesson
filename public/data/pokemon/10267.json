@@ -1,0 +1,17 @@
+{
+  "id": 10267,
+  "name": "koraidon-gliding-build",
+  "types": [
+    "fighting",
+    "dragon"
+  ],
+  "stats": [
+    100,
+    135,
+    115,
+    85,
+    100,
+    135
+  ],
+  "image": null
+}

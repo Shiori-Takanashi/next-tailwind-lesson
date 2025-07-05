@@ -1,0 +1,17 @@
+{
+  "id": 10073,
+  "name": "pidgeot-mega",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    83,
+    80,
+    80,
+    135,
+    80,
+    121
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png"
+}

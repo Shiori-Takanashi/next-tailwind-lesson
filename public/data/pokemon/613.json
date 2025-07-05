@@ -1,0 +1,16 @@
+{
+  "id": 613,
+  "name": "cubchoo",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    55,
+    70,
+    40,
+    60,
+    40,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png"
+}

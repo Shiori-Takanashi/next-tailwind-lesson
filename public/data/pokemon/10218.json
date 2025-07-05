@@ -1,0 +1,16 @@
+{
+  "id": 10218,
+  "name": "sandaconda-gmax",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    72,
+    107,
+    125,
+    65,
+    70,
+    71
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10218.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 577,
+  "name": "ユニラン",
+  "types": [
+    "超"
+  ],
+  "stats": [
+    45,
+    30,
+    40,
+    105,
+    50,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
+}

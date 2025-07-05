@@ -1,0 +1,17 @@
+{
+  "id": 10235,
+  "name": "sneasel-hisui",
+  "types": [
+    "fighting",
+    "poison"
+  ],
+  "stats": [
+    55,
+    95,
+    55,
+    35,
+    75,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10235.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 10036,
+  "name": "blastoise-mega",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    79,
+    103,
+    120,
+    135,
+    115,
+    78
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png"
+}

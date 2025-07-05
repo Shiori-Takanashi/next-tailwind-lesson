@@ -1,0 +1,17 @@
+{
+  "id": 661,
+  "name": "ヤヤコマ",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    45,
+    50,
+    43,
+    40,
+    38,
+    62
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png"
+}

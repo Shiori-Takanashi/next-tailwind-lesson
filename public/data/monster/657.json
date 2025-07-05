@@ -1,0 +1,16 @@
+{
+  "id": 657,
+  "name": "ゲコガシラ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    54,
+    63,
+    52,
+    83,
+    56,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 10245,
+  "name": "dialga-origin",
+  "types": [
+    "steel",
+    "dragon"
+  ],
+  "stats": [
+    100,
+    100,
+    120,
+    150,
+    120,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10245.png"
+}

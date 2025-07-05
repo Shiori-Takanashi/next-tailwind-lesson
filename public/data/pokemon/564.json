@@ -1,0 +1,17 @@
+{
+  "id": 564,
+  "name": "tirtouga",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "stats": [
+    54,
+    78,
+    103,
+    53,
+    45,
+    22
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+}

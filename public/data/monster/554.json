@@ -1,0 +1,16 @@
+{
+  "id": 554,
+  "name": "ダルマッカ",
+  "types": [
+    "炎"
+  ],
+  "stats": [
+    70,
+    90,
+    45,
+    15,
+    45,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png"
+}

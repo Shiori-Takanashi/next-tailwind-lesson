@@ -1,0 +1,16 @@
+{
+  "id": 399,
+  "name": "ビッパ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    59,
+    45,
+    40,
+    35,
+    40,
+    31
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png"
+}

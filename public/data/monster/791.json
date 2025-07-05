@@ -1,0 +1,17 @@
+{
+  "id": 791,
+  "name": "ソルガレオ",
+  "types": [
+    "超",
+    "鋼"
+  ],
+  "stats": [
+    137,
+    137,
+    107,
+    113,
+    89,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 22,
+  "name": "fearow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    65,
+    90,
+    65,
+    61,
+    61,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+}

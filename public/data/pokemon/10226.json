@@ -1,0 +1,17 @@
+{
+  "id": 10226,
+  "name": "urshifu-single-strike-gmax",
+  "types": [
+    "fighting",
+    "dark"
+  ],
+  "stats": [
+    100,
+    130,
+    100,
+    63,
+    60,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10226.png"
+}

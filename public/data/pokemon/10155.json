@@ -1,0 +1,17 @@
+{
+  "id": 10155,
+  "name": "necrozma-dusk",
+  "types": [
+    "psychic",
+    "steel"
+  ],
+  "stats": [
+    97,
+    157,
+    127,
+    113,
+    109,
+    77
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10155.png"
+}

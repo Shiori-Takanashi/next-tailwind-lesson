@@ -1,0 +1,36 @@
+{
+  "id": 10358,
+  "name": "zamazenta-crowned",
+  "form_name": "crowned",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1247,
+  "form_order": 2,
+  "pokemon": {
+    "name": "zamazenta-crowned",
+    "url": "https://pokeapi.co/api/v2/pokemon/10189/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10189.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10189.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10189.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10189.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

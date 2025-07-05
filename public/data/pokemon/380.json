@@ -1,0 +1,17 @@
+{
+  "id": 380,
+  "name": "latias",
+  "types": [
+    "dragon",
+    "psychic"
+  ],
+  "stats": [
+    80,
+    80,
+    90,
+    110,
+    130,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png"
+}

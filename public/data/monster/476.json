@@ -1,0 +1,17 @@
+{
+  "id": 476,
+  "name": "ダイノーズ",
+  "types": [
+    "岩",
+    "鋼"
+  ],
+  "stats": [
+    60,
+    55,
+    145,
+    75,
+    150,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png"
+}

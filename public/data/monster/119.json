@@ -1,0 +1,16 @@
+{
+  "id": 119,
+  "name": "アズマオウ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    80,
+    92,
+    65,
+    65,
+    80,
+    68
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png"
+}

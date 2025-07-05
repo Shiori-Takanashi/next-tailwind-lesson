@@ -1,0 +1,29 @@
+{
+  "id": 10186,
+  "name": "pikachu-libre",
+  "form_name": "libre",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 42,
+  "form_order": 7,
+  "pokemon": {
+    "name": "pikachu-libre",
+    "url": "https://pokeapi.co/api/v2/pokemon/10084/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10084.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10084.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10084.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10084.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    }
+  ]
+}

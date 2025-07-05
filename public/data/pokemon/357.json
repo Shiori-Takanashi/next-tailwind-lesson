@@ -1,0 +1,17 @@
+{
+  "id": 357,
+  "name": "tropius",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "stats": [
+    99,
+    68,
+    83,
+    72,
+    87,
+    51
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png"
+}

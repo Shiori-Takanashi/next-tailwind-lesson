@@ -1,0 +1,16 @@
+{
+  "id": 482,
+  "name": "アグノム",
+  "types": [
+    "超"
+  ],
+  "stats": [
+    75,
+    125,
+    70,
+    125,
+    70,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png"
+}

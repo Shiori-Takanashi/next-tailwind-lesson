@@ -1,0 +1,17 @@
+{
+  "id": 434,
+  "name": "スカンプー",
+  "types": [
+    "毒",
+    "悪"
+  ],
+  "stats": [
+    63,
+    63,
+    47,
+    41,
+    41,
+    74
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png"
+}

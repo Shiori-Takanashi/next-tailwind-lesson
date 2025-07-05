@@ -1,0 +1,16 @@
+{
+  "id": 10224,
+  "name": "copperajah-gmax",
+  "types": [
+    "steel"
+  ],
+  "stats": [
+    122,
+    130,
+    69,
+    80,
+    69,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10224.png"
+}

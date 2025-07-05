@@ -1,0 +1,17 @@
+{
+  "id": 10229,
+  "name": "growlithe-hisui",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "stats": [
+    60,
+    75,
+    45,
+    65,
+    50,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10229.png"
+}

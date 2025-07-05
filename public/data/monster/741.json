@@ -1,0 +1,17 @@
+{
+  "id": 741,
+  "name": "オドリドリ",
+  "types": [
+    "炎",
+    "飛"
+  ],
+  "stats": [
+    75,
+    70,
+    70,
+    98,
+    70,
+    93
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
+}

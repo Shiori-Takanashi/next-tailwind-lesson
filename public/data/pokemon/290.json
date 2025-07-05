@@ -1,0 +1,17 @@
+{
+  "id": 290,
+  "name": "nincada",
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "stats": [
+    31,
+    45,
+    90,
+    30,
+    30,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
+}

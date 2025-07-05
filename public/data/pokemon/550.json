@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "name": "basculin-red-striped",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    70,
+    92,
+    65,
+    80,
+    55,
+    98
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+}

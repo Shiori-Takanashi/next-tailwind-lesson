@@ -1,0 +1,29 @@
+{
+  "id": 854,
+  "name": "sinistea-phony",
+  "form_name": "phony",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1197,
+  "form_order": 1,
+  "pokemon": {
+    "name": "sinistea",
+    "url": "https://pokeapi.co/api/v2/pokemon/854/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/854.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/854.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/854.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/854.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

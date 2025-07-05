@@ -1,0 +1,17 @@
+{
+  "id": 922,
+  "name": "パモット",
+  "types": [
+    "電",
+    "闘"
+  ],
+  "stats": [
+    60,
+    75,
+    40,
+    50,
+    40,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png"
+}

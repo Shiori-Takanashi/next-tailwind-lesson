@@ -1,0 +1,29 @@
+{
+  "id": 10244,
+  "name": "silvally-psychic",
+  "form_name": "psychic",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1087,
+  "form_order": 14,
+  "pokemon": {
+    "name": "silvally",
+    "url": "https://pokeapi.co/api/v2/pokemon/773/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-psychic.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/773-psychic.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

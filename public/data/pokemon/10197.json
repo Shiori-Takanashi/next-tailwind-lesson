@@ -1,0 +1,16 @@
+{
+  "id": 10197,
+  "name": "blastoise-gmax",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    79,
+    83,
+    100,
+    85,
+    105,
+    78
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10197.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 221,
+  "name": "piloswine",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "stats": [
+    100,
+    100,
+    80,
+    60,
+    60,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
+}

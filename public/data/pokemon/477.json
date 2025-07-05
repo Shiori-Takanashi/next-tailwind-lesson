@@ -1,0 +1,16 @@
+{
+  "id": 477,
+  "name": "dusknoir",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    45,
+    100,
+    135,
+    65,
+    135,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png"
+}

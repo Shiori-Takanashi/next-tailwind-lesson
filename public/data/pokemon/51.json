@@ -1,0 +1,16 @@
+{
+  "id": 51,
+  "name": "dugtrio",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    35,
+    100,
+    50,
+    50,
+    70,
+    120
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png"
+}

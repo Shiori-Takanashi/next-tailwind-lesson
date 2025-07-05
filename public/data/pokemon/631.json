@@ -1,0 +1,16 @@
+{
+  "id": 631,
+  "name": "heatmor",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    85,
+    97,
+    66,
+    105,
+    66,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png"
+}

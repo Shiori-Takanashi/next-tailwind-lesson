@@ -1,0 +1,16 @@
+{
+  "id": 463,
+  "name": "ベロベルト",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    110,
+    85,
+    95,
+    80,
+    95,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png"
+}

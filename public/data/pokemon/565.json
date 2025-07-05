@@ -1,0 +1,17 @@
+{
+  "id": 565,
+  "name": "carracosta",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "stats": [
+    74,
+    108,
+    133,
+    83,
+    65,
+    32
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+}

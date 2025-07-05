@@ -1,0 +1,17 @@
+{
+  "id": 10106,
+  "name": "dugtrio-alola",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "stats": [
+    35,
+    100,
+    60,
+    50,
+    70,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10106.png"
+}

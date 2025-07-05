@@ -1,0 +1,29 @@
+{
+  "id": 10210,
+  "name": "persian-alola",
+  "form_name": "alola",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 93,
+  "form_order": 2,
+  "pokemon": {
+    "name": "persian-alola",
+    "url": "https://pokeapi.co/api/v2/pokemon/10108/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10108.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10108.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10108.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10108.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    }
+  ]
+}

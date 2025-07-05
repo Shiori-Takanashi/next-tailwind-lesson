@@ -1,0 +1,17 @@
+{
+  "id": 392,
+  "name": "ゴウカザル",
+  "types": [
+    "炎",
+    "闘"
+  ],
+  "stats": [
+    76,
+    104,
+    71,
+    104,
+    71,
+    108
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
+}

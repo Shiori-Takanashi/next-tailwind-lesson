@@ -1,0 +1,29 @@
+{
+  "id": 10030,
+  "name": "castform-snowy",
+  "form_name": "snowy",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 495,
+  "form_order": 4,
+  "pokemon": {
+    "name": "castform-snowy",
+    "url": "https://pokeapi.co/api/v2/pokemon/10015/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10015.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10015.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/351-snowy.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10015.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

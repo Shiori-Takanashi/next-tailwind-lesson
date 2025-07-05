@@ -1,0 +1,16 @@
+{
+  "id": 135,
+  "name": "サンダース",
+  "types": [
+    "電"
+  ],
+  "stats": [
+    65,
+    65,
+    60,
+    110,
+    95,
+    130
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 508,
+  "name": "ムーランド",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    85,
+    110,
+    90,
+    45,
+    90,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+}

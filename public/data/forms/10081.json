@@ -1,0 +1,36 @@
+{
+  "id": 10081,
+  "name": "landorus-therian",
+  "form_name": "therian",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 830,
+  "form_order": 2,
+  "pokemon": {
+    "name": "landorus-therian",
+    "url": "https://pokeapi.co/api/v2/pokemon/10021/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10021.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/645-therian.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/645-therian.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/645-therian.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ground",
+        "url": "https://pokeapi.co/api/v2/type/5/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

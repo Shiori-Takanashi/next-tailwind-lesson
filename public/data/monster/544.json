@@ -1,0 +1,17 @@
+{
+  "id": 544,
+  "name": "ホイーガ",
+  "types": [
+    "虫",
+    "毒"
+  ],
+  "stats": [
+    40,
+    55,
+    99,
+    40,
+    79,
+    47
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
+}

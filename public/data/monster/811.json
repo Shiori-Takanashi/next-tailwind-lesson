@@ -1,0 +1,16 @@
+{
+  "id": 811,
+  "name": "バチンキー",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    70,
+    85,
+    70,
+    55,
+    60,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png"
+}

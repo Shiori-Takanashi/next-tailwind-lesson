@@ -1,0 +1,16 @@
+{
+  "id": 803,
+  "name": "ベベノム",
+  "types": [
+    "毒"
+  ],
+  "stats": [
+    67,
+    73,
+    67,
+    73,
+    67,
+    73
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png"
+}

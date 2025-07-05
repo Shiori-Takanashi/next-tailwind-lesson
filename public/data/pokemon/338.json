@@ -1,0 +1,17 @@
+{
+  "id": 338,
+  "name": "solrock",
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "stats": [
+    90,
+    95,
+    85,
+    55,
+    65,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png"
+}

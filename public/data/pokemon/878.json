@@ -1,0 +1,16 @@
+{
+  "id": 878,
+  "name": "cufant",
+  "types": [
+    "steel"
+  ],
+  "stats": [
+    72,
+    80,
+    49,
+    40,
+    49,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png"
+}

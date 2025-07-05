@@ -1,0 +1,17 @@
+{
+  "id": 788,
+  "name": "tapu-fini",
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "stats": [
+    70,
+    75,
+    115,
+    95,
+    130,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png"
+}

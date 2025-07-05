@@ -1,0 +1,17 @@
+{
+  "id": 690,
+  "name": "クズモー",
+  "types": [
+    "毒",
+    "水"
+  ],
+  "stats": [
+    50,
+    60,
+    60,
+    60,
+    60,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png"
+}

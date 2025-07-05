@@ -1,0 +1,17 @@
+{
+  "id": 10112,
+  "name": "grimer-alola",
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "stats": [
+    80,
+    80,
+    50,
+    40,
+    50,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10112.png"
+}

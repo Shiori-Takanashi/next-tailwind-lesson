@@ -1,0 +1,29 @@
+{
+  "id": 422,
+  "name": "shellos-west",
+  "form_name": "west",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 586,
+  "form_order": 1,
+  "pokemon": {
+    "name": "shellos",
+    "url": "https://pokeapi.co/api/v2/pokemon/422/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/422.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/422.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/422.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

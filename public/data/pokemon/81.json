@@ -1,0 +1,17 @@
+{
+  "id": 81,
+  "name": "magnemite",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "stats": [
+    25,
+    35,
+    70,
+    95,
+    55,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
+}

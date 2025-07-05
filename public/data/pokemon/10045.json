@@ -1,0 +1,17 @@
+{
+  "id": 10045,
+  "name": "ampharos-mega",
+  "types": [
+    "electric",
+    "dragon"
+  ],
+  "stats": [
+    90,
+    95,
+    105,
+    165,
+    110,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png"
+}

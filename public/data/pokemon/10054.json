@@ -1,0 +1,17 @@
+{
+  "id": 10054,
+  "name": "medicham-mega",
+  "types": [
+    "fighting",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    100,
+    85,
+    80,
+    85,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png"
+}

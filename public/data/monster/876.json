@@ -1,0 +1,17 @@
+{
+  "id": 876,
+  "name": "イエッサン",
+  "types": [
+    "超",
+    "普"
+  ],
+  "stats": [
+    60,
+    65,
+    55,
+    105,
+    95,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+}

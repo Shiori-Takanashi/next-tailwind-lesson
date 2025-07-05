@@ -1,0 +1,17 @@
+{
+  "id": 542,
+  "name": "leavanny",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    75,
+    103,
+    80,
+    70,
+    80,
+    92
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png"
+}

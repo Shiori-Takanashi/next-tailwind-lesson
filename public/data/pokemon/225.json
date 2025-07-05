@@ -1,0 +1,17 @@
+{
+  "id": 225,
+  "name": "delibird",
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "stats": [
+    45,
+    55,
+    45,
+    65,
+    45,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
+}

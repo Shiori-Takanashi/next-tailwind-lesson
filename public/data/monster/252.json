@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "name": "キモリ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    40,
+    45,
+    35,
+    65,
+    55,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
+}

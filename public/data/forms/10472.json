@@ -1,0 +1,29 @@
+{
+  "id": 10472,
+  "name": "alcremie-salted-cream-star-sweet",
+  "form_name": "salted-cream-star-sweet",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1219,
+  "form_order": 33,
+  "pokemon": {
+    "name": "alcremie",
+    "url": "https://pokeapi.co/api/v2/pokemon/869/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-salted-cream-star-sweet.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/869-salted-cream-star-sweet.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

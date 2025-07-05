@@ -1,0 +1,16 @@
+{
+  "id": 871,
+  "name": "pincurchin",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    48,
+    101,
+    95,
+    91,
+    85,
+    15
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png"
+}

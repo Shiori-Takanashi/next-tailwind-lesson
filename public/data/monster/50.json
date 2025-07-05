@@ -1,0 +1,16 @@
+{
+  "id": 50,
+  "name": "ディグダ",
+  "types": [
+    "地"
+  ],
+  "stats": [
+    10,
+    55,
+    25,
+    35,
+    45,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png"
+}

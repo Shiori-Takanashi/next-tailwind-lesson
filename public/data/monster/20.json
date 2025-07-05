@@ -1,0 +1,16 @@
+{
+  "id": 20,
+  "name": "ラッタ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    55,
+    81,
+    60,
+    50,
+    70,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 446,
+  "name": "munchlax",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    135,
+    85,
+    40,
+    40,
+    85,
+    5
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
+}

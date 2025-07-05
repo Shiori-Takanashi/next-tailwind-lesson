@@ -1,0 +1,16 @@
+{
+  "id": 447,
+  "name": "riolu",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    40,
+    70,
+    40,
+    35,
+    40,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png"
+}

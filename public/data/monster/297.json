@@ -1,0 +1,16 @@
+{
+  "id": 297,
+  "name": "ハリテヤマ",
+  "types": [
+    "闘"
+  ],
+  "stats": [
+    144,
+    120,
+    60,
+    40,
+    60,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png"
+}

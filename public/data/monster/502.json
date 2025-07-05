@@ -1,0 +1,16 @@
+{
+  "id": 502,
+  "name": "フタチマル",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    75,
+    75,
+    60,
+    83,
+    60,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+}

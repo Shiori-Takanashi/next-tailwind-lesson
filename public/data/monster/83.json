@@ -1,0 +1,17 @@
+{
+  "id": 83,
+  "name": "カモネギ",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    52,
+    90,
+    55,
+    58,
+    62,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png"
+}

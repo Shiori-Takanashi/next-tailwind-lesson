@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "name": "カメックス",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    79,
+    83,
+    100,
+    85,
+    105,
+    78
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+}

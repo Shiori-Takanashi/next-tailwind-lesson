@@ -1,0 +1,17 @@
+{
+  "id": 138,
+  "name": "オムナイト",
+  "types": [
+    "岩",
+    "水"
+  ],
+  "stats": [
+    35,
+    40,
+    100,
+    90,
+    55,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png"
+}

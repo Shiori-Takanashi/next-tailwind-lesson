@@ -1,0 +1,17 @@
+{
+  "id": 520,
+  "name": "ハトーボー",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    62,
+    77,
+    62,
+    50,
+    42,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+}

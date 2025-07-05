@@ -1,0 +1,17 @@
+{
+  "id": 195,
+  "name": "quagsire",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "stats": [
+    95,
+    85,
+    85,
+    65,
+    65,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+}

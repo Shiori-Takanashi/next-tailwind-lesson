@@ -1,0 +1,17 @@
+{
+  "id": 675,
+  "name": "pangoro",
+  "types": [
+    "fighting",
+    "dark"
+  ],
+  "stats": [
+    95,
+    124,
+    78,
+    69,
+    71,
+    58
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png"
+}

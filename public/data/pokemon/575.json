@@ -1,0 +1,16 @@
+{
+  "id": 575,
+  "name": "gothorita",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    60,
+    45,
+    70,
+    75,
+    85,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+}

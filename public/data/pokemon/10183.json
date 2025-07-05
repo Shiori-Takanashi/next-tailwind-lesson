@@ -1,0 +1,17 @@
+{
+  "id": 10183,
+  "name": "cramorant-gorging",
+  "types": [
+    "flying",
+    "water"
+  ],
+  "stats": [
+    70,
+    85,
+    55,
+    85,
+    95,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10183.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10277,
+  "name": "scatterbug-modern",
+  "form_name": "modern",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 866,
+  "form_order": 8,
+  "pokemon": {
+    "name": "scatterbug",
+    "url": "https://pokeapi.co/api/v2/pokemon/664/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    }
+  ]
+}

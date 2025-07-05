@@ -1,0 +1,17 @@
+{
+  "id": 923,
+  "name": "pawmot",
+  "types": [
+    "electric",
+    "fighting"
+  ],
+  "stats": [
+    70,
+    115,
+    70,
+    70,
+    60,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
+}

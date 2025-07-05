@@ -1,0 +1,16 @@
+{
+  "id": 386,
+  "name": "deoxys-normal",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    50,
+    150,
+    50,
+    150,
+    50,
+    150
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+}

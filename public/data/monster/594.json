@@ -1,0 +1,16 @@
+{
+  "id": 594,
+  "name": "ママンボウ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    165,
+    75,
+    80,
+    40,
+    45,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+}

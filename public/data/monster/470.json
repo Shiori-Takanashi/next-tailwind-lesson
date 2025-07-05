@@ -1,0 +1,16 @@
+{
+  "id": 470,
+  "name": "リーフィア",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    65,
+    110,
+    130,
+    60,
+    65,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png"
+}

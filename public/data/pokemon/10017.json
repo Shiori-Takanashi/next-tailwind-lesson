@@ -1,0 +1,17 @@
+{
+  "id": 10017,
+  "name": "darmanitan-zen",
+  "types": [
+    "fire",
+    "psychic"
+  ],
+  "stats": [
+    105,
+    30,
+    105,
+    140,
+    105,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10017.png"
+}

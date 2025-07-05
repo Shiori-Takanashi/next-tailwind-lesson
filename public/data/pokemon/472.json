@@ -1,0 +1,17 @@
+{
+  "id": 472,
+  "name": "gliscor",
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "stats": [
+    75,
+    95,
+    125,
+    45,
+    75,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png"
+}

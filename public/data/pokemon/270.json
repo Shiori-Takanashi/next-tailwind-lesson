@@ -1,0 +1,17 @@
+{
+  "id": 270,
+  "name": "lotad",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "stats": [
+    40,
+    30,
+    30,
+    40,
+    50,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png"
+}

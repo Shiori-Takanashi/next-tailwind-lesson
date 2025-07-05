@@ -1,0 +1,17 @@
+{
+  "id": 256,
+  "name": "combusken",
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "stats": [
+    60,
+    85,
+    60,
+    85,
+    60,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png"
+}

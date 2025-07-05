@@ -1,0 +1,17 @@
+{
+  "id": 395,
+  "name": "empoleon",
+  "types": [
+    "water",
+    "steel"
+  ],
+  "stats": [
+    84,
+    86,
+    88,
+    111,
+    101,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png"
+}

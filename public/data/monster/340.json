@@ -1,0 +1,17 @@
+{
+  "id": 340,
+  "name": "ナマズン",
+  "types": [
+    "水",
+    "地"
+  ],
+  "stats": [
+    110,
+    78,
+    73,
+    76,
+    71,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png"
+}

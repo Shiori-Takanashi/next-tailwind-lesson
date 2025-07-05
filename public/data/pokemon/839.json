@@ -1,0 +1,17 @@
+{
+  "id": 839,
+  "name": "coalossal",
+  "types": [
+    "rock",
+    "fire"
+  ],
+  "stats": [
+    110,
+    80,
+    120,
+    80,
+    90,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png"
+}

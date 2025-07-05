@@ -1,0 +1,16 @@
+{
+  "id": 960,
+  "name": "ウミディグダ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    10,
+    55,
+    25,
+    35,
+    25,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
+}

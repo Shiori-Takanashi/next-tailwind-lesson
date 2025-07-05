@@ -1,0 +1,16 @@
+{
+  "id": 971,
+  "name": "greavard",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    50,
+    61,
+    60,
+    30,
+    55,
+    34
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
+}

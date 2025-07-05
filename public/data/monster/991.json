@@ -1,0 +1,17 @@
+{
+  "id": 991,
+  "name": "テツノツツミ",
+  "types": [
+    "氷",
+    "水"
+  ],
+  "stats": [
+    56,
+    80,
+    114,
+    124,
+    60,
+    136
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png"
+}

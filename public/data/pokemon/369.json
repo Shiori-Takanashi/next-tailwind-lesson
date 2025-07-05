@@ -1,0 +1,17 @@
+{
+  "id": 369,
+  "name": "relicanth",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "stats": [
+    100,
+    90,
+    130,
+    45,
+    65,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png"
+}

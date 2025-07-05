@@ -1,0 +1,17 @@
+{
+  "id": 10167,
+  "name": "weezing-galar",
+  "types": [
+    "poison",
+    "fairy"
+  ],
+  "stats": [
+    65,
+    90,
+    120,
+    85,
+    70,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
+}

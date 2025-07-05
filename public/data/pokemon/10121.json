@@ -1,0 +1,16 @@
+{
+  "id": 10121,
+  "name": "gumshoos-totem",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    88,
+    110,
+    60,
+    55,
+    60,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10121.png"
+}

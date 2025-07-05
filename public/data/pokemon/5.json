@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "name": "charmeleon",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    58,
+    64,
+    58,
+    80,
+    65,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+}

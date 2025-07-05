@@ -1,0 +1,16 @@
+{
+  "id": 66,
+  "name": "machop",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    70,
+    80,
+    50,
+    35,
+    35,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+}

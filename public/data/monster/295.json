@@ -1,0 +1,16 @@
+{
+  "id": 295,
+  "name": "バクオング",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    104,
+    91,
+    63,
+    91,
+    73,
+    68
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 629,
+  "name": "vullaby",
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "stats": [
+    70,
+    55,
+    75,
+    45,
+    65,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png"
+}

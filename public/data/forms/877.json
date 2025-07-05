@@ -1,0 +1,36 @@
+{
+  "id": 877,
+  "name": "morpeko-full-belly",
+  "form_name": "full-belly",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1232,
+  "form_order": 1,
+  "pokemon": {
+    "name": "morpeko-full-belly",
+    "url": "https://pokeapi.co/api/v2/pokemon/877/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/877.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/877.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/877.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dark",
+        "url": "https://pokeapi.co/api/v2/type/17/"
+      }
+    }
+  ]
+}

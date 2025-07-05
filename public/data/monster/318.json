@@ -1,0 +1,17 @@
+{
+  "id": 318,
+  "name": "キバニア",
+  "types": [
+    "水",
+    "悪"
+  ],
+  "stats": [
+    45,
+    90,
+    20,
+    65,
+    20,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
+}

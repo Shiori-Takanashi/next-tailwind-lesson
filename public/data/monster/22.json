@@ -1,0 +1,17 @@
+{
+  "id": 22,
+  "name": "オニドリル",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    65,
+    90,
+    65,
+    61,
+    61,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png"
+}

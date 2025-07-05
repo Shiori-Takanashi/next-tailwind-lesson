@@ -1,0 +1,16 @@
+{
+  "id": 29,
+  "name": "nidoran-f",
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    55,
+    47,
+    52,
+    40,
+    40,
+    41
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png"
+}

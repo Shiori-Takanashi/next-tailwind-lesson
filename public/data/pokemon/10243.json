@@ -1,0 +1,17 @@
+{
+  "id": 10243,
+  "name": "avalugg-hisui",
+  "types": [
+    "ice",
+    "rock"
+  ],
+  "stats": [
+    95,
+    127,
+    184,
+    34,
+    36,
+    38
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10243.png"
+}

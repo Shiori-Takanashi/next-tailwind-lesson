@@ -1,0 +1,17 @@
+{
+  "id": 802,
+  "name": "marshadow",
+  "types": [
+    "fighting",
+    "ghost"
+  ],
+  "stats": [
+    90,
+    125,
+    80,
+    90,
+    90,
+    125
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png"
+}

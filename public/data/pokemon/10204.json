@@ -1,0 +1,17 @@
+{
+  "id": 10204,
+  "name": "lapras-gmax",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "stats": [
+    130,
+    85,
+    80,
+    85,
+    95,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10204.png"
+}

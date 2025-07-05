@@ -1,0 +1,16 @@
+{
+  "id": 10053,
+  "name": "aggron-mega",
+  "types": [
+    "steel"
+  ],
+  "stats": [
+    70,
+    140,
+    230,
+    60,
+    80,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png"
+}

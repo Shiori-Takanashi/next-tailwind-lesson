@@ -1,0 +1,17 @@
+{
+  "id": 10075,
+  "name": "diancie-mega",
+  "types": [
+    "rock",
+    "fairy"
+  ],
+  "stats": [
+    50,
+    160,
+    110,
+    160,
+    110,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10075.png"
+}

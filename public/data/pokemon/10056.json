@@ -1,0 +1,16 @@
+{
+  "id": 10056,
+  "name": "banette-mega",
+  "types": [
+    "ghost"
+  ],
+  "stats": [
+    64,
+    165,
+    75,
+    93,
+    83,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png"
+}

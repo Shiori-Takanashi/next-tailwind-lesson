@@ -1,0 +1,16 @@
+{
+  "id": 828,
+  "name": "フォクスライ",
+  "types": [
+    "悪"
+  ],
+  "stats": [
+    70,
+    58,
+    58,
+    87,
+    92,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png"
+}

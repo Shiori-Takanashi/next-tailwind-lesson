@@ -1,0 +1,16 @@
+{
+  "id": 10126,
+  "name": "lycanroc-midnight",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    85,
+    115,
+    75,
+    55,
+    75,
+    82
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10126.png"
+}

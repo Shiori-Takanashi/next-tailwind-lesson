@@ -1,0 +1,16 @@
+{
+  "id": 296,
+  "name": "makuhita",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    72,
+    60,
+    30,
+    20,
+    30,
+    25
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
+}

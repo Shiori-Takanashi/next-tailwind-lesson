@@ -1,0 +1,16 @@
+{
+  "id": 419,
+  "name": "floatzel",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    85,
+    105,
+    55,
+    85,
+    50,
+    115
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png"
+}

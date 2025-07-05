@@ -1,0 +1,17 @@
+{
+  "id": 551,
+  "name": "メグロコ",
+  "types": [
+    "地",
+    "悪"
+  ],
+  "stats": [
+    50,
+    72,
+    35,
+    35,
+    35,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+}

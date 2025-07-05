@@ -1,0 +1,17 @@
+{
+  "id": 10030,
+  "name": "gourgeist-small",
+  "types": [
+    "ghost",
+    "grass"
+  ],
+  "stats": [
+    55,
+    85,
+    122,
+    58,
+    75,
+    99
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10030.png"
+}

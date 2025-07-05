@@ -1,0 +1,17 @@
+{
+  "id": 959,
+  "name": "tinkaton",
+  "types": [
+    "fairy",
+    "steel"
+  ],
+  "stats": [
+    85,
+    75,
+    77,
+    70,
+    105,
+    94
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
+}

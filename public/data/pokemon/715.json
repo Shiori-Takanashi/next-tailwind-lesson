@@ -1,0 +1,17 @@
+{
+  "id": 715,
+  "name": "noivern",
+  "types": [
+    "flying",
+    "dragon"
+  ],
+  "stats": [
+    85,
+    70,
+    80,
+    97,
+    80,
+    123
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
+}

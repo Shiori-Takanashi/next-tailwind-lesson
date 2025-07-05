@@ -28,7 +28,7 @@ const JsonViewer: NextPageWithLayout = () => {
 
     try {
       setError(null);
-      const response = await fetch(`/api/meta/${endpointInfo.metaFile}`);
+      const response = await fetch(`/data/meta/${endpointInfo.metaFile}`);
       if (response.ok) {
         const ids = await response.json();
         setAvailableIds(ids);
@@ -65,7 +65,7 @@ const JsonViewer: NextPageWithLayout = () => {
     setIsLoading(true);
     setError(null);
     try {
-      const response = await fetch(`/api/data/${endpoint}/${id}`);
+      const response = await fetch(`/data/${endpoint}/${id}.json`);
       if (response.ok) {
         const data = await response.json();
         setJsonData(data);

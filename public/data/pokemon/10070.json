@@ -1,0 +1,17 @@
+{
+  "id": 10070,
+  "name": "sharpedo-mega",
+  "types": [
+    "water",
+    "dark"
+  ],
+  "stats": [
+    70,
+    140,
+    70,
+    110,
+    65,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png"
+}

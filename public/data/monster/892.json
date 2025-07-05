@@ -1,0 +1,17 @@
+{
+  "id": 892,
+  "name": "ウーラオス",
+  "types": [
+    "闘",
+    "悪"
+  ],
+  "stats": [
+    100,
+    130,
+    100,
+    63,
+    60,
+    97
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
+}

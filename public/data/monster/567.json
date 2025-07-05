@@ -1,0 +1,17 @@
+{
+  "id": 567,
+  "name": "アーケオス",
+  "types": [
+    "岩",
+    "飛"
+  ],
+  "stats": [
+    75,
+    140,
+    65,
+    112,
+    65,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png"
+}

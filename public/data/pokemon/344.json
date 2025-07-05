@@ -1,0 +1,17 @@
+{
+  "id": 344,
+  "name": "claydol",
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    70,
+    105,
+    70,
+    120,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
+}

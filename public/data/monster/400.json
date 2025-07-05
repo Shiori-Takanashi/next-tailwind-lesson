@@ -1,0 +1,17 @@
+{
+  "id": 400,
+  "name": "ビーダル",
+  "types": [
+    "普",
+    "水"
+  ],
+  "stats": [
+    79,
+    85,
+    60,
+    55,
+    60,
+    71
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png"
+}

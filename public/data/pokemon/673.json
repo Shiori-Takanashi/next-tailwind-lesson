@@ -1,0 +1,16 @@
+{
+  "id": 673,
+  "name": "gogoat",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    123,
+    100,
+    62,
+    97,
+    81,
+    68
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png"
+}

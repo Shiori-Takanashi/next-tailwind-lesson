@@ -1,0 +1,17 @@
+{
+  "id": 699,
+  "name": "aurorus",
+  "types": [
+    "rock",
+    "ice"
+  ],
+  "stats": [
+    123,
+    77,
+    72,
+    99,
+    92,
+    58
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+}

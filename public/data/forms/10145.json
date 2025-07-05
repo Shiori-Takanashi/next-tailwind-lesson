@@ -1,0 +1,36 @@
+{
+  "id": 10145,
+  "name": "ampharos-mega",
+  "form_name": "mega",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": true,
+  "order": 277,
+  "form_order": 2,
+  "pokemon": {
+    "name": "ampharos-mega",
+    "url": "https://pokeapi.co/api/v2/pokemon/10045/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10045.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10045.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10045.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10045.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dragon",
+        "url": "https://pokeapi.co/api/v2/type/16/"
+      }
+    }
+  ]
+}

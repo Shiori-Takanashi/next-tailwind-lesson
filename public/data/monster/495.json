@@ -1,0 +1,16 @@
+{
+  "id": 495,
+  "name": "ツタージャ",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    45,
+    45,
+    55,
+    45,
+    55,
+    63
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png"
+}

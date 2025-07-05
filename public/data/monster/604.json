@@ -1,0 +1,16 @@
+{
+  "id": 604,
+  "name": "シビルドン",
+  "types": [
+    "電"
+  ],
+  "stats": [
+    85,
+    115,
+    80,
+    105,
+    80,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png"
+}

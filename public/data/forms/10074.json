@@ -1,0 +1,36 @@
+{
+  "id": 10074,
+  "name": "meloetta-pirouette",
+  "form_name": "pirouette",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 837,
+  "form_order": 2,
+  "pokemon": {
+    "name": "meloetta-pirouette",
+    "url": "https://pokeapi.co/api/v2/pokemon/10018/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10018.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/648-pirouette.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/648-pirouette.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/648-pirouette.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    }
+  ]
+}

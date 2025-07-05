@@ -1,0 +1,17 @@
+{
+  "id": 10216,
+  "name": "flapple-gmax",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "stats": [
+    70,
+    110,
+    80,
+    95,
+    60,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10216.png"
+}

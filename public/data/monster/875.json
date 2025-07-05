@@ -1,0 +1,16 @@
+{
+  "id": 875,
+  "name": "コオリッポ",
+  "types": [
+    "氷"
+  ],
+  "stats": [
+    75,
+    80,
+    110,
+    65,
+    90,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png"
+}

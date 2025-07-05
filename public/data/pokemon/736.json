@@ -1,0 +1,16 @@
+{
+  "id": 736,
+  "name": "grubbin",
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    47,
+    62,
+    45,
+    55,
+    45,
+    46
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png"
+}

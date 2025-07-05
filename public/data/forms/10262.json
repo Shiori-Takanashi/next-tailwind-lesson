@@ -1,0 +1,36 @@
+{
+  "id": 10262,
+  "name": "mimikyu-busted",
+  "form_name": "busted",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1111,
+  "form_order": 2,
+  "pokemon": {
+    "name": "mimikyu-busted",
+    "url": "https://pokeapi.co/api/v2/pokemon/10143/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10143.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10143.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10143.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10143.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

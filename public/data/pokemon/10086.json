@@ -1,0 +1,17 @@
+{
+  "id": 10086,
+  "name": "hoopa-unbound",
+  "types": [
+    "psychic",
+    "dark"
+  ],
+  "stats": [
+    80,
+    160,
+    60,
+    170,
+    130,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10086.png"
+}

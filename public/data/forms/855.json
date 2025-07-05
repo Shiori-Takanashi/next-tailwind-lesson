@@ -1,0 +1,29 @@
+{
+  "id": 855,
+  "name": "polteageist-phony",
+  "form_name": "phony",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1199,
+  "form_order": 1,
+  "pokemon": {
+    "name": "polteageist",
+    "url": "https://pokeapi.co/api/v2/pokemon/855/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/855.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/855.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/855.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

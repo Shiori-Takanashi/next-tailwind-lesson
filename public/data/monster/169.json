@@ -1,0 +1,17 @@
+{
+  "id": 169,
+  "name": "クロバット",
+  "types": [
+    "毒",
+    "飛"
+  ],
+  "stats": [
+    85,
+    90,
+    80,
+    70,
+    80,
+    130
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png"
+}

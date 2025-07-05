@@ -1,0 +1,16 @@
+{
+  "id": 568,
+  "name": "ヤブクロン",
+  "types": [
+    "毒"
+  ],
+  "stats": [
+    50,
+    50,
+    62,
+    40,
+    62,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png"
+}

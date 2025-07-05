@@ -1,0 +1,16 @@
+{
+  "id": 324,
+  "name": "torkoal",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    70,
+    85,
+    140,
+    85,
+    70,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png"
+}

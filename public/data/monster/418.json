@@ -1,0 +1,16 @@
+{
+  "id": 418,
+  "name": "ブイゼル",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    55,
+    65,
+    35,
+    60,
+    30,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png"
+}

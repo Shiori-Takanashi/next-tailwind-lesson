@@ -1,0 +1,29 @@
+{
+  "id": 10049,
+  "name": "arceus-grass",
+  "form_name": "grass",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 654,
+  "form_order": 12,
+  "pokemon": {
+    "name": "arceus",
+    "url": "https://pokeapi.co/api/v2/pokemon/493/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-grass.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493-grass.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/493-grass.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/493-grass.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    }
+  ]
+}

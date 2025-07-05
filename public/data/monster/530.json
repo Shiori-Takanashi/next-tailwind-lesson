@@ -1,0 +1,17 @@
+{
+  "id": 530,
+  "name": "ドリュウズ",
+  "types": [
+    "地",
+    "鋼"
+  ],
+  "stats": [
+    110,
+    135,
+    60,
+    50,
+    65,
+    88
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+}

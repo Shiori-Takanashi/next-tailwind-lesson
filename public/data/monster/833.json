@@ -1,0 +1,16 @@
+{
+  "id": 833,
+  "name": "カムカメ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    50,
+    64,
+    50,
+    38,
+    38,
+    44
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png"
+}

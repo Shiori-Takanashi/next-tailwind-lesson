@@ -1,0 +1,17 @@
+{
+  "id": 10196,
+  "name": "charizard-gmax",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "stats": [
+    78,
+    84,
+    78,
+    109,
+    85,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10196.png"
+}

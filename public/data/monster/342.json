@@ -1,0 +1,17 @@
+{
+  "id": 342,
+  "name": "シザリガー",
+  "types": [
+    "水",
+    "悪"
+  ],
+  "stats": [
+    63,
+    120,
+    85,
+    90,
+    55,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png"
+}

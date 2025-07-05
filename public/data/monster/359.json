@@ -1,0 +1,16 @@
+{
+  "id": 359,
+  "name": "アブソル",
+  "types": [
+    "悪"
+  ],
+  "stats": [
+    65,
+    130,
+    60,
+    75,
+    60,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png"
+}

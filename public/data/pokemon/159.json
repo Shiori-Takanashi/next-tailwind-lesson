@@ -1,0 +1,16 @@
+{
+  "id": 159,
+  "name": "croconaw",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    65,
+    80,
+    80,
+    59,
+    63,
+    58
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 10423,
+  "name": "oinkologne-female",
+  "form_name": "female",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1309,
+  "form_order": 2,
+  "pokemon": {
+    "name": "oinkologne-female",
+    "url": "https://pokeapi.co/api/v2/pokemon/10254/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    }
+  ]
+}

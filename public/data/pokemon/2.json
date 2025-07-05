@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "name": "ivysaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    60,
+    62,
+    63,
+    80,
+    80,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+}

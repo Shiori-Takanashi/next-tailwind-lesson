@@ -1,0 +1,16 @@
+{
+  "id": 818,
+  "name": "inteleon",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    70,
+    85,
+    65,
+    125,
+    65,
+    120
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png"
+}

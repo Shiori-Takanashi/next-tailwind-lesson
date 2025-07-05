@@ -1,0 +1,17 @@
+{
+  "id": 80,
+  "name": "slowbro",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "stats": [
+    95,
+    75,
+    110,
+    100,
+    80,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40,
+  "name": "wigglytuff",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "stats": [
+    140,
+    70,
+    45,
+    85,
+    50,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png"
+}

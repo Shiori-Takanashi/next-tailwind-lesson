@@ -1,0 +1,17 @@
+{
+  "id": 423,
+  "name": "gastrodon",
+  "types": [
+    "water",
+    "ground"
+  ],
+  "stats": [
+    111,
+    83,
+    68,
+    92,
+    82,
+    39
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 89,
+  "name": "muk",
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    105,
+    105,
+    75,
+    65,
+    100,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png"
+}

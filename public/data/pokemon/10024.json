@@ -1,0 +1,17 @@
+{
+  "id": 10024,
+  "name": "keldeo-resolute",
+  "types": [
+    "water",
+    "fighting"
+  ],
+  "stats": [
+    91,
+    72,
+    90,
+    129,
+    90,
+    108
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10024.png"
+}

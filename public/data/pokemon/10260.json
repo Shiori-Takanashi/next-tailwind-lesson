@@ -1,0 +1,17 @@
+{
+  "id": 10260,
+  "name": "squawkabilly-blue-plumage",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    82,
+    96,
+    51,
+    45,
+    51,
+    92
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10260.png"
+}

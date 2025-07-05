@@ -1,0 +1,17 @@
+{
+  "id": 10178,
+  "name": "darmanitan-galar-zen",
+  "types": [
+    "ice",
+    "fire"
+  ],
+  "stats": [
+    105,
+    160,
+    55,
+    30,
+    55,
+    135
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10178.png"
+}

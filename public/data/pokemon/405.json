@@ -1,0 +1,16 @@
+{
+  "id": 405,
+  "name": "luxray",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    80,
+    120,
+    79,
+    95,
+    79,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
+}

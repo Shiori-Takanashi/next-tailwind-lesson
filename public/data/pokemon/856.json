@@ -1,0 +1,16 @@
+{
+  "id": 856,
+  "name": "hatenna",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    42,
+    30,
+    45,
+    56,
+    53,
+    39
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png"
+}

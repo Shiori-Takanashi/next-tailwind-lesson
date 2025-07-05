@@ -1,0 +1,17 @@
+{
+  "id": 93,
+  "name": "haunter",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "stats": [
+    45,
+    50,
+    45,
+    115,
+    55,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png"
+}

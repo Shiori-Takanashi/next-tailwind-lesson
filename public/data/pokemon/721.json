@@ -1,0 +1,17 @@
+{
+  "id": 721,
+  "name": "volcanion",
+  "types": [
+    "fire",
+    "water"
+  ],
+  "stats": [
+    80,
+    110,
+    120,
+    130,
+    90,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png"
+}

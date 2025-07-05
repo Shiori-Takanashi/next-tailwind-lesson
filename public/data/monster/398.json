@@ -1,0 +1,17 @@
+{
+  "id": 398,
+  "name": "ムクホーク",
+  "types": [
+    "普",
+    "飛"
+  ],
+  "stats": [
+    85,
+    120,
+    70,
+    50,
+    60,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
+}

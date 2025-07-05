@@ -1,0 +1,16 @@
+{
+  "id": 486,
+  "name": "regigigas",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    110,
+    160,
+    110,
+    80,
+    110,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png"
+}

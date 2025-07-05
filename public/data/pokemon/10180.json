@@ -1,0 +1,17 @@
+{
+  "id": 10180,
+  "name": "stunfisk-galar",
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "stats": [
+    109,
+    81,
+    99,
+    66,
+    84,
+    32
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
+}

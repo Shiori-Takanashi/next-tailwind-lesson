@@ -1,0 +1,17 @@
+{
+  "id": 275,
+  "name": "shiftry",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "stats": [
+    90,
+    100,
+    60,
+    90,
+    60,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png"
+}

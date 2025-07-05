@@ -1,0 +1,16 @@
+{
+  "id": 693,
+  "name": "ブロスター",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    71,
+    73,
+    88,
+    120,
+    89,
+    59
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png"
+}

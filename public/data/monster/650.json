@@ -1,0 +1,16 @@
+{
+  "id": 650,
+  "name": "ハリマロン",
+  "types": [
+    "草"
+  ],
+  "stats": [
+    56,
+    61,
+    65,
+    48,
+    45,
+    38
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
+}

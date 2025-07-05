@@ -1,0 +1,36 @@
+{
+  "id": 10225,
+  "name": "oricorio-pom-pom",
+  "form_name": "pom-pom",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1032,
+  "form_order": 2,
+  "pokemon": {
+    "name": "oricorio-pom-pom",
+    "url": "https://pokeapi.co/api/v2/pokemon/10123/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10123.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10123.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10123.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10123.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

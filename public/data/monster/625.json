@@ -1,0 +1,17 @@
+{
+  "id": 625,
+  "name": "キリキザン",
+  "types": [
+    "悪",
+    "鋼"
+  ],
+  "stats": [
+    65,
+    125,
+    100,
+    60,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
+}

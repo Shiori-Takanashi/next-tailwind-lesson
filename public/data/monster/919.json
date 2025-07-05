@@ -1,0 +1,16 @@
+{
+  "id": 919,
+  "name": "マメバッタ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    33,
+    46,
+    40,
+    21,
+    25,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
+}

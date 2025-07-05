@@ -1,0 +1,17 @@
+{
+  "id": 1022,
+  "name": "テツノイワオ",
+  "types": [
+    "岩",
+    "超"
+  ],
+  "stats": [
+    90,
+    120,
+    80,
+    68,
+    108,
+    124
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png"
+}

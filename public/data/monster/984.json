@@ -1,0 +1,17 @@
+{
+  "id": 984,
+  "name": "イダイナキバ",
+  "types": [
+    "地",
+    "闘"
+  ],
+  "stats": [
+    115,
+    131,
+    131,
+    53,
+    53,
+    87
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png"
+}

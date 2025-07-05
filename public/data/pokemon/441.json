@@ -1,0 +1,17 @@
+{
+  "id": 441,
+  "name": "chatot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    76,
+    65,
+    45,
+    92,
+    42,
+    91
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png"
+}

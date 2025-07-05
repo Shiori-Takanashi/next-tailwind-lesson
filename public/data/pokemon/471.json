@@ -1,0 +1,16 @@
+{
+  "id": 471,
+  "name": "glaceon",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    65,
+    60,
+    110,
+    130,
+    95,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png"
+}

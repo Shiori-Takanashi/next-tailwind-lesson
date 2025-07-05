@@ -1,0 +1,17 @@
+{
+  "id": 768,
+  "name": "グソクムシャ",
+  "types": [
+    "虫",
+    "水"
+  ],
+  "stats": [
+    75,
+    125,
+    140,
+    60,
+    90,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 557,
+  "name": "イシズマイ",
+  "types": [
+    "虫",
+    "岩"
+  ],
+  "stats": [
+    50,
+    65,
+    85,
+    35,
+    35,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png"
+}

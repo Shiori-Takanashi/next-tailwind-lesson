@@ -1,0 +1,17 @@
+{
+  "id": 787,
+  "name": "tapu-bulu",
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "stats": [
+    70,
+    130,
+    115,
+    85,
+    95,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png"
+}

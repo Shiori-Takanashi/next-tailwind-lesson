@@ -1,0 +1,16 @@
+{
+  "id": 626,
+  "name": "バッフロン",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    95,
+    110,
+    95,
+    40,
+    95,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
+}

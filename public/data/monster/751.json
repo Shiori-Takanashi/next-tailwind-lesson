@@ -1,0 +1,17 @@
+{
+  "id": 751,
+  "name": "シズクモ",
+  "types": [
+    "水",
+    "虫"
+  ],
+  "stats": [
+    38,
+    40,
+    52,
+    40,
+    72,
+    27
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
+}

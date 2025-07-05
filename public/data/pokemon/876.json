@@ -1,0 +1,17 @@
+{
+  "id": 876,
+  "name": "indeedee-male",
+  "types": [
+    "psychic",
+    "normal"
+  ],
+  "stats": [
+    60,
+    65,
+    55,
+    105,
+    95,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+}

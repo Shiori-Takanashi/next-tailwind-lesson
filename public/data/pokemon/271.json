@@ -1,0 +1,17 @@
+{
+  "id": 271,
+  "name": "lombre",
+  "types": [
+    "water",
+    "grass"
+  ],
+  "stats": [
+    60,
+    50,
+    50,
+    60,
+    70,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 770,
+  "name": "palossand",
+  "types": [
+    "ghost",
+    "ground"
+  ],
+  "stats": [
+    85,
+    75,
+    110,
+    100,
+    75,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png"
+}

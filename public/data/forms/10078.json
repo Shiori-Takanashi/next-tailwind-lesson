@@ -1,0 +1,36 @@
+{
+  "id": 10078,
+  "name": "genesect-chill",
+  "form_name": "chill",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 842,
+  "form_order": 5,
+  "pokemon": {
+    "name": "genesect",
+    "url": "https://pokeapi.co/api/v2/pokemon/649/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-chill.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/649-chill.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/649-chill.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/649-chill.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "bug",
+        "url": "https://pokeapi.co/api/v2/type/7/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

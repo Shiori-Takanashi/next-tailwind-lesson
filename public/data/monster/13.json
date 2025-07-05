@@ -1,0 +1,17 @@
+{
+  "id": 13,
+  "name": "ビードル",
+  "types": [
+    "虫",
+    "毒"
+  ],
+  "stats": [
+    40,
+    35,
+    30,
+    20,
+    20,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+}

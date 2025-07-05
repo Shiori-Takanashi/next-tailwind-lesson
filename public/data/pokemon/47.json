@@ -1,0 +1,17 @@
+{
+  "id": 47,
+  "name": "parasect",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    60,
+    95,
+    80,
+    60,
+    80,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 484,
+  "name": "パルキア",
+  "types": [
+    "水",
+    "竜"
+  ],
+  "stats": [
+    90,
+    120,
+    100,
+    150,
+    120,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 569,
+  "name": "garbodor",
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    80,
+    95,
+    82,
+    60,
+    82,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+}

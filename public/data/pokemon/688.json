@@ -1,0 +1,17 @@
+{
+  "id": 688,
+  "name": "binacle",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "stats": [
+    42,
+    52,
+    67,
+    39,
+    56,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png"
+}

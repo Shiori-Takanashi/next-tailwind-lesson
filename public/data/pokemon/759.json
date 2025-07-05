@@ -1,0 +1,17 @@
+{
+  "id": 759,
+  "name": "stufful",
+  "types": [
+    "normal",
+    "fighting"
+  ],
+  "stats": [
+    70,
+    75,
+    50,
+    45,
+    50,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png"
+}

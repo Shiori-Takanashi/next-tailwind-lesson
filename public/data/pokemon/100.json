@@ -1,0 +1,16 @@
+{
+  "id": 100,
+  "name": "voltorb",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    40,
+    30,
+    50,
+    55,
+    55,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+}

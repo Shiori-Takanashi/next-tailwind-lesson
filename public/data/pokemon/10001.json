@@ -1,0 +1,16 @@
+{
+  "id": 10001,
+  "name": "deoxys-attack",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    50,
+    180,
+    20,
+    180,
+    20,
+    150
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10001.png"
+}

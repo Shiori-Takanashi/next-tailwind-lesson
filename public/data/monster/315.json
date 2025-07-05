@@ -1,0 +1,17 @@
+{
+  "id": 315,
+  "name": "ロゼリア",
+  "types": [
+    "草",
+    "毒"
+  ],
+  "stats": [
+    50,
+    60,
+    45,
+    100,
+    80,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png"
+}

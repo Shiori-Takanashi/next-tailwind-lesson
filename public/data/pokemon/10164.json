@@ -1,0 +1,16 @@
+{
+  "id": 10164,
+  "name": "slowpoke-galar",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    90,
+    65,
+    65,
+    40,
+    40,
+    15
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10164.png"
+}

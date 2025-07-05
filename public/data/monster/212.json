@@ -1,0 +1,17 @@
+{
+  "id": 212,
+  "name": "ハッサム",
+  "types": [
+    "虫",
+    "鋼"
+  ],
+  "stats": [
+    70,
+    130,
+    100,
+    55,
+    80,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
+}

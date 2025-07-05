@@ -1,0 +1,16 @@
+{
+  "id": 582,
+  "name": "バニプッチ",
+  "types": [
+    "氷"
+  ],
+  "stats": [
+    36,
+    50,
+    50,
+    65,
+    60,
+    44
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png"
+}

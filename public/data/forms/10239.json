@@ -1,0 +1,29 @@
+{
+  "id": 10239,
+  "name": "silvally-steel",
+  "form_name": "steel",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1082,
+  "form_order": 9,
+  "pokemon": {
+    "name": "silvally",
+    "url": "https://pokeapi.co/api/v2/pokemon/773/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-steel.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/773-steel.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "steel",
+        "url": "https://pokeapi.co/api/v2/type/9/"
+      }
+    }
+  ]
+}

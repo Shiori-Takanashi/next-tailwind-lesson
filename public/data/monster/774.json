@@ -1,0 +1,17 @@
+{
+  "id": 774,
+  "name": "メテノ",
+  "types": [
+    "岩",
+    "飛"
+  ],
+  "stats": [
+    60,
+    60,
+    100,
+    60,
+    100,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png"
+}

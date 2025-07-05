@@ -1,0 +1,17 @@
+{
+  "id": 756,
+  "name": "マシェード",
+  "types": [
+    "草",
+    "妖"
+  ],
+  "stats": [
+    60,
+    45,
+    80,
+    90,
+    100,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png"
+}

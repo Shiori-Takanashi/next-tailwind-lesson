@@ -1,0 +1,29 @@
+{
+  "id": 10501,
+  "name": "alcremie-caramel-swirl-ribbon-sweet",
+  "form_name": "caramel-swirl-ribbon-sweet",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1221,
+  "form_order": 62,
+  "pokemon": {
+    "name": "alcremie",
+    "url": "https://pokeapi.co/api/v2/pokemon/869/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-caramel-swirl-ribbon-sweet.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/869-caramel-swirl-ribbon-sweet.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

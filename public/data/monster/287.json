@@ -1,0 +1,16 @@
+{
+  "id": 287,
+  "name": "ナマケロ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    60,
+    60,
+    60,
+    35,
+    35,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png"
+}

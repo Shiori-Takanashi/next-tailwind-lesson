@@ -1,0 +1,17 @@
+{
+  "id": 10230,
+  "name": "arcanine-hisui",
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "stats": [
+    95,
+    115,
+    80,
+    95,
+    80,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png"
+}

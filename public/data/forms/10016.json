@@ -1,0 +1,29 @@
+{
+  "id": 10016,
+  "name": "unown-q",
+  "form_name": "q",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 314,
+  "form_order": 17,
+  "pokemon": {
+    "name": "unown",
+    "url": "https://pokeapi.co/api/v2/pokemon/201/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-q.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/201-q.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/201-q.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/201-q.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    }
+  ]
+}

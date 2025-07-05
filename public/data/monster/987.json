@@ -1,0 +1,17 @@
+{
+  "id": 987,
+  "name": "ハバタクカミ",
+  "types": [
+    "霊",
+    "妖"
+  ],
+  "stats": [
+    55,
+    55,
+    55,
+    135,
+    135,
+    135
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png"
+}

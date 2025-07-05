@@ -1,0 +1,16 @@
+{
+  "id": 601,
+  "name": "klinklang",
+  "types": [
+    "steel"
+  ],
+  "stats": [
+    60,
+    100,
+    115,
+    70,
+    85,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png"
+}

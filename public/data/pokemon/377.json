@@ -1,0 +1,16 @@
+{
+  "id": 377,
+  "name": "regirock",
+  "types": [
+    "rock"
+  ],
+  "stats": [
+    80,
+    100,
+    200,
+    50,
+    100,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png"
+}

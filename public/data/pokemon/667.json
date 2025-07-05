@@ -1,0 +1,17 @@
+{
+  "id": 667,
+  "name": "litleo",
+  "types": [
+    "fire",
+    "normal"
+  ],
+  "stats": [
+    62,
+    50,
+    58,
+    73,
+    54,
+    72
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 105,
+  "name": "marowak",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    60,
+    80,
+    110,
+    50,
+    80,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+}

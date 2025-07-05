@@ -1,0 +1,17 @@
+{
+  "id": 10005,
+  "name": "wormadam-trash",
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "stats": [
+    60,
+    69,
+    95,
+    69,
+    95,
+    36
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10005.png"
+}

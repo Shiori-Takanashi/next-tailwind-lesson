@@ -1,0 +1,17 @@
+{
+  "id": 859,
+  "name": "ベロバー",
+  "types": [
+    "悪",
+    "妖"
+  ],
+  "stats": [
+    45,
+    45,
+    30,
+    55,
+    40,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 928,
+  "name": "smoliv",
+  "types": [
+    "grass",
+    "normal"
+  ],
+  "stats": [
+    41,
+    35,
+    45,
+    58,
+    51,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
+}

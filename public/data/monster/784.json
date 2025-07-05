@@ -1,0 +1,17 @@
+{
+  "id": 784,
+  "name": "ジャラランガ",
+  "types": [
+    "竜",
+    "闘"
+  ],
+  "stats": [
+    75,
+    110,
+    125,
+    100,
+    105,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png"
+}

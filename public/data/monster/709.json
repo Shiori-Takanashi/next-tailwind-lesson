@@ -1,0 +1,17 @@
+{
+  "id": 709,
+  "name": "オーロット",
+  "types": [
+    "霊",
+    "草"
+  ],
+  "stats": [
+    85,
+    110,
+    76,
+    65,
+    82,
+    56
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 850,
+  "name": "ヤクデ",
+  "types": [
+    "炎",
+    "虫"
+  ],
+  "stats": [
+    50,
+    65,
+    45,
+    50,
+    50,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png"
+}

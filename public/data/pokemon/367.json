@@ -1,0 +1,16 @@
+{
+  "id": 367,
+  "name": "huntail",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    55,
+    104,
+    105,
+    94,
+    75,
+    52
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png"
+}

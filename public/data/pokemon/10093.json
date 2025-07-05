@@ -1,0 +1,17 @@
+{
+  "id": 10093,
+  "name": "raticate-totem-alola",
+  "types": [
+    "dark",
+    "normal"
+  ],
+  "stats": [
+    75,
+    71,
+    70,
+    40,
+    80,
+    77
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10093.png"
+}

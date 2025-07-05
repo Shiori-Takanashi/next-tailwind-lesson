@@ -1,0 +1,17 @@
+{
+  "id": 31,
+  "name": "nidoqueen",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "stats": [
+    90,
+    92,
+    87,
+    75,
+    85,
+    76
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
+}

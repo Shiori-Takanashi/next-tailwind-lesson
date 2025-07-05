@@ -1,0 +1,16 @@
+{
+  "id": 746,
+  "name": "wishiwashi-solo",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    45,
+    20,
+    20,
+    25,
+    25,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
+}

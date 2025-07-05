@@ -1,0 +1,17 @@
+{
+  "id": 87,
+  "name": "dewgong",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "stats": [
+    90,
+    70,
+    80,
+    70,
+    95,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png"
+}

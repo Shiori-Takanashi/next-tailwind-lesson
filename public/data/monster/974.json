@@ -1,0 +1,16 @@
+{
+  "id": 974,
+  "name": "アルクジラ",
+  "types": [
+    "氷"
+  ],
+  "stats": [
+    108,
+    68,
+    45,
+    30,
+    40,
+    43
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png"
+}

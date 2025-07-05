@@ -1,0 +1,17 @@
+{
+  "id": 365,
+  "name": "トドゼルガ",
+  "types": [
+    "氷",
+    "水"
+  ],
+  "stats": [
+    110,
+    80,
+    90,
+    95,
+    90,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png"
+}

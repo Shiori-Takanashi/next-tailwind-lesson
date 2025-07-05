@@ -1,0 +1,17 @@
+{
+  "id": 163,
+  "name": "hoothoot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    60,
+    30,
+    30,
+    36,
+    56,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
+}

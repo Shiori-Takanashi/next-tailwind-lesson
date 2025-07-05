@@ -1,0 +1,17 @@
+{
+  "id": 1013,
+  "name": "ヤバソチャ",
+  "types": [
+    "草",
+    "霊"
+  ],
+  "stats": [
+    71,
+    60,
+    106,
+    121,
+    80,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
+}

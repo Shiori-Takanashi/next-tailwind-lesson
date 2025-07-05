@@ -1,0 +1,16 @@
+{
+  "id": 935,
+  "name": "charcadet",
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    40,
+    50,
+    40,
+    50,
+    40,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png"
+}

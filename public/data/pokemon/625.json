@@ -1,0 +1,17 @@
+{
+  "id": 625,
+  "name": "bisharp",
+  "types": [
+    "dark",
+    "steel"
+  ],
+  "stats": [
+    65,
+    125,
+    100,
+    60,
+    70,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png"
+}

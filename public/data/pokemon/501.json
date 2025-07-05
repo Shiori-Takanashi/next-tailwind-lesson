@@ -1,0 +1,16 @@
+{
+  "id": 501,
+  "name": "oshawott",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    55,
+    55,
+    45,
+    63,
+    45,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 836,
+  "name": "パルスワン",
+  "types": [
+    "電"
+  ],
+  "stats": [
+    69,
+    90,
+    60,
+    90,
+    60,
+    121
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png"
+}

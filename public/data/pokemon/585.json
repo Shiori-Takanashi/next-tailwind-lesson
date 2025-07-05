@@ -1,0 +1,17 @@
+{
+  "id": 585,
+  "name": "deerling",
+  "types": [
+    "normal",
+    "grass"
+  ],
+  "stats": [
+    60,
+    60,
+    50,
+    40,
+    50,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+}

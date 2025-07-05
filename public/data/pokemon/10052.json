@@ -1,0 +1,17 @@
+{
+  "id": 10052,
+  "name": "mawile-mega",
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "stats": [
+    50,
+    105,
+    125,
+    55,
+    95,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10052.png"
+}

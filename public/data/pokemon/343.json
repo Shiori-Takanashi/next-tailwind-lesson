@@ -1,0 +1,17 @@
+{
+  "id": 343,
+  "name": "baltoy",
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "stats": [
+    40,
+    40,
+    55,
+    40,
+    70,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png"
+}

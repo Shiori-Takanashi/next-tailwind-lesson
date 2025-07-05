@@ -1,0 +1,16 @@
+{
+  "id": 556,
+  "name": "maractus",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    75,
+    86,
+    67,
+    106,
+    67,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+}

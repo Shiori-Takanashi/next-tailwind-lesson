@@ -1,0 +1,17 @@
+{
+  "id": 826,
+  "name": "orbeetle",
+  "types": [
+    "bug",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    45,
+    110,
+    80,
+    120,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png"
+}

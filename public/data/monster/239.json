@@ -1,0 +1,16 @@
+{
+  "id": 239,
+  "name": "エレキッド",
+  "types": [
+    "電"
+  ],
+  "stats": [
+    45,
+    63,
+    37,
+    65,
+    55,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+}

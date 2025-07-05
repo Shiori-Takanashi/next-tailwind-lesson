@@ -1,0 +1,16 @@
+{
+  "id": 172,
+  "name": "pichu",
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    20,
+    40,
+    15,
+    35,
+    35,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
+}

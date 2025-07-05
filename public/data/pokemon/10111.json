@@ -1,0 +1,17 @@
+{
+  "id": 10111,
+  "name": "golem-alola",
+  "types": [
+    "rock",
+    "electric"
+  ],
+  "stats": [
+    80,
+    120,
+    130,
+    55,
+    65,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10111.png"
+}

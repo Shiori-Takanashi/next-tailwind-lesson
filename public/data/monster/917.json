@@ -1,0 +1,16 @@
+{
+  "id": 917,
+  "name": "タマンチュラ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    35,
+    41,
+    45,
+    29,
+    40,
+    20
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png"
+}

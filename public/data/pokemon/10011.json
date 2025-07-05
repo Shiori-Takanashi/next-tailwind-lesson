@@ -1,0 +1,17 @@
+{
+  "id": 10011,
+  "name": "rotom-fan",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "stats": [
+    50,
+    65,
+    107,
+    105,
+    107,
+    86
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10011.png"
+}

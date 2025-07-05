@@ -1,0 +1,16 @@
+{
+  "id": 328,
+  "name": "trapinch",
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    45,
+    100,
+    45,
+    45,
+    45,
+    10
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png"
+}

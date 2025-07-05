@@ -1,0 +1,17 @@
+{
+  "id": 936,
+  "name": "armarouge",
+  "types": [
+    "fire",
+    "psychic"
+  ],
+  "stats": [
+    85,
+    60,
+    100,
+    125,
+    80,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png"
+}

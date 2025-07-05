@@ -1,0 +1,16 @@
+{
+  "id": 197,
+  "name": "umbreon",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    95,
+    65,
+    110,
+    60,
+    130,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+}

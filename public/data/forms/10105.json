@@ -1,0 +1,29 @@
+{
+  "id": 10105,
+  "name": "flabebe-blue",
+  "form_name": "blue",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 924,
+  "form_order": 4,
+  "pokemon": {
+    "name": "flabebe",
+    "url": "https://pokeapi.co/api/v2/pokemon/669/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-blue.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669-blue.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

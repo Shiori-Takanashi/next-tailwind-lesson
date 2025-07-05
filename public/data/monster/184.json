@@ -1,0 +1,17 @@
+{
+  "id": 184,
+  "name": "マリルリ",
+  "types": [
+    "水",
+    "妖"
+  ],
+  "stats": [
+    100,
+    50,
+    80,
+    60,
+    80,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png"
+}

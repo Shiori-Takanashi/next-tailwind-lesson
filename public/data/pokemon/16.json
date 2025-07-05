@@ -1,0 +1,17 @@
+{
+  "id": 16,
+  "name": "pidgey",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    40,
+    45,
+    40,
+    35,
+    35,
+    56
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+}

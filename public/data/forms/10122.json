@@ -1,0 +1,29 @@
+{
+  "id": 10122,
+  "name": "furfrou-kabuki",
+  "form_name": "kabuki",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 949,
+  "form_order": 9,
+  "pokemon": {
+    "name": "furfrou",
+    "url": "https://pokeapi.co/api/v2/pokemon/676/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-kabuki.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/676-kabuki.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    }
+  ]
+}

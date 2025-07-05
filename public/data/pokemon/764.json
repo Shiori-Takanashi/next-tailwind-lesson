@@ -1,0 +1,16 @@
+{
+  "id": 764,
+  "name": "comfey",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    51,
+    52,
+    90,
+    82,
+    110,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png"
+}

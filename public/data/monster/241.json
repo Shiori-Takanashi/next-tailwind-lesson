@@ -1,0 +1,16 @@
+{
+  "id": 241,
+  "name": "ミルタンク",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    95,
+    80,
+    105,
+    40,
+    70,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png"
+}

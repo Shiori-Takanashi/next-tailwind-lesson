@@ -1,0 +1,17 @@
+{
+  "id": 461,
+  "name": "マニューラ",
+  "types": [
+    "悪",
+    "氷"
+  ],
+  "stats": [
+    70,
+    120,
+    65,
+    45,
+    85,
+    125
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png"
+}

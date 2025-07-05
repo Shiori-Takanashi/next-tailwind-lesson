@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "name": "porygon",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    65,
+    60,
+    70,
+    85,
+    75,
+    40
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 487,
+  "name": "ギラティナ",
+  "types": [
+    "霊",
+    "竜"
+  ],
+  "stats": [
+    150,
+    100,
+    120,
+    100,
+    120,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+}

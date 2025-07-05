@@ -1,0 +1,16 @@
+{
+  "id": 10276,
+  "name": "terapagos-terastal",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    95,
+    95,
+    110,
+    105,
+    110,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10276.png"
+}

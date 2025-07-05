@@ -1,0 +1,17 @@
+{
+  "id": 1005,
+  "name": "トドロクツキ",
+  "types": [
+    "竜",
+    "悪"
+  ],
+  "stats": [
+    105,
+    139,
+    71,
+    55,
+    101,
+    119
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png"
+}

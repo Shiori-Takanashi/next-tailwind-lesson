@@ -1,0 +1,36 @@
+{
+  "id": 10257,
+  "name": "minior-yellow",
+  "form_name": "yellow",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1101,
+  "form_order": 10,
+  "pokemon": {
+    "name": "minior-yellow",
+    "url": "https://pokeapi.co/api/v2/pokemon/10138/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10138.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10138.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10138.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10138.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "https://pokeapi.co/api/v2/type/6/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "flying",
+        "url": "https://pokeapi.co/api/v2/type/3/"
+      }
+    }
+  ]
+}

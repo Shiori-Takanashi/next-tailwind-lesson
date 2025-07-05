@@ -1,0 +1,17 @@
+{
+  "id": 329,
+  "name": "vibrava",
+  "types": [
+    "ground",
+    "dragon"
+  ],
+  "stats": [
+    50,
+    70,
+    50,
+    50,
+    50,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
+}

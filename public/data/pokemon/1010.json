@@ -1,0 +1,17 @@
+{
+  "id": 1010,
+  "name": "iron-leaves",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "stats": [
+    90,
+    130,
+    88,
+    70,
+    108,
+    104
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png"
+}

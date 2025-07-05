@@ -1,0 +1,17 @@
+{
+  "id": 966,
+  "name": "ブロロローム",
+  "types": [
+    "鋼",
+    "毒"
+  ],
+  "stats": [
+    80,
+    119,
+    90,
+    54,
+    67,
+    90
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png"
+}

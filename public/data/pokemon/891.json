@@ -1,0 +1,16 @@
+{
+  "id": 891,
+  "name": "kubfu",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    60,
+    90,
+    60,
+    53,
+    50,
+    72
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png"
+}

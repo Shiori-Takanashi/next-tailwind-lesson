@@ -1,0 +1,16 @@
+{
+  "id": 353,
+  "name": "カゲボウズ",
+  "types": [
+    "霊"
+  ],
+  "stats": [
+    44,
+    75,
+    35,
+    63,
+    33,
+    45
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png"
+}

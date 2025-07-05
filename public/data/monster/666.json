@@ -1,0 +1,17 @@
+{
+  "id": 666,
+  "name": "ビビヨン",
+  "types": [
+    "虫",
+    "飛"
+  ],
+  "stats": [
+    80,
+    52,
+    50,
+    90,
+    50,
+    89
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
+}

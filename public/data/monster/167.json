@@ -1,0 +1,17 @@
+{
+  "id": 167,
+  "name": "イトマル",
+  "types": [
+    "虫",
+    "毒"
+  ],
+  "stats": [
+    40,
+    60,
+    40,
+    40,
+    40,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png"
+}

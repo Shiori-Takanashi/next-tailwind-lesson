@@ -1,0 +1,17 @@
+{
+  "id": 633,
+  "name": "deino",
+  "types": [
+    "dark",
+    "dragon"
+  ],
+  "stats": [
+    52,
+    65,
+    50,
+    45,
+    50,
+    38
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+}

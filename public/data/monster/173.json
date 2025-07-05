@@ -1,0 +1,16 @@
+{
+  "id": 173,
+  "name": "ピィ",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    50,
+    25,
+    28,
+    45,
+    55,
+    15
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png"
+}

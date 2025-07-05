@@ -1,0 +1,36 @@
+{
+  "id": 10315,
+  "name": "necrozma-dawn",
+  "form_name": "dawn",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1138,
+  "form_order": 3,
+  "pokemon": {
+    "name": "necrozma-dawn",
+    "url": "https://pokeapi.co/api/v2/pokemon/10156/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10156.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10156.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10156.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10156.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

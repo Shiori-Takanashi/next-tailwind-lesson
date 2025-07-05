@@ -1,0 +1,16 @@
+{
+  "id": 10177,
+  "name": "darmanitan-galar-standard",
+  "types": [
+    "ice"
+  ],
+  "stats": [
+    105,
+    140,
+    55,
+    30,
+    55,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10177.png"
+}

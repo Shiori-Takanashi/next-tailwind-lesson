@@ -1,0 +1,17 @@
+{
+  "id": 545,
+  "name": "scolipede",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "stats": [
+    60,
+    100,
+    89,
+    55,
+    69,
+    112
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+}

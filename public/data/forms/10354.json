@@ -1,0 +1,29 @@
+{
+  "id": 10354,
+  "name": "eiscue-noice",
+  "form_name": "noice",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1229,
+  "form_order": 2,
+  "pokemon": {
+    "name": "eiscue-noice",
+    "url": "https://pokeapi.co/api/v2/pokemon/10185/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10185.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10185.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10185.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10185.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

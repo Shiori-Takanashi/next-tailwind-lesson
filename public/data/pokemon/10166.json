@@ -1,0 +1,16 @@
+{
+  "id": 10166,
+  "name": "farfetchd-galar",
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    52,
+    95,
+    55,
+    58,
+    62,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10166.png"
+}

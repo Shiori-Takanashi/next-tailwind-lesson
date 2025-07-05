@@ -1,0 +1,17 @@
+{
+  "id": 711,
+  "name": "パンプジン",
+  "types": [
+    "霊",
+    "草"
+  ],
+  "stats": [
+    65,
+    90,
+    122,
+    58,
+    75,
+    84
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png"
+}

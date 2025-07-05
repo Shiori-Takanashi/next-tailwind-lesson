@@ -1,0 +1,16 @@
+{
+  "id": 664,
+  "name": "コフキムシ",
+  "types": [
+    "虫"
+  ],
+  "stats": [
+    38,
+    35,
+    40,
+    27,
+    25,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+}

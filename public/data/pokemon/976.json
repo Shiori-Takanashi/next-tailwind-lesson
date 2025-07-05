@@ -1,0 +1,17 @@
+{
+  "id": 976,
+  "name": "veluza",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "stats": [
+    90,
+    102,
+    73,
+    78,
+    65,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
+}

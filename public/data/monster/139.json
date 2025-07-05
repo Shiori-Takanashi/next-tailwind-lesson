@@ -1,0 +1,17 @@
+{
+  "id": 139,
+  "name": "オムスター",
+  "types": [
+    "岩",
+    "水"
+  ],
+  "stats": [
+    70,
+    60,
+    125,
+    115,
+    70,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 151,
+  "name": "ミュウ",
+  "types": [
+    "超"
+  ],
+  "stats": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png"
+}

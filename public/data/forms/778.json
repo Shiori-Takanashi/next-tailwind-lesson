@@ -1,0 +1,36 @@
+{
+  "id": 778,
+  "name": "mimikyu-disguised",
+  "form_name": "disguised",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1110,
+  "form_order": 1,
+  "pokemon": {
+    "name": "mimikyu-disguised",
+    "url": "https://pokeapi.co/api/v2/pokemon/778/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/778.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/778.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/778.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fairy",
+        "url": "https://pokeapi.co/api/v2/type/18/"
+      }
+    }
+  ]
+}

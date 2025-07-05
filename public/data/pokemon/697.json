@@ -1,0 +1,17 @@
+{
+  "id": 697,
+  "name": "tyrantrum",
+  "types": [
+    "rock",
+    "dragon"
+  ],
+  "stats": [
+    82,
+    121,
+    119,
+    69,
+    59,
+    71
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png"
+}

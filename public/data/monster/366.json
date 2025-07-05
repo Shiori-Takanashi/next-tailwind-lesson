@@ -1,0 +1,16 @@
+{
+  "id": 366,
+  "name": "パールル",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    35,
+    64,
+    85,
+    74,
+    55,
+    32
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png"
+}

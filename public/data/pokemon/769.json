@@ -1,0 +1,17 @@
+{
+  "id": 769,
+  "name": "sandygast",
+  "types": [
+    "ghost",
+    "ground"
+  ],
+  "stats": [
+    55,
+    55,
+    80,
+    70,
+    45,
+    15
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
+}

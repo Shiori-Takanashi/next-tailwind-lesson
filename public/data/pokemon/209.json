@@ -1,0 +1,16 @@
+{
+  "id": 209,
+  "name": "snubbull",
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    60,
+    80,
+    50,
+    40,
+    40,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png"
+}

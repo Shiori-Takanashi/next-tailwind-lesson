@@ -1,0 +1,17 @@
+{
+  "id": 841,
+  "name": "アップリュー",
+  "types": [
+    "草",
+    "竜"
+  ],
+  "stats": [
+    70,
+    110,
+    80,
+    95,
+    60,
+    70
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png"
+}

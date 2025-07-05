@@ -1,0 +1,17 @@
+{
+  "id": 765,
+  "name": "oranguru",
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "stats": [
+    90,
+    60,
+    80,
+    90,
+    110,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png"
+}

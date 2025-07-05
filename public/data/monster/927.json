@@ -1,0 +1,16 @@
+{
+  "id": 927,
+  "name": "バウッツェル",
+  "types": [
+    "妖"
+  ],
+  "stats": [
+    57,
+    80,
+    115,
+    50,
+    80,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
+}

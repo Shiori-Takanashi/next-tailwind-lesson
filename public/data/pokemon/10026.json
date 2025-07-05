@@ -1,0 +1,17 @@
+{
+  "id": 10026,
+  "name": "aegislash-blade",
+  "types": [
+    "steel",
+    "ghost"
+  ],
+  "stats": [
+    60,
+    140,
+    50,
+    140,
+    50,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10026.png"
+}

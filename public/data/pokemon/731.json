@@ -1,0 +1,17 @@
+{
+  "id": 731,
+  "name": "pikipek",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    35,
+    75,
+    30,
+    30,
+    30,
+    65
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+}

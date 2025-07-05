@@ -1,0 +1,16 @@
+{
+  "id": 98,
+  "name": "krabby",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    30,
+    105,
+    90,
+    25,
+    25,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+}

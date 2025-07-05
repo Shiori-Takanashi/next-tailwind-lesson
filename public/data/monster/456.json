@@ -1,0 +1,16 @@
+{
+  "id": 456,
+  "name": "ケイコウオ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    49,
+    49,
+    56,
+    49,
+    61,
+    66
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png"
+}

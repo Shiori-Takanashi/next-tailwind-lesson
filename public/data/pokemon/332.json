@@ -1,0 +1,17 @@
+{
+  "id": 332,
+  "name": "cacturne",
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "stats": [
+    70,
+    115,
+    60,
+    115,
+    60,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png"
+}

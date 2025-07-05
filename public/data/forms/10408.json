@@ -1,0 +1,36 @@
+{
+  "id": 10408,
+  "name": "zoroark-hisui",
+  "form_name": "hisui",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1294,
+  "form_order": 2,
+  "pokemon": {
+    "name": "zoroark-hisui",
+    "url": "https://pokeapi.co/api/v2/pokemon/10239/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10239.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10239.png",
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "normal",
+        "url": "https://pokeapi.co/api/v2/type/1/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

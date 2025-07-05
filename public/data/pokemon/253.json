@@ -1,0 +1,16 @@
+{
+  "id": 253,
+  "name": "grovyle",
+  "types": [
+    "grass"
+  ],
+  "stats": [
+    50,
+    65,
+    45,
+    85,
+    65,
+    95
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png"
+}

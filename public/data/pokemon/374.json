@@ -1,0 +1,17 @@
+{
+  "id": 374,
+  "name": "beldum",
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "stats": [
+    40,
+    55,
+    80,
+    35,
+    60,
+    30
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png"
+}

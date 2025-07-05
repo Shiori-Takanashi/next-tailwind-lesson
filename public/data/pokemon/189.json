@@ -1,0 +1,17 @@
+{
+  "id": 189,
+  "name": "jumpluff",
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "stats": [
+    75,
+    55,
+    70,
+    55,
+    95,
+    110
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png"
+}

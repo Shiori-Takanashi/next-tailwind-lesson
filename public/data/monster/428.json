@@ -1,0 +1,16 @@
+{
+  "id": 428,
+  "name": "ミミロップ",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    65,
+    76,
+    84,
+    54,
+    96,
+    105
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png"
+}

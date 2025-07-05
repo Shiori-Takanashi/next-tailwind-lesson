@@ -1,0 +1,16 @@
+{
+  "id": 915,
+  "name": "グルトン",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    54,
+    45,
+    40,
+    35,
+    45,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
+}

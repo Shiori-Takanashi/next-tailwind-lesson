@@ -1,0 +1,17 @@
+{
+  "id": 145,
+  "name": "zapdos",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "stats": [
+    90,
+    90,
+    85,
+    125,
+    90,
+    100
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+}

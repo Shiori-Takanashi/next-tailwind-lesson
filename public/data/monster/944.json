@@ -1,0 +1,17 @@
+{
+  "id": 944,
+  "name": "シルシュルー",
+  "types": [
+    "毒",
+    "普"
+  ],
+  "stats": [
+    40,
+    65,
+    35,
+    40,
+    35,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png"
+}

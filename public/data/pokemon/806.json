@@ -1,0 +1,17 @@
+{
+  "id": 806,
+  "name": "blacephalon",
+  "types": [
+    "fire",
+    "ghost"
+  ],
+  "stats": [
+    53,
+    127,
+    53,
+    151,
+    79,
+    107
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png"
+}

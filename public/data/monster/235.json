@@ -1,0 +1,16 @@
+{
+  "id": 235,
+  "name": "ドーブル",
+  "types": [
+    "普"
+  ],
+  "stats": [
+    55,
+    20,
+    35,
+    20,
+    45,
+    75
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png"
+}

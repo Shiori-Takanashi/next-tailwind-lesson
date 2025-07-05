@@ -1,0 +1,16 @@
+{
+  "id": 943,
+  "name": "mabosstiff",
+  "types": [
+    "dark"
+  ],
+  "stats": [
+    80,
+    120,
+    90,
+    60,
+    70,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png"
+}

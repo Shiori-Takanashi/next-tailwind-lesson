@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "name": "バスラオ",
+  "types": [
+    "水"
+  ],
+  "stats": [
+    70,
+    92,
+    65,
+    80,
+    55,
+    98
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+}

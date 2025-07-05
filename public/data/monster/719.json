@@ -1,0 +1,17 @@
+{
+  "id": 719,
+  "name": "ディアンシー",
+  "types": [
+    "岩",
+    "妖"
+  ],
+  "stats": [
+    50,
+    100,
+    150,
+    100,
+    150,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png"
+}

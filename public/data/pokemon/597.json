@@ -1,0 +1,17 @@
+{
+  "id": 597,
+  "name": "ferroseed",
+  "types": [
+    "grass",
+    "steel"
+  ],
+  "stats": [
+    44,
+    50,
+    91,
+    24,
+    86,
+    10
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png"
+}

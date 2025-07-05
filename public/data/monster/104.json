@@ -1,0 +1,16 @@
+{
+  "id": 104,
+  "name": "カラカラ",
+  "types": [
+    "地"
+  ],
+  "stats": [
+    50,
+    50,
+    95,
+    40,
+    50,
+    35
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+}

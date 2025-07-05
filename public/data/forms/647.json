@@ -1,0 +1,36 @@
+{
+  "id": 647,
+  "name": "keldeo-ordinary",
+  "form_name": "ordinary",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 834,
+  "form_order": 1,
+  "pokemon": {
+    "name": "keldeo-ordinary",
+    "url": "https://pokeapi.co/api/v2/pokemon/647/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/647.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/647.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/647.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fighting",
+        "url": "https://pokeapi.co/api/v2/type/2/"
+      }
+    }
+  ]
+}

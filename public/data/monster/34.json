@@ -1,0 +1,17 @@
+{
+  "id": 34,
+  "name": "ニドキング",
+  "types": [
+    "毒",
+    "地"
+  ],
+  "stats": [
+    81,
+    102,
+    77,
+    85,
+    75,
+    85
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png"
+}

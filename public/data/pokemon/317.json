@@ -1,0 +1,16 @@
+{
+  "id": 317,
+  "name": "swalot",
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    100,
+    73,
+    83,
+    73,
+    83,
+    55
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png"
+}

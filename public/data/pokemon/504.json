@@ -1,0 +1,16 @@
+{
+  "id": 504,
+  "name": "patrat",
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    45,
+    55,
+    39,
+    35,
+    39,
+    42
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png"
+}

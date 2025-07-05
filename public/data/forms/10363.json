@@ -1,0 +1,36 @@
+{
+  "id": 10363,
+  "name": "calyrex-shadow",
+  "form_name": "shadow",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1261,
+  "form_order": 3,
+  "pokemon": {
+    "name": "calyrex-shadow",
+    "url": "https://pokeapi.co/api/v2/pokemon/10194/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10194.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10194.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10194.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10194.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "psychic",
+        "url": "https://pokeapi.co/api/v2/type/14/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ghost",
+        "url": "https://pokeapi.co/api/v2/type/8/"
+      }
+    }
+  ]
+}

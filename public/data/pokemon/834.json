@@ -1,0 +1,17 @@
+{
+  "id": 834,
+  "name": "drednaw",
+  "types": [
+    "water",
+    "rock"
+  ],
+  "stats": [
+    90,
+    115,
+    90,
+    48,
+    68,
+    74
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png"
+}

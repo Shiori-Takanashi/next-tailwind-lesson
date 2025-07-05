@@ -1,0 +1,36 @@
+{
+  "id": 10443,
+  "name": "ogerpon-hearthflame-mask",
+  "form_name": "hearthflame-mask",
+  "is_default": false,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 1383,
+  "form_order": 3,
+  "pokemon": {
+    "name": "ogerpon-hearthflame-mask",
+    "url": "https://pokeapi.co/api/v2/pokemon/10274/"
+  },
+  "sprites": {
+    "front_default": null,
+    "front_shiny": null,
+    "back_default": null,
+    "back_shiny": null
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass",
+        "url": "https://pokeapi.co/api/v2/type/12/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "fire",
+        "url": "https://pokeapi.co/api/v2/type/10/"
+      }
+    }
+  ]
+}

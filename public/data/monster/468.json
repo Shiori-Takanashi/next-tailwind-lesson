@@ -1,0 +1,17 @@
+{
+  "id": 468,
+  "name": "トゲキッス",
+  "types": [
+    "妖",
+    "飛"
+  ],
+  "stats": [
+    85,
+    50,
+    95,
+    120,
+    115,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png"
+}

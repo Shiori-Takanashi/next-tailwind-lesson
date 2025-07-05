@@ -1,0 +1,17 @@
+{
+  "id": 998,
+  "name": "baxcalibur",
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "stats": [
+    115,
+    145,
+    92,
+    75,
+    86,
+    87
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png"
+}

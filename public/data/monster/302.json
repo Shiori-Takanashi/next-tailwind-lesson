@@ -1,0 +1,17 @@
+{
+  "id": 302,
+  "name": "ヤミラミ",
+  "types": [
+    "悪",
+    "霊"
+  ],
+  "stats": [
+    50,
+    75,
+    75,
+    65,
+    65,
+    50
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+}

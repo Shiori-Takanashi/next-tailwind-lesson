@@ -1,0 +1,16 @@
+{
+  "id": 326,
+  "name": "grumpig",
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    80,
+    45,
+    65,
+    90,
+    110,
+    80
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png"
+}

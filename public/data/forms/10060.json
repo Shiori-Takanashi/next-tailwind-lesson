@@ -1,0 +1,36 @@
+{
+  "id": 10060,
+  "name": "rotom-frost",
+  "form_name": "frost",
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "order": 625,
+  "form_order": 4,
+  "pokemon": {
+    "name": "rotom-frost",
+    "url": "https://pokeapi.co/api/v2/pokemon/10010/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10010.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/479-frost.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/479-frost.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/479-frost.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "https://pokeapi.co/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "ice",
+        "url": "https://pokeapi.co/api/v2/type/15/"
+      }
+    }
+  ]
+}

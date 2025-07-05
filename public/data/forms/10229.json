@@ -1,0 +1,29 @@
+{
+  "id": 10229,
+  "name": "wishiwashi-school",
+  "form_name": "school",
+  "is_default": true,
+  "is_battle_only": true,
+  "is_mega": false,
+  "order": 1044,
+  "form_order": 2,
+  "pokemon": {
+    "name": "wishiwashi-school",
+    "url": "https://pokeapi.co/api/v2/pokemon/10127/"
+  },
+  "sprites": {
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10127.png",
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10127.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10127.png",
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10127.png"
+  },
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "water",
+        "url": "https://pokeapi.co/api/v2/type/11/"
+      }
+    }
+  ]
+}

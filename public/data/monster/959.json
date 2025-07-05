@@ -1,0 +1,17 @@
+{
+  "id": 959,
+  "name": "デカヌチャン",
+  "types": [
+    "妖",
+    "鋼"
+  ],
+  "stats": [
+    85,
+    75,
+    77,
+    70,
+    105,
+    94
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
+}

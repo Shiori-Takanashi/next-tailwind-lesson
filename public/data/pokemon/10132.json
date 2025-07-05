@@ -1,0 +1,17 @@
+{
+  "id": 10132,
+  "name": "minior-green-meteor",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "stats": [
+    60,
+    60,
+    100,
+    60,
+    100,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10132.png"
+}

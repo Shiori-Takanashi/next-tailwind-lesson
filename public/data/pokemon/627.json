@@ -1,0 +1,17 @@
+{
+  "id": 627,
+  "name": "rufflet",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    70,
+    83,
+    50,
+    37,
+    50,
+    60
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png"
+}

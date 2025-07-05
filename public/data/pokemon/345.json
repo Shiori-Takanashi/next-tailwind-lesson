@@ -1,0 +1,17 @@
+{
+  "id": 345,
+  "name": "lileep",
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "stats": [
+    66,
+    41,
+    77,
+    61,
+    87,
+    23
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 422,
+  "name": "shellos",
+  "types": [
+    "water"
+  ],
+  "stats": [
+    76,
+    48,
+    48,
+    57,
+    62,
+    34
+  ],
+  "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+}
