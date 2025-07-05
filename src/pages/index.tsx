@@ -1,57 +1,27 @@
 import Link from "next/link";
 import { NextPageWithLayout } from "./_app";
 import Layout from "../components/Layout";
-import { CSSProperties } from "react";
-
-type Styles = {
-    main: CSSProperties;
-    container: CSSProperties;
-    h1: CSSProperties;
-    listItem: CSSProperties;
-};
-
-const styles: Styles = {
-    main: {
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        minHeight: "100vh",
-        padding: "0 2rem",
-    },
-    container: {
-        maxWidth: "800px",
-        width: "80%",
-        minHeight: "60vh",
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        justifyContent: "center",
-        backgroundColor: "rgb(205, 242, 255)",
-    },
-    h1: {
-        color: "#000000",
-        fontSize: "2.5rem",
-        margin: "2rem 0",
-        fontWeight: 500,
-    },
-    listItem: {
-        marginBottom: "1rem",
-    },
-};
 
 const Home: NextPageWithLayout = () => {
     return (
-        <main style={styles.main}>
-            <div style={styles.container}>
-                <ul>
-                    <li style={styles.listItem}>
-                        <Link href="/monster-random-v3">ランダム表示（version3）</Link>
+        <main className="flex flex-col items-center min-h-screen p-8 bg-gray-50">
+            <div className="max-w-3xl w-full p-8 bg-sky-100 rounded-lg shadow-lg">
+                <h1 className="text-4xl font-semibold text-gray-800 mb-6 text-center">All Pages</h1>
+                <ul className="space-y-4">
+                    <li>
+                        <Link href="/monster-list" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケモン一覧</Link>
                     </li>
-                    <li style={styles.listItem}>
-                        <Link href="/monster-random-v4">ランダム表示（version4）</Link>
+                    <li>
+                        <Link href="/monster-random-v4" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケランダム<br/>（version4）</Link>
                     </li>
-                    <li style={styles.listItem}>
-                        <Link href="/monster-random-vt4">ランダム表示（version4t）</Link>
+                    <li>
+                        <Link href="/monster-random-vt4" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケランダム<br/>（version4-tailwind）</Link>
+                    </li>
+                    <li>
+                        <Link href="/pokemon-stats" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">ポケステータス</Link>
+                    </li>
+                    <li>
+                        <Link href="/jsonViewer" className="text-center block p-4 bg-white rounded shadow hover:bg-sky-200 transition">JSON ビューワー</Link>
                     </li>
                 </ul>
             </div>

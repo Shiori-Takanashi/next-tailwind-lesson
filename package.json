@@ -16,10 +16,13 @@
     "test:ci": "jest --config jest.config.cjs --ci"
   },
   "dependencies": {
+    "@uiw/react-json-view": "^2.0.0-alpha.32",
     "next": "15.3.2",
+    "p-limit": "^6.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
+    "react-json-pretty": "^2.2.0",
     "react-spinners": "^0.17.0",
     "zod": "^3.25.51"
   },
